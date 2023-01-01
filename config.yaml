@@ -1,0 +1,130 @@
+baseURL: "https://istvnurbn.github.io/"
+languageCode: en-us
+title: "istvn.urbn"
+theme: WonderMod
+copyright: '© 2022-2023 István Urbán – [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)'
+timeZone: "Europe/Budapest"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableGitInfo: true
+enableEmoji: true
+enableInlineShortcodes: true
+
+paginate: 5
+paginatePath: "page"
+
+permalinks:
+  posts: "/:year/:month/:title/"
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: "istvn.urbn"
+  description: "Personal & opinionated blog of István Urbán"
+  keywords: [Blog, Geek, Self Hosting, FOSS, Privacy]
+  author: István Urbán
+  DateFormat: "January 2, 2006"
+  defaultTheme: light # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowFullTextinRSS: true
+  disableSpecial1stPost: true
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+
+  label:
+    iconHeight: 30
+    iconSVG: |
+        <svg height="30" viewBox="0 0 36 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+            <g transform="matrix(0.0189552,0,0,0.0189552,-5.59702,-18.2463)">
+                <path d="M590.551,2025.59C427.475,2025.59 295.276,1893.39 295.276,1730.32C295.276,1567.24 427.475,1435.04 590.551,1435.04L590.551,962.598L1889.76,962.598L1889.76,1458.66C2052.84,1458.66 2185.04,1590.86 2185.04,1753.94C2185.04,1917.01 2052.84,2049.21 1889.76,2049.21L1889.76,2545.28L590.551,2545.28L590.551,2025.59ZM1889.76,1606.3C1971.3,1606.3 2037.4,1672.4 2037.4,1753.94C2037.4,1835.48 1971.3,1901.58 1889.76,1901.58L1889.76,1606.3ZM590.551,1582.68C509.013,1582.68 442.913,1648.78 442.913,1730.32C442.913,1811.85 509.013,1877.95 590.551,1877.95L590.551,1582.68ZM1748.03,1104.33L732.283,1104.33L732.283,2403.54L1748.03,2403.54L1748.03,1104.33Z" style="fill:currentColor;"/>
+            </g>
+            <g transform="matrix(0.011728,0,0,0.0157732,5.19478,16.5272)">
+                <rect x="492.442" y="343.18" width="1183.54" height="170.325" style="fill:currentColor;"/>
+            </g>
+            <g transform="matrix(0.0245661,0,0,0.0245661,-11.7131,-25.6039)">
+                <circle cx="1032.72" cy="1370.33" r="109.361" style="fill:currentColor;"/>
+            </g>
+            <g transform="matrix(0.0101229,-0.0101229,0.0111533,0.0111533,2.15759,18.5114)">
+                <rect x="492.442" y="343.18" width="1183.54" height="170.325" style="fill:currentColor;"/>
+            </g>
+            <g transform="matrix(0.0245661,0,0,0.0245661,-3.20561,-17.0965)">
+                <circle cx="1032.72" cy="1370.33" r="109.361" style="fill:currentColor;"/>
+            </g>
+        </svg>
+
+  assets:
+    disableHLJS: true
+    disableFingerprinting: false
+
+  homeInfoParams:
+    Title: "Hi there 👋🏻"
+    Content: Welcome to the blog of István Urbán. Views and typos my own.
+
+  socialIcons:
+    - name: github
+      url: "https://www.github.com/istvnurbn"
+    - name: twitter
+      url: "https://www.twitter.com/istvn_urbn"
+
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  editPost:
+    URL: "https://github.com/istvnurbn/istvnurbn.github.io/blob/main/content"
+    Text: "suggest edit" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "summary"]
+
+#Enabling Search
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
+markup:
+    highlight:
+        style: dracula
+        lineNos: false
+        noClasses: false
+        guessSyntax: true
+
+menu:
+  main:
+    - identifier: posts
+      name: "posts"
+      url: /posts/
+      weight: 10
+    - identifier: tags
+      name: "tags"
+      url: /tags/
+      weight: 20
+    - identifier: about
+      name: "about"
+      url: /about/
+      weight: 30
