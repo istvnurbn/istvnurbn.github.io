@@ -13,7 +13,7 @@ enableGitInfo: true
 enableEmoji: true
 enableInlineShortcodes: true
 
-paginate: 5
+paginate: 7
 paginatePath: "page"
 
 permalinks:
@@ -30,7 +30,7 @@ params:
   keywords: [Blog, Geek, Self Hosting, FOSS, Privacy]
   author: István Urbán
   DateFormat: "January 2, 2006"
-  defaultTheme: light # dark, light
+  defaultTheme: dark # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
