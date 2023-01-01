@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>hardware on istvn.urbn</title>
+    <link>https://istvnurbn.github.io/tags/hardware/</link>
+    <description>Recent content in hardware on istvn.urbn</description>
+    <image>
+      <url>https://istvnurbn.github.io/cover.png</url>
+      <link>https://istvnurbn.github.io/cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2022-2023 István Urbán – [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+    <lastBuildDate>Wed, 06 Apr 2022 09:37:54 +0200</lastBuildDate><atom:link href="https://istvnurbn.github.io/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>system upgrade</title>
+      <link>https://istvnurbn.github.io/2022/04/system-upgrade/</link>
+      <pubDate>Wed, 06 Apr 2022 09:37:54 +0200</pubDate>
+      
+      <guid>https://istvnurbn.github.io/2022/04/system-upgrade/</guid>
+      <description>&lt;h1 id=&#34;prelude-&#34;&gt;prelude 📜&lt;/h1&gt;</description>
+      <content:encoded><![CDATA[<h1 id="prelude-">prelude 📜</h1>
+<p>It was 2015 when I purchased my first Apple machine in form of a MacBook Pro and said farewell to Windows in my private life for good. This platform — macOS — is a good place for me to have a UNIX system. I can play around with the terminal, use as much open-source software as I can, and still have the convenience that the Cupertino company provides.</p>
+<p>Fast forward seven years and the honeymoon with my beloved MacBook Pro is well over. I started to notice that it is slower than it used to be. I wanted to switch to a new machine earlier, but the omission of ports, the presence of the touch bar, and the infamous butterfly keyboard held me back. Meanwhile, Apple started to transition to ARM with their M-series of chips, and with the 2021 MacBook Pro line, they returned to the form that I like.</p>
+<h1 id="the-upgrade-">the upgrade 🚀</h1>
+<p>After waiting nearly four months to see the reaction from the community I decided that it is time for me to upgrade. Speccing it was no easy feat for me, as I like to overthink. Finally, I landed on a 14&quot; MacBook Pro with M1 Pro chip (10 core CPU, 16 core GPU, and 16 GB RAM) with 1TB of storage. Luckily for me, a local retailer run a sale where I was able to purchase the silver one with about a USD 200 discount compared to the Space Grey model.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th style="text-align:center"><strong>MacBook Pro (13-inch Retina Early 2015)</strong></th>
+<th style="text-align:center"><strong>MacBook Pro (14-inch, 2021)</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Model</td>
+<td style="text-align:center"><a href="https://is.gd/nKJHiV">MacBookPro12,1</a></td>
+<td style="text-align:center"><a href="https://is.gd/VKPu8V">MacBookPro18,3</a></td>
+</tr>
+<tr>
+<td>CPU</td>
+<td style="text-align:center">Intel Core i5-5257U</td>
+<td style="text-align:center">Apple M1 Pro (10 core)</td>
+</tr>
+<tr>
+<td>RAM</td>
+<td style="text-align:center">8 GB</td>
+<td style="text-align:center">16 GB</td>
+</tr>
+<tr>
+<td>GPU</td>
+<td style="text-align:center">Intel Iris Graphics 6100</td>
+<td style="text-align:center">Apple M1 Pro (16 core)</td>
+</tr>
+<tr>
+<td>Storage</td>
+<td style="text-align:center">256 GB</td>
+<td style="text-align:center">1 TB</td>
+</tr>
+</tbody>
+</table>
+<h1 id="some-figures-">some figures 📈</h1>
+<p>From the feel of it, this thing is a beast. But I wanted to be <em>objective</em> so I ran 3 tests 5 times — yes, you read it correctly FIVE times — and compared the averaged results.</p>
+<p>The most demanding stuff I do is working with huge files in the Affinity suite of apps. Affinity Photo has a built-in benchmarking tool. They state that the test performance can be translated to real-life workloads and the results are linearly comparable (double the score means twice as fast). I&rsquo;ve omitted the Raster (Multi GPU) and the Combined (Multi GPU) tests, as these machines do not have multiple GPUs.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th style="text-align:center"><strong>Intel MacBook</strong></th>
+<th style="text-align:center"><strong>M1 MacBook</strong></th>
+<th style="text-align:center"><strong>Gain</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Vector (Single CPU)</td>
+<td style="text-align:center">169</td>
+<td style="text-align:center">527</td>
+<td style="text-align:center">+212%</td>
+</tr>
+<tr>
+<td>Vector (Multi CPU)</td>
+<td style="text-align:center">447</td>
+<td style="text-align:center">3 275</td>
+<td style="text-align:center">+633%</td>
+</tr>
+<tr>
+<td>Raster (Multi CPU)</td>
+<td style="text-align:center">120</td>
+<td style="text-align:center">914</td>
+<td style="text-align:center">+661%</td>
+</tr>
+<tr>
+<td>Raster (Single GPU)</td>
+<td style="text-align:center">2 373</td>
+<td style="text-align:center">16 852</td>
+<td style="text-align:center">+610%</td>
+</tr>
+<tr>
+<td>Combined (Multi CPU)</td>
+<td style="text-align:center">144</td>
+<td style="text-align:center">944</td>
+<td style="text-align:center">+555%</td>
+</tr>
+<tr>
+<td>Combined (Single GPU)</td>
+<td style="text-align:center">1 760</td>
+<td style="text-align:center">15 843</td>
+<td style="text-align:center">+800%</td>
+</tr>
+</tbody>
+</table>
+<p>I also help with the distribution of podcasts on YouTube. For that, I use <code>ffmpeg</code> to combine WAV files with PNG files into a video. This is just a simple one-liner that I run in the terminal. Depending on the length of the given episode it can take some time to finish.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th style="text-align:center"><strong>Intel MacBook</strong></th>
+<th style="text-align:center"><strong>M1 MacBook</strong></th>
+<th style="text-align:center"><strong>Gain</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ffmpeg</td>
+<td style="text-align:center">5:36,75</td>
+<td style="text-align:center">1:16,20</td>
+<td style="text-align:center">+342%</td>
+</tr>
+</tbody>
+</table>
+<p>Recently I learned about <a href="https://opendata.blender.org/about/">Blender Open Data</a> so for a synthetic test, it was a good pick. They have a command-line version which made my life easier. I did it for the fun of it but the results are interesting. I might have to learn 3D modeling after this!</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th style="text-align:center"><strong>Intel MacBook</strong></th>
+<th style="text-align:center"><strong>M1 MacBook</strong></th>
+<th style="text-align:center"><strong>Gain</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>monster</td>
+<td style="text-align:center">16,413701</td>
+<td style="text-align:center">98,231952</td>
+<td style="text-align:center">+498%</td>
+</tr>
+<tr>
+<td>junkshop</td>
+<td style="text-align:center">5,568315</td>
+<td style="text-align:center">53,057263</td>
+<td style="text-align:center">+853%</td>
+</tr>
+<tr>
+<td>classroom</td>
+<td style="text-align:center">7,267270</td>
+<td style="text-align:center">41,592097</td>
+<td style="text-align:center">+472%</td>
+</tr>
+</tbody>
+</table>
+<p>As you can see the gains are <strong>insane</strong> and my old Intel-based MacBook Pro was left in the dust.</p>
+<h1 id="conclusion-">conclusion 🔥</h1>
+<p>I&rsquo;m very happy with my purchase so far. The port selection is as good as it gets in 2022, the keyboard feels good, and the screen is phenomenal. I have no complaint about performance. I only have had this laptop since yesterday, so I had no time to test the battery life. I think it is a good investment but we will see whether it has the longevity as my past one.</p>]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

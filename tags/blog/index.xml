@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>blog on istvn.urbn</title>
+    <link>https://istvnurbn.github.io/tags/blog/</link>
+    <description>Recent content in blog on istvn.urbn</description>
+    <image>
+      <url>https://istvnurbn.github.io/cover.png</url>
+      <link>https://istvnurbn.github.io/cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2022-2023 István Urbán – [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+    <lastBuildDate>Sun, 20 Feb 2022 19:59:31 +0100</lastBuildDate><atom:link href="https://istvnurbn.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>init</title>
+      <link>https://istvnurbn.github.io/2022/02/init/</link>
+      <pubDate>Sun, 20 Feb 2022 19:59:31 +0100</pubDate>
+      
+      <guid>https://istvnurbn.github.io/2022/02/init/</guid>
+      <description>&lt;p&gt;In the past – which was like 20 years ago – I had a personal website hosted on UltraWEB&amp;rsquo;s free offering. It was a place where I was able to tinker with stuff learned in Computer Science class and express my thoughts in an unrestricted but still structural way.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>In the past – which was like 20 years ago – I had a personal website hosted on UltraWEB&rsquo;s free offering. It was a place where I was able to tinker with stuff learned in Computer Science class and express my thoughts in an unrestricted but still structural way.</p>
+<p>I decided to start something of a blog again with the following goals:</p>
+<ul>
+<li>enhance my written English while I articulate my thoughts</li>
+<li>keep a log of stuff I do</li>
+<li>provide useful info for likeminded folks</li>
+</ul>
+<p>Since I&rsquo;m still a very curious person, the content will cover a wide variety of topics that interest me. With that said, expect no consistency.</p>
+<p>See you around!</p>]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

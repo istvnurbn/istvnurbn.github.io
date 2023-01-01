@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>backend on istvn.urbn</title>
+    <link>https://istvnurbn.github.io/tags/backend/</link>
+    <description>Recent content in backend on istvn.urbn</description>
+    <image>
+      <url>https://istvnurbn.github.io/cover.png</url>
+      <link>https://istvnurbn.github.io/cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2022-2023 István Urbán – [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+    <lastBuildDate>Tue, 27 Sep 2022 18:20:22 +0200</lastBuildDate><atom:link href="https://istvnurbn.github.io/tags/backend/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>platform of choice</title>
+      <link>https://istvnurbn.github.io/2022/09/platform-of-choice/</link>
+      <pubDate>Tue, 27 Sep 2022 18:20:22 +0200</pubDate>
+      
+      <guid>https://istvnurbn.github.io/2022/09/platform-of-choice/</guid>
+      <description>&lt;p&gt;After deciding to restart blogging, my first task was to look for a simple yet powerful platform.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>After deciding to restart blogging, my first task was to look for a simple yet powerful platform.</p>
+<h1 id="pepperidge-farm-remembers-">pepperidge farm remembers 👴</h1>
+<p>In prehistoric times, I hand-coded my homepage with a text editor. God, the end product looked horrible, and it wasn&rsquo;t fun. So, I switched to a less labor-intensive publishing tool, WordPress. That had the benefits of being customizable and light yet feature-rich enough for my needs.</p>
+<p>Fast forward a decade, and the standard on the internet changed dramatically. The <a href="https://is.gd/spTkFX">median page weight</a> on desktops climbed from 738,3 Kilobytes to 2 291,6 Kilobytes in ten years. Mobile is even worse as the starting median was nearly half of the desktop&rsquo;s figure while the ending is only 200 Kilobytes lower. The main drivers are reliance on CDNs, embedded content, extensive tracking, general asset size, and lack of optimization.</p>
+<p>In short, the web is bloated.</p>
+<h1 id="enter-hugo-">enter hugo 🐭</h1>
+<p>As a minimalist and pragmatic person, I said no to all the nonsense described above. I ended up choosing a &ldquo;static site generator&rdquo; that checks the following boxes for me:</p>
+<ul>
+<li>Simple to use and maintain</li>
+<li>Flexible and customizable</li>
+<li>Modern web ready</li>
+<li>Actively developed</li>
+</ul>
+<p>The final decision was to use Hugo with the PaperMod theme. It does not just meet my expectations but over-delivers in meaningful ways:</p>
+<ul>
+<li>It&rsquo;s an open-source project with a thriving community and frequent updates.</li>
+<li>Currently, the blog is less than 700 Kilobytes in size.</li>
+<li>Rendering and publishing take less than 2 seconds.</li>
+<li>You can use it with the version control system of your choice, as it&rsquo;s a configuration file in YAML, and the content is in Markdown.</li>
+<li>A GitHub repository and a simple GitHub Action make it portable and CI/CD ready.</li>
+<li>I must research to utilize all of its features.</li>
+</ul>
+<p>You might say it is missing essential features like statistics or comments. I&rsquo;m not interested in statistics and will not implement it at the expense of tracking. Turning on comments would make the experience a bit more interactive. However, I&rsquo;m not feeling comfortable with the idea right now, but that might change in the future.</p>
+<h1 id="verdict-">verdict 🔨</h1>
+<p>My recent addition of version tracking and automatic deployment via GitHub Actions required me to learn and tinker around. By optimizing the workflow, I have one less excuse to avoid posting more.</p>
+<p>So, Hugo is the platform for me to move forward.</p>]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

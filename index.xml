@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>istvn.urbn</title>
+    <link>https://istvnurbn.github.io/</link>
+    <description>Recent content on istvn.urbn</description>
+    <image>
+      <url>https://istvnurbn.github.io/cover.png</url>
+      <link>https://istvnurbn.github.io/cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2022-2023 István Urbán – [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+    <lastBuildDate>Tue, 29 Nov 2022 09:29:25 +0100</lastBuildDate><atom:link href="https://istvnurbn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>marginal success</title>
+      <link>https://istvnurbn.github.io/2022/11/marginal-success/</link>
+      <pubDate>Tue, 29 Nov 2022 09:29:25 +0100</pubDate>
+      
+      <guid>https://istvnurbn.github.io/2022/11/marginal-success/</guid>
+      <description>&lt;p&gt;Recently I&amp;rsquo;ve received a notification from my hosting provider that the yearly installment is due for payment on the 20th of December. This fact got me thinking, so here is the deal.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Recently I&rsquo;ve received a notification from my hosting provider that the yearly installment is due for payment on the 20th of December. This fact got me thinking, so here is the deal.</p>
+<p>Honestly, I&rsquo;m not achieving what I intended to do when I started this website. I had vivid dreams about posting at least biweekly and how much it will help me to articulate my thoughts. There were times when I enjoyed writing posts but other times it was quite the opposite. It felt like a burden. There were no KPIs attached to this but still, I am not that satisfied.</p>
+<p>The above described is a common theme with me recently. I do not feel successful or do not feel supported in the things I do. So, I have the following options to go forward:</p>
+<ol>
+<li>Continue to have this site as-is without expectations from myself.</li>
+<li>Change things up and relaunch the site under a new moniker and different tooling. (I came to dislike the Vox Scurra name anyway 😅)</li>
+<li>Write this blog to me in Markdown files without ever publishing them.</li>
+<li>Stop doing all of this.</li>
+</ol>
+<p>I&rsquo;m leaning toward option two. I enjoy tinkering with the underlying system, sometimes more than writing posts. I also think that new things tend to change rapidly in the beginning. This website is no exception either.</p>]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>v60 is the way</title>
+      <link>https://istvnurbn.github.io/2022/10/v60-is-the-way/</link>
+      <pubDate>Wed, 19 Oct 2022 12:40:36 +0200</pubDate>
+      
+      <guid>https://istvnurbn.github.io/2022/10/v60-is-the-way/</guid>
+      <description>&lt;p&gt;More than a month has passed since I&amp;rsquo;ve written about keeping an offline log of the coffees I try, and I might put some of it on this blog. Good news, the first time is now!&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>More than a month has passed since I&rsquo;ve written about keeping an offline log of the coffees I try, and I might put some of it on this blog. Good news, the first time is now!</p>
+<h1 id="meeting-the-parents">meeting the parents</h1>
+<p>On our recent trip to Slovenia, we visited Stow Coffee in Ljubjana by accident. It was a smashing decision as they had Coffea eugenioides on their filter menu. The price was steep at €20, but I let the barista persuade me to try it.</p>
+<p>So what is so special about it?</p>
+<ul>
+<li>Along with Coffea canephora, they are the parents of the beloved Coffea arabica.</li>
+<li>It is considered by some to be an abandoned species.</li>
+<li>It is inherently sweet and boasts a unique set of flavor characteristics.</li>
+</ul>
+<p>It was unassuming at first but had some raw cereal/hay notes. The taste was light and reminded me of porridge with some mild sweetness. The aftertaste was the bomb, as fruity flavors started to dominate that lasted. That lasting flavor part was the one that got me, which is the measure of quality.</p>
+<p>I discussed this experience with the owner of Szeged&rsquo;s iconic Kék Elefánt café, who remarked that the hay note might either be a species-specific thing or a sign of lighter than ideal roast. If you have the chance, try it but do not prepare yourself for an earth-shattering experience.</p>
+<h1 id="the-proper-method">the proper method</h1>
+<p>Speaking of the café in Szeged, I had a delightful cup of Peruvian coffee there. I had to ask them what method are they using to prepare the filter drinks and what coffee are they using. After purchasing one bag of beans, I decided to pull my V60 out of the depths of the cupboard. Using it is more involved than the Aeropress, considering you are like me, who follows James Hoffman&rsquo;s ultimate guide.</p>
+<p>At first, I was not getting the same flavor profile as I did in the café. That baffled me, so I stepped over my laziness and started tweaking the grind size on my Porlex. After 3-4 tries, I got what I wanted. I also tested it with different coffees that were available at home, and I have to say I&rsquo;ve cracked it for myself.</p>
+<p>These two episodes made me realize a few things. You must push yourself to experiment with different methods and dare to set that grinder finer/coarser in larger increments. Fiddling with the V60 reconnected me with the coffee preparation process, so I decided to put the Aeropress into the travel kit for now.</p>]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>platform of choice</title>
+      <link>https://istvnurbn.github.io/2022/09/platform-of-choice/</link>
+      <pubDate>Tue, 27 Sep 2022 18:20:22 +0200</pubDate>
+      
+      <guid>https://istvnurbn.github.io/2022/09/platform-of-choice/</guid>
+      <description>&lt;p&gt;After deciding to restart blogging, my first task was to look for a simple yet powerful platform.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>After deciding to restart blogging, my first task was to look for a simple yet powerful platform.</p>
+<h1 id="pepperidge-farm-remembers-">pepperidge farm remembers 👴</h1>
+<p>In prehistoric times, I hand-coded my homepage with a text editor. God, the end product looked horrible, and it wasn&rsquo;t fun. So, I switched to a less labor-intensive publishing tool, WordPress. That had the benefits of being customizable and light yet feature-rich enough for my needs.</p>
+<p>Fast forward a decade, and the standard on the internet changed dramatically. The <a href="https://is.gd/spTkFX">median page weight</a> on desktops climbed from 738,3 Kilobytes to 2 291,6 Kilobytes in ten years. Mobile is even worse as the starting median was nearly half of the desktop&rsquo;s figure while the ending is only 200 Kilobytes lower. The main drivers are reliance on CDNs, embedded content, extensive tracking, general asset size, and lack of optimization.</p>
+<p>In short, the web is bloated.</p>
+<h1 id="enter-hugo-">enter hugo 🐭</h1>
+<p>As a minimalist and pragmatic person, I said no to all the nonsense described above. I ended up choosing a &ldquo;static site generator&rdquo; that checks the following boxes for me:</p>
+<ul>
+<li>Simple to use and maintain</li>
+<li>Flexible and customizable</li>
+<li>Modern web ready</li>
+<li>Actively developed</li>
+</ul>
+<p>The final decision was to use Hugo with the PaperMod theme. It does not just meet my expectations but over-delivers in meaningful ways:</p>
+<ul>
+<li>It&rsquo;s an open-source project with a thriving community and frequent updates.</li>
+<li>Currently, the blog is less than 700 Kilobytes in size.</li>
+<li>Rendering and publishing take less than 2 seconds.</li>
+<li>You can use it with the version control system of your choice, as it&rsquo;s a configuration file in YAML, and the content is in Markdown.</li>
+<li>A GitHub repository and a simple GitHub Action make it portable and CI/CD ready.</li>
+<li>I must research to utilize all of its features.</li>
+</ul>
+<p>You might say it is missing essential features like statistics or comments. I&rsquo;m not interested in statistics and will not implement it at the expense of tracking. Turning on comments would make the experience a bit more interactive. However, I&rsquo;m not feeling comfortable with the idea right now, but that might change in the future.</p>
+<h1 id="verdict-">verdict 🔨</h1>
+<p>My recent addition of version tracking and automatic deployment via GitHub Actions required me to learn and tinker around. By optimizing the workflow, I have one less excuse to avoid posting more.</p>
+<p>So, Hugo is the platform for me to move forward.</p>]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>kotty</title>
+      <link>https://istvnurbn.github.io/2022/09/kotty/</link>
+      <pubDate>Mon, 19 Sep 2022 08:01:01 +0200</pubDate>
+      
+      <guid>https://istvnurbn.github.io/2022/09/kotty/</guid>
+      <description>&lt;p&gt;I visit local cafés at least two times a month and usually purchase beans from Hungarian micro roasteries. I was mostly interested in filter roasts but recently I&amp;rsquo;ve stumbled upon a blend specifically for the Moka pot in unusual packaging.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>I visit local cafés at least two times a month and usually purchase beans from Hungarian micro roasteries. I was mostly interested in filter roasts but recently I&rsquo;ve stumbled upon a blend specifically for the Moka pot in unusual packaging.</p>
+<p><img loading="lazy" src="/images/posts/002.jpg" alt="KOTTY blend in its can packaging."  title="KOTTY blend in its can packaging."  />
+</p>
+<p>After a while, I decided to give it a try and purchased one <em>can</em>. As far as I know, Lucky Cap Roastery is the first one from Hungary that has a plantation in Lourdes, Costa Rica. Coffee coming from that place goes under the &ldquo;Bányai&rdquo; branding and the above-mentioned one is no exception.</p>
+<p>They have very specific instructions on how to prepare it, even down to the filtered water that you should use. I already prepare drinks in the Moka pot in a very specific way so this was no surprise, but it brought a smile to my face nonetheless.</p>
+<p>To be honest, I&rsquo;m always skeptical about pre-ground coffee, but this was one of my top five drinks made with that method. They promise a spicy dark chocolate taste with subtle dried plum undertones. I definitely felt the first but the fruitiness was absent. This is most probably due to the fact, that my taste perception is far from ideal and I do not really go above and beyond on taste profiling.</p>
+<p>Anyway, this endeavor triggered something in me to be more conscious about the whole coffee experience and it is better to articulate my thoughts than to keep them to myself. That was one of the reasons I decided to start blogging again. In light of the above, I repurposed my Moleskine notebook into a diary where I will keep a log of the coffees I taste and my opinion on them. Some of that might end up here as well.</p>
+<hr>
+<dl>
+<dt>kotty</dt>
+<dd>Short for <em>kotyogós</em>, the Hungarian nickname of the Moka pot.</dd>
+</dl>]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>system upgrade</title>
+      <link>https://istvnurbn.github.io/2022/04/system-upgrade/</link>
+      <pubDate>Wed, 06 Apr 2022 09:37:54 +0200</pubDate>
+      
+      <guid>https://istvnurbn.github.io/2022/04/system-upgrade/</guid>
+      <description>&lt;h1 id=&#34;prelude-&#34;&gt;prelude 📜&lt;/h1&gt;</description>
+      <content:encoded><![CDATA[<h1 id="prelude-">prelude 📜</h1>
+<p>It was 2015 when I purchased my first Apple machine in form of a MacBook Pro and said farewell to Windows in my private life for good. This platform — macOS — is a good place for me to have a UNIX system. I can play around with the terminal, use as much open-source software as I can, and still have the convenience that the Cupertino company provides.</p>
+<p>Fast forward seven years and the honeymoon with my beloved MacBook Pro is well over. I started to notice that it is slower than it used to be. I wanted to switch to a new machine earlier, but the omission of ports, the presence of the touch bar, and the infamous butterfly keyboard held me back. Meanwhile, Apple started to transition to ARM with their M-series of chips, and with the 2021 MacBook Pro line, they returned to the form that I like.</p>
+<h1 id="the-upgrade-">the upgrade 🚀</h1>
+<p>After waiting nearly four months to see the reaction from the community I decided that it is time for me to upgrade. Speccing it was no easy feat for me, as I like to overthink. Finally, I landed on a 14&quot; MacBook Pro with M1 Pro chip (10 core CPU, 16 core GPU, and 16 GB RAM) with 1TB of storage. Luckily for me, a local retailer run a sale where I was able to purchase the silver one with about a USD 200 discount compared to the Space Grey model.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th style="text-align:center"><strong>MacBook Pro (13-inch Retina Early 2015)</strong></th>
+<th style="text-align:center"><strong>MacBook Pro (14-inch, 2021)</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Model</td>
+<td style="text-align:center"><a href="https://is.gd/nKJHiV">MacBookPro12,1</a></td>
+<td style="text-align:center"><a href="https://is.gd/VKPu8V">MacBookPro18,3</a></td>
+</tr>
+<tr>
+<td>CPU</td>
+<td style="text-align:center">Intel Core i5-5257U</td>
+<td style="text-align:center">Apple M1 Pro (10 core)</td>
+</tr>
+<tr>
+<td>RAM</td>
+<td style="text-align:center">8 GB</td>
+<td style="text-align:center">16 GB</td>
+</tr>
+<tr>
+<td>GPU</td>
+<td style="text-align:center">Intel Iris Graphics 6100</td>
+<td style="text-align:center">Apple M1 Pro (16 core)</td>
+</tr>
+<tr>
+<td>Storage</td>
+<td style="text-align:center">256 GB</td>
+<td style="text-align:center">1 TB</td>
+</tr>
+</tbody>
+</table>
+<h1 id="some-figures-">some figures 📈</h1>
+<p>From the feel of it, this thing is a beast. But I wanted to be <em>objective</em> so I ran 3 tests 5 times — yes, you read it correctly FIVE times — and compared the averaged results.</p>
+<p>The most demanding stuff I do is working with huge files in the Affinity suite of apps. Affinity Photo has a built-in benchmarking tool. They state that the test performance can be translated to real-life workloads and the results are linearly comparable (double the score means twice as fast). I&rsquo;ve omitted the Raster (Multi GPU) and the Combined (Multi GPU) tests, as these machines do not have multiple GPUs.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th style="text-align:center"><strong>Intel MacBook</strong></th>
+<th style="text-align:center"><strong>M1 MacBook</strong></th>
+<th style="text-align:center"><strong>Gain</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Vector (Single CPU)</td>
+<td style="text-align:center">169</td>
+<td style="text-align:center">527</td>
+<td style="text-align:center">+212%</td>
+</tr>
+<tr>
+<td>Vector (Multi CPU)</td>
+<td style="text-align:center">447</td>
+<td style="text-align:center">3 275</td>
+<td style="text-align:center">+633%</td>
+</tr>
+<tr>
+<td>Raster (Multi CPU)</td>
+<td style="text-align:center">120</td>
+<td style="text-align:center">914</td>
+<td style="text-align:center">+661%</td>
+</tr>
+<tr>
+<td>Raster (Single GPU)</td>
+<td style="text-align:center">2 373</td>
+<td style="text-align:center">16 852</td>
+<td style="text-align:center">+610%</td>
+</tr>
+<tr>
+<td>Combined (Multi CPU)</td>
+<td style="text-align:center">144</td>
+<td style="text-align:center">944</td>
+<td style="text-align:center">+555%</td>
+</tr>
+<tr>
+<td>Combined (Single GPU)</td>
+<td style="text-align:center">1 760</td>
+<td style="text-align:center">15 843</td>
+<td style="text-align:center">+800%</td>
+</tr>
+</tbody>
+</table>
+<p>I also help with the distribution of podcasts on YouTube. For that, I use <code>ffmpeg</code> to combine WAV files with PNG files into a video. This is just a simple one-liner that I run in the terminal. Depending on the length of the given episode it can take some time to finish.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th style="text-align:center"><strong>Intel MacBook</strong></th>
+<th style="text-align:center"><strong>M1 MacBook</strong></th>
+<th style="text-align:center"><strong>Gain</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ffmpeg</td>
+<td style="text-align:center">5:36,75</td>
+<td style="text-align:center">1:16,20</td>
+<td style="text-align:center">+342%</td>
+</tr>
+</tbody>
+</table>
+<p>Recently I learned about <a href="https://opendata.blender.org/about/">Blender Open Data</a> so for a synthetic test, it was a good pick. They have a command-line version which made my life easier. I did it for the fun of it but the results are interesting. I might have to learn 3D modeling after this!</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th style="text-align:center"><strong>Intel MacBook</strong></th>
+<th style="text-align:center"><strong>M1 MacBook</strong></th>
+<th style="text-align:center"><strong>Gain</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>monster</td>
+<td style="text-align:center">16,413701</td>
+<td style="text-align:center">98,231952</td>
+<td style="text-align:center">+498%</td>
+</tr>
+<tr>
+<td>junkshop</td>
+<td style="text-align:center">5,568315</td>
+<td style="text-align:center">53,057263</td>
+<td style="text-align:center">+853%</td>
+</tr>
+<tr>
+<td>classroom</td>
+<td style="text-align:center">7,267270</td>
+<td style="text-align:center">41,592097</td>
+<td style="text-align:center">+472%</td>
+</tr>
+</tbody>
+</table>
+<p>As you can see the gains are <strong>insane</strong> and my old Intel-based MacBook Pro was left in the dust.</p>
+<h1 id="conclusion-">conclusion 🔥</h1>
+<p>I&rsquo;m very happy with my purchase so far. The port selection is as good as it gets in 2022, the keyboard feels good, and the screen is phenomenal. I have no complaint about performance. I only have had this laptop since yesterday, so I had no time to test the battery life. I think it is a good investment but we will see whether it has the longevity as my past one.</p>]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>init</title>
+      <link>https://istvnurbn.github.io/2022/02/init/</link>
+      <pubDate>Sun, 20 Feb 2022 19:59:31 +0100</pubDate>
+      
+      <guid>https://istvnurbn.github.io/2022/02/init/</guid>
+      <description>&lt;p&gt;In the past – which was like 20 years ago – I had a personal website hosted on UltraWEB&amp;rsquo;s free offering. It was a place where I was able to tinker with stuff learned in Computer Science class and express my thoughts in an unrestricted but still structural way.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>In the past – which was like 20 years ago – I had a personal website hosted on UltraWEB&rsquo;s free offering. It was a place where I was able to tinker with stuff learned in Computer Science class and express my thoughts in an unrestricted but still structural way.</p>
+<p>I decided to start something of a blog again with the following goals:</p>
+<ul>
+<li>enhance my written English while I articulate my thoughts</li>
+<li>keep a log of stuff I do</li>
+<li>provide useful info for likeminded folks</li>
+</ul>
+<p>Since I&rsquo;m still a very curious person, the content will cover a wide variety of topics that interest me. With that said, expect no consistency.</p>
+<p>See you around!</p>]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://istvnurbn.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://istvnurbn.github.io/about/</guid>
+      <description>congratulations! 🎉 You&amp;rsquo;ve stumbled upon the personal &amp;amp; opinionated blog of István Urbán.
+I&amp;rsquo;m a thirty-something guy from Hungary with a wide variety of interests that range from crafting mixed drinks to self-hosting. In between, I routinely do strength training, explore new places, and participate in MilSim activities. I&amp;rsquo;m an economist by trade who deals with corporate taxes, transfer pricing, and statutory accounting.
+So, this is my place where I keep a log of things that interest me or what am I up to.</description>
+      <content:encoded><![CDATA[<h1 id="congratulations-">congratulations! 🎉</h1>
+<p>You&rsquo;ve stumbled upon the personal &amp; opinionated blog of István Urbán.</p>
+<p>I&rsquo;m a thirty-something guy from Hungary with a wide variety of interests that range from crafting mixed drinks to self-hosting. In between, I routinely do strength training, explore new places, and participate in MilSim activities. I&rsquo;m an economist by trade who deals with corporate taxes, transfer pricing, and statutory accounting.</p>
+<p>So, this is my place where I keep a log of things that interest me or what am I up to. Apart from the matters described above, I&rsquo;m open to learning about new things to widen my perspective.</p>
+<p>Feel free to reach out!</p>
+<hr>
+<p>💡 <em>This website used to be available under the project name of &ldquo;voxscurra.net&rdquo;. Later on I decided to move to GitHub Pages.</em></p>
+]]></content:encoded>
+    </item>
+    
+    
+    
+  </channel>
+</rss>

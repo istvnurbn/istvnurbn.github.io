@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>personal on istvn.urbn</title>
+    <link>https://istvnurbn.github.io/tags/personal/</link>
+    <description>Recent content in personal on istvn.urbn</description>
+    <image>
+      <url>https://istvnurbn.github.io/cover.png</url>
+      <link>https://istvnurbn.github.io/cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2022-2023 István Urbán – [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+    <lastBuildDate>Tue, 29 Nov 2022 09:29:25 +0100</lastBuildDate><atom:link href="https://istvnurbn.github.io/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>marginal success</title>
+      <link>https://istvnurbn.github.io/2022/11/marginal-success/</link>
+      <pubDate>Tue, 29 Nov 2022 09:29:25 +0100</pubDate>
+      
+      <guid>https://istvnurbn.github.io/2022/11/marginal-success/</guid>
+      <description>&lt;p&gt;Recently I&amp;rsquo;ve received a notification from my hosting provider that the yearly installment is due for payment on the 20th of December. This fact got me thinking, so here is the deal.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Recently I&rsquo;ve received a notification from my hosting provider that the yearly installment is due for payment on the 20th of December. This fact got me thinking, so here is the deal.</p>
+<p>Honestly, I&rsquo;m not achieving what I intended to do when I started this website. I had vivid dreams about posting at least biweekly and how much it will help me to articulate my thoughts. There were times when I enjoyed writing posts but other times it was quite the opposite. It felt like a burden. There were no KPIs attached to this but still, I am not that satisfied.</p>
+<p>The above described is a common theme with me recently. I do not feel successful or do not feel supported in the things I do. So, I have the following options to go forward:</p>
+<ol>
+<li>Continue to have this site as-is without expectations from myself.</li>
+<li>Change things up and relaunch the site under a new moniker and different tooling. (I came to dislike the Vox Scurra name anyway 😅)</li>
+<li>Write this blog to me in Markdown files without ever publishing them.</li>
+<li>Stop doing all of this.</li>
+</ol>
+<p>I&rsquo;m leaning toward option two. I enjoy tinkering with the underlying system, sometimes more than writing posts. I also think that new things tend to change rapidly in the beginning. This website is no exception either.</p>]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
