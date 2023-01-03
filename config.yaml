@@ -80,7 +80,7 @@ params:
 
   homeInfoParams:
     Title: "Hi there 👋🏻"
-    Content: Welcome to the blog of István Urbán. Views and typos my own.
+    Content: Welcome to the personal blog of István Urbán. Views and typos my own.
 
   socialIcons:
     - name: twitter
