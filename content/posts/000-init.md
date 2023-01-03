@@ -20,6 +20,6 @@ I decided to start something of a blog again with the following goals:
 - keep a log of stuff I do
 - provide useful info for likeminded folks
 
-Since I'm still a very curious person, the content will cover a wide variety of topics that interest me. With that said, expect no consistency.
+Since I'm still a very curious person, the content will cover a wide variety of topics that interest me. Expect no consistency.
 
 See you around!
