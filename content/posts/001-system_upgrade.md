@@ -59,7 +59,7 @@ Recently I learned about [Blender Open Data](https://opendata.blender.org/about/
 | junkshop  |          5,568315 |      53,057263 |    +853% |
 | classroom |          7,267270 |      41,592097 |    +472% |
 
-As you can see the gains are **insane** and my old Intel-based MacBook Pro was left in the dust.
+The gains are **insane** and my old Intel-based MacBook Pro was left in the dust.
 
 # conclusion :fire:
 
