@@ -12,9 +12,19 @@
     <language>en-us</language>
     <copyright>© 2022-2023 István Urbán – [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright><atom:link href="https://istvnurbn.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>blog</title>
+      <link>https://istvnurbn.github.io/tags/blog/</link>
+      <pubDate>Tue, 03 Jan 2023 17:42:59 +0100</pubDate>
+      
+      <guid>https://istvnurbn.github.io/tags/blog/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
       <title>personal</title>
       <link>https://istvnurbn.github.io/tags/personal/</link>
-      <pubDate>Tue, 29 Nov 2022 09:29:25 +0100</pubDate>
+      <pubDate>Tue, 03 Jan 2023 17:42:59 +0100</pubDate>
       
       <guid>https://istvnurbn.github.io/tags/personal/</guid>
       <description></description>
@@ -47,16 +57,6 @@
       <pubDate>Wed, 06 Apr 2022 09:37:54 +0200</pubDate>
       
       <guid>https://istvnurbn.github.io/tags/hardware/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>blog</title>
-      <link>https://istvnurbn.github.io/tags/blog/</link>
-      <pubDate>Sun, 20 Feb 2022 19:59:31 +0100</pubDate>
-      
-      <guid>https://istvnurbn.github.io/tags/blog/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
