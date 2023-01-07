@@ -13,6 +13,8 @@ cover:
 
 *This page is a near verbatim copy of my [LinkedIn](https://www.linkedin.com/in/istvanurban/) profile. Alternatively, you can [download](/files/istvan_urban_cv.pdf) it as a fancy PDF file.*
 
+<!--more-->
+
 ## Summary
 
 I'm a seasoned corporate income tax professional with an established track record in nearly every part of the tax cycle (calculation, accounting, reporting, compliance, and prior year adjustment). I have a firm accounting background and dipped my toes in transfer pricing and statutory finances.
