@@ -44,6 +44,7 @@ params:
   comments: false
   hidemeta: false
   hideSummary: false
+  TocSide: 'right' # or 'left'
   showtoc: false
 
   label:
