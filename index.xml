@@ -311,16 +311,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://istvnurbn.github.io/about/</guid>
-      <description>congratulations! 🎉 You&amp;rsquo;ve stumbled upon the personal &amp;amp; opinionated blog of István Urbán.
-I&amp;rsquo;m a thirty-something guy from Hungary with a wide variety of interests that range from crafting mixed drinks to self-hosting. In between, I routinely do strength training, explore new places, and participate in MilSim activities. I&amp;rsquo;m an economist by trade who deals with corporate taxes, transfer pricing, and statutory accounting. You can check out my résumé if you are so inclined.</description>
+      <description>&lt;h2 id=&#34;congratulations-&#34;&gt;congratulations! 🎉&lt;/h2&gt;
+&lt;p&gt;You&amp;rsquo;ve stumbled upon the personal &amp;amp; opinionated blog of István Urbán.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<h2 id="congratulations-">congratulations! 🎉</h2>
 <p>You&rsquo;ve stumbled upon the personal &amp; opinionated blog of István Urbán.</p>
 <p>I&rsquo;m a thirty-something guy from Hungary with a wide variety of interests that range from crafting mixed drinks to self-hosting. In between, I routinely do strength training, explore new places, and participate in MilSim activities. I&rsquo;m an economist by trade who deals with corporate taxes, transfer pricing, and statutory accounting. You can check out my <em><a href="/cv/">résumé</a></em> if you are so inclined.</p>
 <p>So, this is my place where I keep a log of things that interest me or what am I up to. Apart from the matters described above, I&rsquo;m open to learning about new things to widen my perspective.</p>
 <p>Feel free to reach out!</p>
 <hr>
-<p>💡 <em>This blog was available under the &ldquo;Vox Scurra&rdquo; pseudonym. Later on I decided to abandon that alias and publish under my name.</em></p>
-]]></content:encoded>
+<p>💡 <em>This blog was available under the &ldquo;Vox Scurra&rdquo; pseudonym. Later on I decided to abandon that alias and publish under my name.</em></p>]]></content:encoded>
     </item>
     
     
@@ -330,9 +329,7 @@ I&amp;rsquo;m a thirty-something guy from Hungary with a wide variety of interes
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://istvnurbn.github.io/cv/</guid>
-      <description>This page is a near verbatim copy of my LinkedIn profile. Alternatively, you can download it as a fancy PDF file.
-Summary I&amp;rsquo;m a seasoned corporate income tax professional with an established track record in nearly every part of the tax cycle (calculation, accounting, reporting, compliance, and prior year adjustment). I have a firm accounting background and dipped my toes in transfer pricing and statutory finances.
-Work Experience Statutory &amp;amp; Direct Tax Senior Syngenta • Feb 2021 – Present</description>
+      <description>&lt;p&gt;&lt;em&gt;This page is a near verbatim copy of my &lt;a href=&#34;https://www.linkedin.com/in/istvanurban/&#34;&gt;LinkedIn&lt;/a&gt; profile. Alternatively, you can &lt;a href=&#34;https://istvnurbn.github.io/files/istvan_urban_cv.pdf&#34;&gt;download&lt;/a&gt; it as a fancy PDF file.&lt;/em&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p><em>This page is a near verbatim copy of my <a href="https://www.linkedin.com/in/istvanurban/">LinkedIn</a> profile. Alternatively, you can <a href="/files/istvan_urban_cv.pdf">download</a> it as a fancy PDF file.</em></p>
 <h2 id="summary">Summary</h2>
 <p>I&rsquo;m a seasoned corporate income tax professional with an established track record in nearly every part of the tax cycle (calculation, accounting, reporting, compliance, and prior year adjustment). I have a firm accounting background and dipped my toes in transfer pricing and statutory finances.</p>
@@ -469,8 +466,7 @@ Alphatax</li>
 <li>Decent skills with Microsoft Office family of programs</li>
 <li>Familiar with macOS, Microsoft Windows, and GNU/Linux environments</li>
 <li>Driving licence for category B vehicle</li>
-</ul>
-]]></content:encoded>
+</ul>]]></content:encoded>
     </item>
     
     
