@@ -1,7 +1,7 @@
 ---
 title: "cv"
 draft: false
-hidemeta: true
+ShowReadingTime: false
 ShowPostNavLinks: false
 showtoc: true
 cover:

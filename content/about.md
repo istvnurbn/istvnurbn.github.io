@@ -1,7 +1,7 @@
 ---
 title: "about"
 draft: false
-hidemeta: true
+ShowReadingTime: false
 ShowPostNavLinks: false
 ---
 
