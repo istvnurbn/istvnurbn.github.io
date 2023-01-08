@@ -30,7 +30,7 @@ params:
   keywords: [Blog, Geek, Self Hosting, FOSS, Privacy]
   author: István Urbán
   DateFormat: "January 2, 2006"
-  defaultTheme: dark # dark, light
+  defaultTheme: light # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
