@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://istvnurbn.github.io/</loc>
+    <lastmod>2023-01-13T19:46:36+01:00</lastmod>
+  </url><url>
+    <loc>https://istvnurbn.github.io/tags/project/</loc>
+    <lastmod>2023-01-13T19:46:36+01:00</lastmod>
+  </url><url>
+    <loc>https://istvnurbn.github.io/2023/01/quarter-of-debloat/</loc>
+    <lastmod>2023-01-13T19:46:36+01:00</lastmod>
+  </url><url>
     <loc>https://istvnurbn.github.io/2023/01/after-the-snap/</loc>
     <lastmod>2023-01-03T17:57:55+01:00</lastmod>
   </url><url>
     <loc>https://istvnurbn.github.io/tags/blog/</loc>
-    <lastmod>2023-01-06T18:09:02+01:00</lastmod>
-  </url><url>
-    <loc>https://istvnurbn.github.io/</loc>
     <lastmod>2023-01-06T18:09:02+01:00</lastmod>
   </url><url>
     <loc>https://istvnurbn.github.io/tags/personal/</loc>
