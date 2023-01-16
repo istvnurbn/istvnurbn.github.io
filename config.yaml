@@ -84,8 +84,8 @@ params:
     Content: Welcome to the personal blog of István Urbán. Views and typos my own.
 
   socialIcons:
-    - name: twitter
-      url: "https://www.twitter.com/istvn_urbn"
+    - name: mastodon
+      url: "https://mastodon.social/@istvnurbn"
     - name: github
       url: "https://www.github.com/istvnurbn"
   
