@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>backend on istvn.urbn</title>
-    <link>https://istvnurbn.github.io/tags/backend/</link>
+    <link>https://istvnurbn.me/tags/backend/</link>
     <description>Recent content in backend on istvn.urbn</description>
     <image>
-      <url>https://istvnurbn.github.io/cover.png</url>
-      <link>https://istvnurbn.github.io/cover.png</link>
+      <url>https://istvnurbn.me/cover.png</url>
+      <link>https://istvnurbn.me/cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2022-2023 István Urbán – [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
-    <lastBuildDate>Tue, 27 Sep 2022 18:20:22 +0200</lastBuildDate><atom:link href="https://istvnurbn.github.io/tags/backend/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2022-{year} István Urbán – [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+    <lastBuildDate>Tue, 27 Sep 2022 18:20:22 +0200</lastBuildDate><atom:link href="https://istvnurbn.me/tags/backend/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>platform of choice</title>
-      <link>https://istvnurbn.github.io/2022/09/platform-of-choice/</link>
+      <link>https://istvnurbn.me/2022/09/platform-of-choice/</link>
       <pubDate>Tue, 27 Sep 2022 18:20:22 +0200</pubDate>
       
-      <guid>https://istvnurbn.github.io/2022/09/platform-of-choice/</guid>
+      <guid>https://istvnurbn.me/2022/09/platform-of-choice/</guid>
       <description>&lt;p&gt;After deciding to restart blogging, my first task was to look for a simple yet powerful platform.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>After deciding to restart blogging, my first task was to look for a simple yet powerful platform.</p>
 <h1 id="pepperidge-farm-remembers-">pepperidge farm remembers 👴</h1>

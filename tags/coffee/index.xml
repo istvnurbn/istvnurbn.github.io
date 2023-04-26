@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>coffee on istvn.urbn</title>
-    <link>https://istvnurbn.github.io/tags/coffee/</link>
+    <link>https://istvnurbn.me/tags/coffee/</link>
     <description>Recent content in coffee on istvn.urbn</description>
     <image>
-      <url>https://istvnurbn.github.io/cover.png</url>
-      <link>https://istvnurbn.github.io/cover.png</link>
+      <url>https://istvnurbn.me/cover.png</url>
+      <link>https://istvnurbn.me/cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2022-2023 István Urbán – [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
-    <lastBuildDate>Wed, 19 Oct 2022 12:40:36 +0200</lastBuildDate><atom:link href="https://istvnurbn.github.io/tags/coffee/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2022-{year} István Urbán – [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+    <lastBuildDate>Wed, 19 Oct 2022 12:40:36 +0200</lastBuildDate><atom:link href="https://istvnurbn.me/tags/coffee/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>v60 is the way</title>
-      <link>https://istvnurbn.github.io/2022/10/v60-is-the-way/</link>
+      <link>https://istvnurbn.me/2022/10/v60-is-the-way/</link>
       <pubDate>Wed, 19 Oct 2022 12:40:36 +0200</pubDate>
       
-      <guid>https://istvnurbn.github.io/2022/10/v60-is-the-way/</guid>
+      <guid>https://istvnurbn.me/2022/10/v60-is-the-way/</guid>
       <description>&lt;p&gt;More than a month has passed since I&amp;rsquo;ve written about keeping an offline log of the coffees I try, and I might put some of it on this blog. Good news, the first time is now!&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>More than a month has passed since I&rsquo;ve written about keeping an offline log of the coffees I try, and I might put some of it on this blog. Good news, the first time is now!</p>
 <h1 id="meeting-the-parents">meeting the parents</h1>
@@ -38,10 +38,10 @@
     
     <item>
       <title>kotty</title>
-      <link>https://istvnurbn.github.io/2022/09/kotty/</link>
+      <link>https://istvnurbn.me/2022/09/kotty/</link>
       <pubDate>Mon, 19 Sep 2022 08:01:01 +0200</pubDate>
       
-      <guid>https://istvnurbn.github.io/2022/09/kotty/</guid>
+      <guid>https://istvnurbn.me/2022/09/kotty/</guid>
       <description>&lt;p&gt;I visit local cafés at least two times a month and usually purchase beans from Hungarian micro roasteries. I was mostly interested in filter roasts but recently I&amp;rsquo;ve stumbled upon a blend specifically for the Moka pot in unusual packaging.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>I visit local cafés at least two times a month and usually purchase beans from Hungarian micro roasteries. I was mostly interested in filter roasts but recently I&rsquo;ve stumbled upon a blend specifically for the Moka pot in unusual packaging.</p>
 <p><img loading="lazy" src="/images/posts/002.jpg" alt="KOTTY blend in its can packaging."  title="KOTTY blend in its can packaging."  />

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>hardware on istvn.urbn</title>
-    <link>https://istvnurbn.github.io/tags/hardware/</link>
+    <link>https://istvnurbn.me/tags/hardware/</link>
     <description>Recent content in hardware on istvn.urbn</description>
     <image>
-      <url>https://istvnurbn.github.io/cover.png</url>
-      <link>https://istvnurbn.github.io/cover.png</link>
+      <url>https://istvnurbn.me/cover.png</url>
+      <link>https://istvnurbn.me/cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2022-2023 István Urbán – [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
-    <lastBuildDate>Wed, 06 Apr 2022 09:37:54 +0200</lastBuildDate><atom:link href="https://istvnurbn.github.io/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2022-{year} István Urbán – [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+    <lastBuildDate>Wed, 06 Apr 2022 09:37:54 +0200</lastBuildDate><atom:link href="https://istvnurbn.me/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>system upgrade</title>
-      <link>https://istvnurbn.github.io/2022/04/system-upgrade/</link>
+      <link>https://istvnurbn.me/2022/04/system-upgrade/</link>
       <pubDate>Wed, 06 Apr 2022 09:37:54 +0200</pubDate>
       
-      <guid>https://istvnurbn.github.io/2022/04/system-upgrade/</guid>
+      <guid>https://istvnurbn.me/2022/04/system-upgrade/</guid>
       <description>&lt;h1 id=&#34;prelude-&#34;&gt;prelude 📜&lt;/h1&gt;</description>
       <content:encoded><![CDATA[<h1 id="prelude-">prelude 📜</h1>
 <p>It was 2015 when I purchased my first Apple machine in form of a MacBook Pro and said farewell to Windows in my private life for good. This platform — macOS — is a good place for me to have a UNIX system. I can play around with the terminal, use as much open-source software as I can, and still have the convenience that the Cupertino company provides.</p>
