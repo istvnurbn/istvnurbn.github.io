@@ -4,8 +4,8 @@ date: 2023-05-12T08:41:39+02:00
 tags: ["coffee"]
 cover:
   image: "/images/cover/009.jpg"
-  caption: "Caption for the image above."
-  alt: "Alt text for the image above."
+  caption: "Having coffee on my balcony."
+  alt: "Having coffee on my balcony."
   hidden: true
 ---
 
