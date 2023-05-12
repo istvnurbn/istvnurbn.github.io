@@ -14,7 +14,7 @@ I visit local cafés at least two times a month and usually purchase beans from 
 
 <!--more-->
 
-![KOTTY blend in its can packaging.](/images/posts/002.jpg "KOTTY blend in its can packaging.")
+![KOTTY blend in its can packaging.](/images/posts/002/001.jpg "KOTTY blend in its can packaging.")
  
 After a while, I decided to give it a try and purchased one *can*. As far as I know, Lucky Cap Roastery is the first one from Hungary that has a plantation in Lourdes, Costa Rica. Coffee coming from that place goes under the "Bányai" branding and the above-mentioned one is no exception.
  
