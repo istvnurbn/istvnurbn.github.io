@@ -86,6 +86,8 @@ params:
   socialIcons:
     - name: mastodon
       url: "https://mastodon.social/@istvnurbn"
+    - name: pixelfed
+      url: "https://pixelfed.social/istvn.urbn"
     - name: github
       url: "https://www.github.com/istvnurbn"
   
