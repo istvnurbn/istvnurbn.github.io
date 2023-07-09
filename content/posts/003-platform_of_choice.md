@@ -4,9 +4,9 @@ date: 2022-09-27T18:20:22+02:00
 draft: false
 tags: ["backend"]
 cover:
-  image: "/images/cover/003.png"
-  caption: "GoHugo.io's logo."
-  alt: "GoHugo.io's logo."
+  image: "/images/cover/003.jpg"
+  caption: "Part of this site's config."
+  alt: "Part of this site's config."
   hidden: true
 ---
 
