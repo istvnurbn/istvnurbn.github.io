@@ -4,7 +4,7 @@ date: 2022-04-06T09:37:54+02:00
 draft: false
 tags: ["hardware"]
 cover:
-  image: "/images/cover/001.png"
+  image: "/images/cover/001.jpg"
   caption: "M1 chip design originally by John Siracusa."
   alt: "M1 chip design originally by John Siracusa."
   hidden: true
