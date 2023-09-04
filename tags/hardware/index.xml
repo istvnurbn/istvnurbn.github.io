@@ -21,10 +21,10 @@
       <guid>https://istvnurbn.me/2022/04/system-upgrade/</guid>
       <description>&lt;h1 id=&#34;prelude-&#34;&gt;prelude 📜&lt;/h1&gt;</description>
       <content:encoded><![CDATA[<h1 id="prelude-">prelude 📜</h1>
-<p>It was 2015 when I purchased my first Apple machine in form of a MacBook Pro and said farewell to Windows in my private life for good. This platform — macOS — is a good place for me to have a UNIX system. I can play around with the terminal, use as much open-source software as I can, and still have the convenience that the Cupertino company provides.</p>
-<p>Fast forward seven years and the honeymoon with my beloved MacBook Pro is well over. I started to notice that it is slower than it used to be. I wanted to switch to a new machine earlier, but the omission of ports, the presence of the touch bar, and the infamous butterfly keyboard held me back. Meanwhile, Apple started to transition to ARM with their M-series of chips, and with the 2021 MacBook Pro line, they returned to the form that I like.</p>
+<p>It was 2015 when I bought my first Apple machine in the form of a MacBook Pro and said goodbye to Windows in my personal life forever. This platform - macOS - is a good place for me to have a UNIX system. I can play around with the terminal, use as much open source software as I can, and still have the convenience that Cupertino provides.</p>
+<p>Fast forward seven years, and the honeymoon with my beloved MacBook Pro is well over. I began to notice that it was slower than it used to be. I wanted to upgrade sooner, but the loss of ports, the presence of the touch bar, and the infamous butterfly keyboard held me back. Meanwhile, Apple started moving to ARM with their M-series of chips, and with the 2021 MacBook Pro line, they have returned to the form that I like.</p>
 <h1 id="the-upgrade-">the upgrade 🚀</h1>
-<p>After waiting nearly four months to see the reaction from the community I decided that it is time for me to upgrade. Speccing it was no easy feat for me, as I like to overthink. Finally, I landed on a 14&quot; MacBook Pro with M1 Pro chip (10 core CPU, 16 core GPU, and 16 GB RAM) with 1TB of storage. Luckily for me, a local retailer run a sale where I was able to purchase the silver one with about a USD 200 discount compared to the Space Grey model.</p>
+<p>After waiting almost four months to see the reaction from the community, I decided it was time for me to upgrade. Specifying was not easy for me as I like to overthink. In the end, I settled on a 14-inch MacBook Pro with an M1 Pro chip (10-core CPU, 16-core GPU, and 16GB RAM) with 1TB of storage. Luckily, a local retailer was having a sale and I was able to get the silver one for about $200 less than the space gray model.</p>
 <table>
 <thead>
 <tr>
@@ -62,8 +62,8 @@
 </tbody>
 </table>
 <h1 id="some-figures-">some figures 📈</h1>
-<p>From the feel of it, this thing is a beast. But I wanted to be <em>objective</em> so I ran 3 tests 5 times — yes, you read it correctly FIVE times — and compared the averaged results.</p>
-<p>The most demanding stuff I do is working with huge files in the Affinity suite of apps. Affinity Photo has a built-in benchmarking tool. They state that the test performance can be translated to real-life workloads and the results are linearly comparable (double the score means twice as fast). I&rsquo;ve omitted the Raster (Multi GPU) and the Combined (Multi GPU) tests, as these machines do not have multiple GPUs.</p>
+<p>From the feel of it, this thing is a beast. But I wanted to be <em>objective</em>, so I ran 3 tests 5 times - yes, you read that correctly, FIVE times - and compared the averaged results.</p>
+<p>The most demanding thing I do is work with large files in the Affinity suite of applications. Affinity Photo has a built-in benchmarking tool. They claim that the test performance can be translated to real-world workloads and that the results are linearly comparable (double the score means twice as fast). I&rsquo;ve omitted the Raster (multi-GPU) and Combined (multi-GPU) tests because these machines don&rsquo;t have multiple GPUs.</p>
 <table>
 <thead>
 <tr>
@@ -112,7 +112,7 @@
 </tr>
 </tbody>
 </table>
-<p>I also help with the distribution of podcasts on YouTube. For that, I use <code>ffmpeg</code> to combine WAV files with PNG files into a video. This is just a simple one-liner that I run in the terminal. Depending on the length of the given episode it can take some time to finish.</p>
+<p>I also help distribute podcasts on YouTube. I use <code>ffmpeg</code> to combine WAV files with PNG files into one video. This is just a simple one-liner that I run in the terminal. Depending on the length of the episode, it may take some time to finish.</p>
 <table>
 <thead>
 <tr>
@@ -131,7 +131,7 @@
 </tr>
 </tbody>
 </table>
-<p>Recently I learned about <a href="https://opendata.blender.org/about/">Blender Open Data</a> so for a synthetic test, it was a good pick. They have a command-line version which made my life easier. I did it for the fun of it but the results are interesting. I might have to learn 3D modeling after this!</p>
+<p>I recently learned about <a href="https://opendata.blender.org/about/">Blender Open Data</a>, so it was a good choice for a synthetic test. They have a command line version which made my life easier. I did it for fun, but the results are interesting. I may have to learn 3D modeling after this!</p>
 <table>
 <thead>
 <tr>
@@ -162,9 +162,9 @@
 </tr>
 </tbody>
 </table>
-<p>The gains are <strong>insane</strong> and my old Intel-based MacBook Pro was left in the dust.</p>
+<p>The gains are <strong>insane</strong> and my old Intel based MacBook Pro has been left in the dust.</p>
 <h1 id="conclusion-">conclusion 🔥</h1>
-<p>I&rsquo;m very happy with my purchase so far. The port selection is as good as it gets in 2022, the keyboard feels good, and the screen is phenomenal. I have no complaint about performance. I only have had this laptop since yesterday, so I had no time to test the battery life. I think it is a good investment but we will see whether it has the longevity as my past one.</p>]]></content:encoded>
+<p>I&rsquo;m very happy with my purchase so far. The port selection is as good as it gets in 2022, the keyboard feels good, and the screen is phenomenal. I have no complaints about the performance. I have only had this laptop since yesterday, so I have not had time to test the battery life. I think it is a good investment, but we will see if it has the longevity of my previous one.</p>]]></content:encoded>
     </item>
     
   </channel>
