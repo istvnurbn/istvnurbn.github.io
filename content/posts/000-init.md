@@ -5,21 +5,21 @@ draft: false
 tags: ["blog"]
 cover:
   image: "/images/cover/000.jpg"
-  caption: "Version 7 Unix for the PDP-11, running in the SIMH PDP-11 simulator. The contents of '/etc', which contains configuration files, binary executables, and more."
-  alt: "Version 7 Unix for the PDP-11, running in the SIMH PDP-11 simulator. The contents of '/etc', which contains configuration files, binary executables, and more."
+  caption: "Version 7 of Unix for the PDP-11, running on the SIMH PDP-11 simulator. The contents of '/etc', which includes configuration files, binary executables, and more."
+  alt: "Version 7 of Unix for the PDP-11, running on the SIMH PDP-11 simulator. The contents of '/etc', which includes configuration files, binary executables, and more."
   hidden: true
 ---
 
-In the past – which was like 20 years ago – I had a personal website hosted on UltraWEB's free offering. It was a place where I was able to tinker with stuff learned in Computer Science class and express my thoughts in an unrestricted but still structural way.
+In the past – about 20 years ago – I had a personal website hosted on UltraWEB's free service. It was a place where I  could tinker with things I learned in computer science class and express my thoughts in an unrestricted, yet structured way.
 
 <!--more-->
 
-I decided to start something of a blog again with the following goals:
+I decided to start something like a blog again with the following goals:
 
-- enhance my written English while I articulate my thoughts
-- keep a log of stuff I do
-- provide useful info for likeminded folks
+- Improve my written English while I articulating my thoughts,
+- keep a log of the things I do,
+- provide useful information for like-minded people
 
-Since I'm still a very curious person, the content will cover a wide variety of topics that interest me. Expect no consistency.
+Since I'm still a very curious person, the content will cover a wide variety of topics that interest me. Do not expect consistency.
 
 See you around!

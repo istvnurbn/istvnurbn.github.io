@@ -5,8 +5,8 @@ draft: false
 tags: ["hardware"]
 cover:
   image: "/images/cover/001.jpg"
-  caption: "M1 chip design originally by John Siracusa."
-  alt: "M1 chip design originally by John Siracusa."
+  caption: "M1 chip designed originally by John Siracusa."
+  alt: "M1 chip designed originally by John Siracusa."
   hidden: true
 ---
 
@@ -14,13 +14,13 @@ cover:
 
 <!--more-->
 
-It was 2015 when I purchased my first Apple machine in form of a MacBook Pro and said farewell to Windows in my private life for good. This platform — macOS — is a good place for me to have a UNIX system. I can play around with the terminal, use as much open-source software as I can, and still have the convenience that the Cupertino company provides.
+It was 2015 when I bought my first Apple machine in the form of a MacBook Pro and said goodbye to Windows in my personal life forever. This platform - macOS - is a good place for me to have a UNIX system. I can play around with the terminal, use as much open source software as I can, and still have the convenience that Cupertino provides.
 
-Fast forward seven years and the honeymoon with my beloved MacBook Pro is well over. I started to notice that it is slower than it used to be. I wanted to switch to a new machine earlier, but the omission of ports, the presence of the touch bar, and the infamous butterfly keyboard held me back. Meanwhile, Apple started to transition to ARM with their M-series of chips, and with the 2021 MacBook Pro line, they returned to the form that I like.
+Fast forward seven years, and the honeymoon with my beloved MacBook Pro is well over. I began to notice that it was slower than it used to be. I wanted to upgrade sooner, but the loss of ports, the presence of the touch bar, and the infamous butterfly keyboard held me back. Meanwhile, Apple started moving to ARM with their M-series of chips, and with the 2021 MacBook Pro line, they have returned to the form that I like.
 
 # the upgrade :rocket:
 
-After waiting nearly four months to see the reaction from the community I decided that it is time for me to upgrade. Speccing it was no easy feat for me, as I like to overthink. Finally, I landed on a 14" MacBook Pro with M1 Pro chip (10 core CPU, 16 core GPU, and 16 GB RAM) with 1TB of storage. Luckily for me, a local retailer run a sale where I was able to purchase the silver one with about a USD 200 discount compared to the Space Grey model.
+After waiting almost four months to see the reaction from the community, I decided it was time for me to upgrade. Specifying was not easy for me as I like to overthink. In the end, I settled on a 14-inch MacBook Pro with an M1 Pro chip (10-core CPU, 16-core GPU, and 16GB RAM) with 1TB of storage. Luckily, a local retailer was having a sale and I was able to get the silver one for about $200 less than the space gray model.
 
 |         | **MacBook Pro (13-inch Retina Early 2015)** |    **MacBook Pro (14-inch, 2021)**     |
 |---------|:-------------------------------------------:|:--------------------------------------:|
@@ -32,9 +32,9 @@ After waiting nearly four months to see the reaction from the community I decide
 
 # some figures :chart_with_upwards_trend:
 
-From the feel of it, this thing is a beast. But I wanted to be *objective* so I ran 3 tests 5 times — yes, you read it correctly FIVE times — and compared the averaged results.
+From the feel of it, this thing is a beast. But I wanted to be *objective*, so I ran 3 tests 5 times - yes, you read that correctly, FIVE times - and compared the averaged results.
 
-The most demanding stuff I do is working with huge files in the Affinity suite of apps. Affinity Photo has a built-in benchmarking tool. They state that the test performance can be translated to real-life workloads and the results are linearly comparable (double the score means twice as fast). I've omitted the Raster (Multi GPU) and the Combined (Multi GPU) tests, as these machines do not have multiple GPUs.
+The most demanding thing I do is work with large files in the Affinity suite of applications. Affinity Photo has a built-in benchmarking tool. They claim that the test performance can be translated to real-world workloads and that the results are linearly comparable (double the score means twice as fast). I've omitted the Raster (multi-GPU) and Combined (multi-GPU) tests because these machines don't have multiple GPUs.
 
 |                       | **Intel MacBook** | **M1 MacBook** | **Gain** |
 |-----------------------|:-----------------:|:--------------:|:--------:|
@@ -45,13 +45,13 @@ The most demanding stuff I do is working with huge files in the Affinity suite o
 | Combined (Multi CPU)  |               144 |            944 |    +555% |
 | Combined (Single GPU) |             1 760 |         15 843 |    +800% |
 
-I also help with the distribution of podcasts on YouTube. For that, I use `ffmpeg` to combine WAV files with PNG files into a video. This is just a simple one-liner that I run in the terminal. Depending on the length of the given episode it can take some time to finish.
+I also help distribute podcasts on YouTube. I use `ffmpeg` to combine WAV files with PNG files into one video. This is just a simple one-liner that I run in the terminal. Depending on the length of the episode, it may take some time to finish.
 
 |        | **Intel MacBook** | **M1 MacBook** | **Gain** |
 |--------|:-----------------:|:--------------:|:--------:|
 | ffmpeg |           5:36,75 |        1:16,20 |    +342% |
 
-Recently I learned about [Blender Open Data](https://opendata.blender.org/about/) so for a synthetic test, it was a good pick. They have a command-line version which made my life easier. I did it for the fun of it but the results are interesting. I might have to learn 3D modeling after this!
+I recently learned about [Blender Open Data](https://opendata.blender.org/about/), so it was a good choice for a synthetic test. They have a command line version which made my life easier. I did it for fun, but the results are interesting. I may have to learn 3D modeling after this!
 
 |           | **Intel MacBook** | **M1 MacBook** | **Gain** |
 |-----------|:-----------------:|:--------------:|:--------:|
@@ -59,8 +59,8 @@ Recently I learned about [Blender Open Data](https://opendata.blender.org/about/
 | junkshop  |          5,568315 |      53,057263 |    +853% |
 | classroom |          7,267270 |      41,592097 |    +472% |
 
-The gains are **insane** and my old Intel-based MacBook Pro was left in the dust.
+The gains are **insane** and my old Intel based MacBook Pro has been left in the dust.
 
 # conclusion :fire:
 
-I'm very happy with my purchase so far. The port selection is as good as it gets in 2022, the keyboard feels good, and the screen is phenomenal. I have no complaint about performance. I only have had this laptop since yesterday, so I had no time to test the battery life. I think it is a good investment but we will see whether it has the longevity as my past one.
+I'm very happy with my purchase so far. The port selection is as good as it gets in 2022, the keyboard feels good, and the screen is phenomenal. I have no complaints about the performance. I have only had this laptop since yesterday, so I have not had time to test the battery life. I think it is a good investment, but we will see if it has the longevity of my previous one.

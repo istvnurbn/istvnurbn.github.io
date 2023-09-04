@@ -10,30 +10,30 @@ cover:
   hidden: true
 ---
 
-A month has passed since my last post, and conveniently enough we slipped into 2023. With the new year new me approach, I can have a fresh start with some reservations. I think that is bullshit, but I'm in better shape mentally to change things up.
+A month has passed since my last post and we have conveniently slipped into 2023. With the New Year New Me approaching, I can make a fresh start with some reservations. I think it's bullshit, but I'm in better mental shape to change things.
 
 <!--more-->
  
 # blogging :newspaper:
  
-I came across an [article](https://www.theverge.com/23513418/bring-back-personal-blogging) on The Verge, that nudged me in the direction to continue this blog. I'm not 100% aligned with all the points made by the author, but it resonates with me. I'm very far from all the Twitter craze that happens right now, so I'm not on the lookout for shelter. However, I'm carving my space out on the web that can be my creation.
+I came across an [article](https://www.theverge.com/23513418/bring-back-personal-blogging) on The Verge that nudged me in the direction of continuing this blog. I don't agree 100% with everything the author says, but it resonates with me. I'm very far away from all the Twitter craziness that's going on right now, so I'm not looking for shelter. However, I'm carving out my space on the web that can be my creation.
  
 # self-care :pill:
  
-As I stated in my previous post, I feel that I'm a bit stuck. I think it is changing for the better, as my employer gave me positive feedback. We even talked about an opportunity to move forward professionally. So, there is a path ahead.
+As I mentioned in my previous post, I'm feeling a bit stuck. I think things are changing for the better as my employer gave me positive feedback. We even talked about an opportunity to move forward professionally. So there is a way forward.
  
-I'm a religious user of YNAB, but lately, I've been using it as an expense tracker rather than a budgeting tool. This also means that I'm not conscious of my finances. So, the projects on that front are replacing YNAB with a self-hosted solution, utilizing the Interactive Brokers' account that I have to accumulate some savings, considering the pension-related incentive offered by my employer, and setting up budgeting goals to keep myself in check. I think that can be achieved in the 1st quarter.
+I'm a devoted user of YNAB, but lately I've been using it more as an expense tracker than a budgeting tool. That also means I'm not aware of my finances. So the projects on that front are to replace YNAB with a self-hosted solution, use the Interactive Brokers account I have to accumulate some savings, consider the retirement incentive offered by my employer, and set budgeting goals to keep myself in check. I think this can be accomplished in the 1st quarter.
  
-Reading was a huge part of my daily routine. In the past two years, I neglected it. Around the 4th quarter of 2022, I picked up my Kindle again and started to read every morning before work. That helped me to go through my backlog of saved articles. I strive to read more, so I have to take time out from other activities.
+Reading has been a big part of my daily routine. I neglected it for the last two years. Around Q4 2022, I picked up my Kindle again and started reading every morning before work. This helped me go through my backlog of saved articles. I want to read more, so I have to take time out from other activities.
  
-That activity will be social media use as it is less fun than ever. Also, the privacy invasion that all the major platforms do is very offputting. I was an avid user of Facebook and Instagram, but I became more and more skeptical about them. To preserve my sanity, I explicitly keep myself away from the TikToks and BeReals of the world. I also started to follow privacy-focused advocates and some of their points flipped something in me. Maybe, that topic deserves a post of its own.
+That activity will be using social media, as it is less fun than ever. Also, the invasion of privacy that all the major platforms are doing is very off-putting. I was an avid user of Facebook and Instagram, but I have become increasingly skeptical of them. To maintain my sanity, I explicitly stay away from the TikToks and BeReals of the world. I also started to follow privacy advocates, and some of their arguments really turned me on. Maybe this topic deserves its own post.
  
-In the past decade, I was very focused on being physically fit. The changes I implemented in my diet towards the end of 2022 started to push me to the form I strived for. However, I still have to improve on some fronts. I have to seek professional help, which needs some courage.
+For the past decade, I have been very focused on being physically fit. The changes I made to my diet towards the end of 2022 started to bring me into the shape I was looking for. However, I still need to improve on several fronts. I need to seek professional help, which will take some courage.
  
-All the above implies that this year will be about clearing stuff out, reinforcing the foundations, focusing on things that matter, and embracing change that can make me better. What I have now feels like an acceptable start, but there is always room for improvement.
+AAll of the above means that this year will be about clearing things out, strengthening the foundation, focusing on things that matter, and embracing change that can make me better. What I have now feels like an acceptable start, but there is always room for improvement.
  
 # technical stuff :wrench:
  
-It is evident now, that I like tinkering around with the blog's framework more than actually writing posts. I canceled my web hosting contract when I realized that I can host this site on GitHub Pages. After changing the theme and making minor touch-ups on the posts, I cut ties with the Vox Scurra moniker for good. It feels better to post all of these under my name rather than a pseudonym.
+It turns out that I enjoy tinkering with the framework of the blog more than actually writing posts. I canceled my web hosting contract when I realized I could host this site on GitHub Pages. After changing the theme and making minor tweaks to the posts, I finally gave up on the Vox Scurra moniker. It feels better to post all this under my name than under a pseudonym.
  
-The only thing left to do is secure a domain with my name and continue the lost art of blogging.
+All that remains is to secure a domain in my name and continue the lost art of blogging.
