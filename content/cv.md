@@ -11,113 +11,119 @@ cover:
   hidden: true
 ---
 
-*This page is a near verbatim copy of my [LinkedIn](https://www.linkedin.com/in/istvanurban/) profile. Alternatively, you can [download](/files/istvan_urban_cv.pdf) it as a fancy PDF file.*
+*This page is an almost exact copy of my [LinkedIn](https://www.linkedin.com/in/istvanurban/) profile. Alternatively, you can [download my resume](/files/istvan_urban_cv.pdf) as a PDF file.*
 
 <!--more-->
 
 ## Summary
 
-I'm a seasoned corporate income tax professional with an established track record in nearly every part of the tax cycle (calculation, accounting, reporting, compliance, and prior year adjustment). I have a firm accounting background and dipped my toes in transfer pricing and statutory finances.
+I'm a seasoned corporate tax professional with a proven track record in nearly every part of the tax cycle (calculation, accounting, reporting, compliance, and prior-year adjustments). I have a strong accounting background and have dipped my toes in transfer pricing and statutory finance.
 
 ## Work Experience
-### Statutory & Direct Tax Senior
 
-**Syngenta** • Feb 2021 – Present
+### A2R Statutory and Tax Project Lead
 
-My responsibilities cover the below areas related to Syngnenta’s Iberia portfolio’s statutory and corporate tax matters:
+**Syngenta** • July 2023 – Present
+
+I lead projects related to statutory accounting, reporting, and tax processes in the EMEA region, where I am responsible for:
+
+* Support the implementation of new business models, mergers and integrations while adhering to applicable corporate frameworks.
+* Actively seek process improvements and implement corrective actions in consultation with the EAME A2R Head.
+* Ensure automation is prioritized when building business cases to decide if investment in new A2R Statutory and Tax solutions is required.
+* Leverage technology to drive efficient and effective processes and support the team in digital transformation, process improvement and automation.
+* Foster collaboration with other regions to share best practices and drive effective end-to-end finance operations activities.
+
+### Statutory & Direct Tax Senior Accountant
+
+**Syngenta** • February 2021 – June 2023
+
+My responsibilities covered the following areas related to Syngenta's Iberia portfolio's statutory and corporate tax matters:
 
 * Lead and ensure that statutory/tax financial statements are prepared for all entities.
-* Ensure Group Transfer Pricing framework is implemented and followed with country-specific regulations
-feedback to Group Reporting/Group Tax teams.
-* Assure that the statutory changes are reflected in Group Reporting.
-* Facilitate external audits and coordinate 3rd party financial service providers.
-* Continuously monitor emerging internal and external risks and address regulatory changes.
+* Ensure the Group Transfer Pricing framework is implemented and followed, providing country-specific regulations feedback to Group Reporting/Group Tax teams.
+* Ensure that the statutory changes are reflected in Group Reporting.
+* Facilitate external audits and coordinate third-party financial service providers.
+* Continuously monitor internal and external risks that may arise and address any regulatory changes.
 
 ### Netherlands Direct Tax and Reporting Junior Manager
 
-**Diageo** • Jan 2020 – Jan 2021
+**Diageo** • January 2020 – January 2021
 
-In this role, my responsibilities covered the following areas related to Diageo’s Dutch portfolio’s corporate tax matters:
+n this role, I was responsible for the following areas in relation to the corporate tax matters of Diageo's Dutch portfolio:
 
-* Preparation of corporate income tax compliance work including fiscal unities.
-* Corporate income tax calculation and tax note preparation for the statutory financial statements.
+* Preparation of corporate tax compliance work, including fiscal unions.
+* Calculation of corporate income tax and preparation of tax notes for the statutory financial statements.
 * Monthly cash tax review and ETR forecast.
-* Arranging tax payments and changes in the preliminary assessment.
-* Monitoring the overall tax position.
-* Giving input for the annual operating plan’s tax part.
+* Arrangement of tax payments and changes in the provisional assessment.
+* Monitor overall tax position.
+* Providing input for the tax portion of the annual operating plan.
 * Group reporting during periodic closing activities.
-* Prepare the prior year adjustment related documentation and calculation for all entities.
-* Update the FDs on tax-related matters.
-* Support in ad-hoc corporate tax-related inquiries.
+* Prepare documentation and calculations related to prior year adjustments for all entities.
+* Updating the FDs on tax-related matters.
+* Assist with ad hoc corporate tax-related inquiries.
 
 ### Statutory Compliance Supervisor – Corporate Tax
 
-**Diageo** • Feb 2018 – Dec 2019
+**Diageo** • February 2018 – December 2019
 
-This position gave me a broader look at the corporate income tax-related compliance work, such as:
+This position gave me a broader view of corporate tax compliance work, such as:
 
-* Professional review of tax compliance-related materials (CIT calculations, returns, supporting analytics, etc.) prepared by seniors in the team.
-* Preparation of the Dutch portfolio’s CIT compliance work.
-* Being responsible for the allocated entities’ complete CIT compliance process.
-* Review of post-year-end/pre-year-end Transfer Price margin check files; communication of deadlines and
-tasks to Markets.
-* Review of the PYA and P10 related materials prepared by seniors.
-* Support the tax manager: team and activity allocation; scope expansion projects (organising and holding KTs
-with Markets and tax advisors, documentation and ensuring a seamless task transition); ensure that all task
-note files are up to date and professionally accurate; involvement in recruitment.
-* Support in various compliance-related inquiries (Payment request review, GL reconciliation review).
+* Professional review of tax compliance-related materials (CIT calculations, returns, supporting analysis, etc.) prepared by senior members of the team.
+* Prepare CIT compliance work for the Dutch portfolio.
+* Responsibility for the entire CIT compliance process of the assigned companies.
+* Review post-year-end/pre-year-end transfer pricing margin check files; communicate deadlines and tasks to markets.
+* Review PYA and P10-related materials prepared by seniors.
+* Support the Tax Manager: team and activity allocation; scope expansion projects (organizing and conducting KTs with Markets and tax advisors, documenting and ensuring a seamless transition of tasks); ensuring that all task note files are up to date and technically accurate; assisting with hiring.
+* Assist with various compliance-related requests (payment request review, GL reconciliation review).
 
 ### Direct Tax Accountant
 
-**AIG** • May 2016 – Dec 2017
+**AIG** • May 2016 – December 2017
 
-As an EMEA Tax Team member located in the Budapest Accounting Center I was involved in:
+As a member of the EMEA Tax team based in the Budapest Accounting Center, I was involved in:
 
-* Supporting the quarterly US GAAP reporting and IFRS tax reporting process, including preparing tax provisions, reconciling accounts to tax provision reports, and assisting with the preparation of SOX documentation.
-* Assisting the Finance Center with their daily tax activities (technical questions, tax opportunities, compliance, deferred tax, transfer pricing, tax basis balance sheet, tax calculations).
-* Acting as an intermediary between local finance and regional tax teams.
+* Supporting the quarterly US GAAP and IFRS tax reporting process, including preparing tax provisions, reconciling accounts to tax provision reports, and assisting in the preparation of SOX documentation.
+* Supporting the Finance Center in its day-to-day tax activities (technical issues, tax opportunities, compliance, deferred taxes, transfer pricing, tax balance sheet, and tax calculations).
+* Act as a liaison between local finance and regional tax teams.
 
 **Achievements:**
 
-* Successfully transferred all the accounting centre-related tax activities and knowledge to India.
+* Successfully transferred all Finance Center-related tax activities and knowledge to India.
 
 ### Senior Tax / Forex / Pension Analyst
 
-**ExxonMobil** • Sep 2014 – May 2016
+**ExxonMobil** • September 2014 – May 2016
 
-In this role I worked with affiliates from the EMEA region and was responsible for:
+In this role, I worked with subsidiaries in the EMEA region and was responsible for:
 
-* Executing the Month-, Quarter- and Year-end close processes.
-* Calculating Current and Deferred Income Tax provisions as per FAS 109.
-* Calculating Net Periodic Pension Costs as per FAS 87 and Pension Liability Adjustments as per FAS 158.
-* Reconciliation of Effective Tax Rates to Statutory Tax Rates.
-* Analysing Current / Non-Current Deferred Tax balance movements.
-* Verification of Foreign Exchange revaluation processes in SAP – including analysis of fluctuations.
+* Executing the month-end, quarter-end, and year-end closing processes.
+* Calculating current and deferred income tax provisions in accordance with FAS 109.
+* Calculation of net periodic pension cost under FAS 87 and pension liability adjustments under FAS 158.
+* Reconciliation of effective tax rates to statutory tax rates.
+* Analyze movements in current and noncurrent deferred tax balances.
+* Review of foreign exchange revaluation processes in SAP - including analysis of fluctuations.
 
 **Achievements:**
 
-* Introduced the idea of a Wikipedia-like intranet site that contained all EMEA tax-related knowledge, desk manuals, country/reporting unit specifics, and onboarding training. I also helped in the initial data fill and site creation on SharePoint.
-* Taken part in the smooth dissolution of a Norwegian retail-oriented entity.
+* Introduced the idea of a Wikipedia-like intranet site containing all EMEA tax-related knowledge, desk manuals, country/reporting unit specifics, and onboarding training. I also helped with the initial data entry and creation of the site on SharePoint.
+* Participated in the smooth dissolution of a Norwegian retail-oriented entity.
 
 ### Accountant
 
-**Budapest University of Technology and Economics** • Jan 2013 – Sep 2014
+**Budapest University of Technology and Economics** • January 2013 – September 2014
 
-As a member of the Accounting Group my duties included:
+As a member of the accounting group, my responsibilities included:
 
-* Issuing foreign currency invoices according to sales contracts at an institutional level.
-* Working in a team to prepare the balance sheet and income statement as well as other periodic and ad-hoc
-reports.
-* Posting general ledger entries of service fees between business units and ones required by my other tasks
-* Checking and returning supplier and customer account statements.
-* Making sure business units are aware of any unresolved/unmatched incomes, unsettled invoices, and their VAT
-implications.
+* Issuing foreign currency invoices in accordance with sales contracts on an institutional level.
+* Working as part of a team to prepare the balance sheet, income statement, and other periodic and ad hoc reports.
+* Posting general ledger entries of service charges between business units and those required by my other responsibilities.
+* Review and return vendor and customer statements.
+* Ensure business units are aware of any unresolved/unaligned revenue, outstanding invoices, and their VAT implications.
 
 **Achievements:**
 
-* Semi-automated the service fee booking process with the help of the system integrator.
-* Streamlined the identification of unresolved/unmatched incomes as well as the preparation of the Intrastat
-report for the Hungarian Central Statistical Office.
+* Semi-automated the service charge posting process with the help of the system integrator.
+* Streamlined the identification of unresolved/unmatched income and the preparation of the Intrastat report to the Hungarian Central Statistical Office
 
 ## Education
 
@@ -135,24 +141,29 @@ College of Szolnok (Now: John von Neumann University – Faculty of Economy) (20
 
 ## Languages
 
-|           |                                                                    |
-|-----------|--------------------------------------------------------------------|
-| **Hungarian** | native speaker                                                     |
-| **English**   | fluent                                                             |
-| **German**    | intermediate level, which needs a refresh (not used for 10+ years) |
+|               |                                                                  |
+|---------------|------------------------------------------------------------------|
+| **Hungarian** | native speaker                                                   |
+| **English**   | fluent                                                           |
+| **German**    | intermediate level that needs a refresh (not used for 10+ years) |
 
 ## Personal Competencies
 
 * Adapts easily to challenges and is open to new ways of doing things
-* Looks for feedback to improve understanding
-* Able to perform tasks effectively with minimum help
-* Has a practical idea of what can be achieved
+* Seek feedback to improve understanding
+* Able to perform tasks effectively with minimal assistance
+* Has a practical vision of what can be accomplished
 
 ## Technical Competencies
 
-* Experience with various ERP systems: SAP R/3, Infor SunSystems, and Oracle Applications
-* Can use Thomson Reuters OneSource Tax Provisioning, Dataflow, and Corporate Tax; TCSL Alphatag and
-Alphatax
-* Decent skills with Microsoft Office family of programs
-* Familiar with macOS, Microsoft Windows, and GNU/Linux environments
-* Driving licence for category B vehicle
+* Experience with multiple ERP systems: SAP R/3, Infor SunSystems, and Oracle Applications
+* Ability to use Thomson Reuters OneSource Tax Provisioning, Dataflow, and Corporate Tax; TCSL Alphatag and Alphatax
+* Proficient in the Microsoft Office family of programs
+* Familiarity with MacOS, Microsoft Windows, and GNU/Linux environments
+* Class B driver's license
+
+## Free Time Activities
+
+* Spending as much time as possible with friends and family
+* Competitive powerlifting (former MAFC athlete), CrossFit
+* Traveling
