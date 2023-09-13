@@ -2,7 +2,7 @@
 title: "after the snap"
 date: 2023-01-03T17:42:59+01:00
 draft: false
-tags: ["personal", "blog"]
+tags: ["blog", "personal"]
 cover:
   image: "/images/cover/006.jpg"
   caption: "Photo by Kreative Kwame on Unsplash."
@@ -16,7 +16,7 @@ A month has passed since my last post and we have conveniently slipped into 2023
  
 # blogging :newspaper:
  
-I came across an [article](https://www.theverge.com/23513418/bring-back-personal-blogging) on The Verge that nudged me in the direction of continuing this blog. I don't agree 100% with everything the author says, but it resonates with me. I'm very far away from all the Twitter craziness that's going on right now, so I'm not looking for shelter. However, I'm carving out my space on the web that can be my creation.
+I came across an [article on The Verge](https://www.theverge.com/23513418/bring-back-personal-blogging) that nudged me in the direction of continuing this blog. I don't agree 100% with everything the author says, but it resonates with me. I'm very far away from all the Twitter craziness that's going on right now, so I'm not looking for shelter. However, I'm carving out my space on the web that can be my creation.
  
 # self-care :pill:
  

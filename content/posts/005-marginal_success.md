@@ -2,7 +2,7 @@
 title: "marginal success"
 date: 2022-11-29T09:29:25+01:00
 draft: false
-tags: ["personal"]
+tags: ["blog", "personal"]
 cover:
   image: "/images/cover/005.jpg"
   caption: "Photo by Kenrick Mills on Unsplash."
@@ -14,7 +14,7 @@ Recently I received a notification from my hosting provider that the annual paym
 
 <!--more-->
  
-Honestly, I'm not accomplishing what I had in mind when I started this site. I had vivid dreams of posting at least every other week and how much it would help me articulate my thoughts. There were times when I enjoyed writing posts, but other times it was just the opposite. It felt like a burden. There were no KPIs attached to it, but I am still not that happy.
+Frankly, I'm not accomplishing what I had in mind when I started this site. I had vivid dreams of posting at least every other week and how much it would help me articulate my thoughts. There were times when I enjoyed writing posts, but other times it was just the opposite. It felt like a burden. There were no KPIs attached to it, but I am still not that happy.
  
 The above is a common theme for me lately. I do not feel successful or supported in the things I do. So I have the following options to move forward:
  

@@ -2,11 +2,11 @@
 title: "system upgrade"
 date: 2022-04-06T09:37:54+02:00
 draft: false
-tags: ["hardware"]
+tags: ["geek", "hardware"]
 cover:
   image: "/images/cover/001.jpg"
-  caption: "M1 chip designed originally by John Siracusa."
-  alt: "M1 chip designed originally by John Siracusa."
+  caption: "M1 chip logo originally designed by John Siracusa."
+  alt: "M1 chip logo originally designed by John Siracusa."
   hidden: true
 ---
 
@@ -20,7 +20,7 @@ Fast forward seven years, and the honeymoon with my beloved MacBook Pro is well 
 
 # the upgrade :rocket:
 
-After waiting almost four months to see the reaction from the community, I decided it was time for me to upgrade. Specifying was not easy for me as I like to overthink. In the end, I settled on a 14-inch MacBook Pro with an M1 Pro chip (10-core CPU, 16-core GPU, and 16GB RAM) with 1TB of storage. Luckily, a local retailer was having a sale and I was able to get the silver one for about $200 less than the space gray model.
+After waiting almost four months to see the reaction from the community, I decided it was time for me to upgrade. Specifying was not easy for me as I like to overthink. In the end, I settled on a 14-inch MacBook Pro with an M1 Pro chip (10-core CPU, 16-core GPU, and 16GB RAM) and 1TB of storage. Luckily, a local retailer was having a sale and I was able to get the silver one for about $200 less than the space gray model.
 
 |         | **MacBook Pro (13-inch Retina Early 2015)** |    **MacBook Pro (14-inch, 2021)**     |
 |---------|:-------------------------------------------:|:--------------------------------------:|
@@ -34,7 +34,7 @@ After waiting almost four months to see the reaction from the community, I decid
 
 From the feel of it, this thing is a beast. But I wanted to be *objective*, so I ran 3 tests 5 times - yes, you read that correctly, FIVE times - and compared the averaged results.
 
-The most demanding thing I do is work with large files in the Affinity suite of applications. Affinity Photo has a built-in benchmarking tool. They claim that the test performance can be translated to real-world workloads and that the results are linearly comparable (double the score means twice as fast). I've omitted the Raster (multi-GPU) and Combined (multi-GPU) tests because these machines don't have multiple GPUs.
+The most demanding thing I do is work with large files in the Affinity suite of applications. Affinity Photo has a built-in benchmarking tool. They claim that the test performance can be translated to real-world workloads and that the results are linearly comparable (double the score means twice as fast). I omitted the Raster (multi-GPU) and Combined (multi-GPU) tests because these machines don't have multiple GPUs.
 
 |                       | **Intel MacBook** | **M1 MacBook** | **Gain** |
 |-----------------------|:-----------------:|:--------------:|:--------:|

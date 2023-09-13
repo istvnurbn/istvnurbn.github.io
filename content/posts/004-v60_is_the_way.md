@@ -10,13 +10,13 @@ cover:
   hidden: true
 ---
 
-It's been more than a month since I wrote about keeping an offline log of the coffees I try, and maybe posting some of it on this blog. Good news, the first one is now!
+It's been more than a month since I wrote about keeping an offline log of the coffees I try, and maybe posting some of them on this blog. Good news, the first one is here!
 
 <!--more-->
 
 # meeting the parents
 
-On our recent trip to Slovenia, we happened to visit Stow Coffee in Ljubljana. It was a great decision because they had Coffea eugenioides on their filter menu. The price was steep at €20, but I let the barista persuade me to try it.
+On our recent trip to Slovenia, we happened to visit Stow Coffee in Ljubljana. It was a great decision because they had Coffea eugenioides on their filter menu. The price was steep at €20, but I let the barista talk me intoto trying it.
 
 So what is so special about it?
 
@@ -24,13 +24,13 @@ So what is so special about it?
 - It is considered by some to be an endangered species.
 - It is naturally sweet and has a unique set of flavor characteristics.
 
-It was unassuming at first, but had some raw grain/hay notes. The taste was light and reminiscent of oatmeal with a slight sweetness. The finish was the bomb as the fruity flavors began to dominate and lingered. That lingering flavor part was what got me, which is the measure of quality.
+It was unassuming at first, but had some raw grain/hay notes. The taste was light and reminiscent of oatmeal with a slight sweetness. The finish was the bomb as the fruity flavors began to dominate and linger. That last part -- the lingering flavor -- was what got me, which is the measure of quality.
 
-I discussed this experience with the owner of Szeged's iconic Kék Elefánt café, who remarked that the hay note could either be a species-specific thing or a sign of lighter-than-ideal roasting. If you get the chance, try it, but don't expect an earth-shattering experience.
+I discussed this experience with the owner of Szeged's iconic Kék Elefánt café, who noted that the hay note could be either a varietal thing or a sign of lighter-than-ideal roasting. If you get the chance, try it, but don't expect an earth-shattering experience.
 
 # the proper method
 
-Speaking of the café in Szeged, I had a delicious cup of Peruvian coffee there. I had to ask them how they prepared their filter drinks and what kind of coffee they used. After buying a bag of beans, I decided to get my V60 out of the back of my cupboard. It is more involved to use than the Aeropress if you are like me and follow James Hoffman's Ultimate Guide.
+Speaking of the café in Szeged, I had a delicious cup of Peruvian coffee there. I had to ask them how they prepared their filter drinks and what kind of coffee they used. After buying a bag of beans, I decided to get my V60 out of the back of my closet. It is more involved to use than the Aeropress if you are like me and follow James Hoffman's Ultimate Guide.
 
 At first, I was not getting the same flavor profile as I did in the coffee shop. This puzzled me, so I overcame my laziness and started adjusting the grind size on my Porlex. After 3-4 tries, I got what I wanted. I also tested it with different coffees that were available at home, and I have to say I've cracked it for myself.
 

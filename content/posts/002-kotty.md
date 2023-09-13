@@ -22,9 +22,9 @@ They have very specific instructions on how to prepare it, even down to the filt
  
 To be honest, I'm always skeptical of pre-ground coffee, but this was one of my top five drinks made this way. They promise a spicy dark chocolate flavor with subtle dried plum undertones. I definitely sensed the former, but the fruitiness was absent. This is most likely due to the fact that my palate is far from ideal and I do not really go beyond taste profiling.
  
-Anyway, this endeavor triggered something in me to be more conscious about the whole coffee experience and it is better to articulate my thoughts than keep them to myself. That was one of the reasons I decided to start blogging again. With this in mind, I have turned my Moleskine notebook into a diary where I will keep a log of the coffees I taste and my opinions about them. Some of it may end up here.
+Anyway, this endeavor triggered something in me to be more conscious about the whole coffee experience and it is better to articulate my thoughts than keep them to myself. This was one of the reasons I decided to start blogging again. With this in mind, I have turned my Moleskine notebook into a diary where I will keep a log of the coffees I taste and my opinions about them. Some of it may end up here.
 
 ---
 
 kotty
-: Short for *kotyogós*, the Hungarian nickname of the moka pot.
+: Short for *kotyogós*, the Hungarian nickname for the moka pot.
