@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>backend on istvn.urbn</title>
-    <link>https://istvnurbn.me/tags/backend/</link>
-    <description>Recent content in backend on istvn.urbn</description>
+    <title>site on istvn.urbn</title>
+    <link>https://istvnurbn.me/tags/site/</link>
+    <description>Recent content in site on istvn.urbn</description>
     <image>
       <title>istvn.urbn</title>
       <url>https://istvnurbn.me/cover.png</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2022-{year} István Urbán – [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
-    <lastBuildDate>Tue, 27 Sep 2022 18:20:22 +0200</lastBuildDate><atom:link href="https://istvnurbn.me/tags/backend/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Sep 2022 18:20:22 +0200</lastBuildDate><atom:link href="https://istvnurbn.me/tags/site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>platform of choice</title>
       <link>https://istvnurbn.me/2022/09/platform-of-choice/</link>
@@ -23,7 +23,7 @@
       <content:encoded><![CDATA[<p>After deciding to start blogging again, my first task was to find a simple yet powerful platform.</p>
 <h1 id="pepperidge-farm-remembers-">pepperidge farm remembers 👴</h1>
 <p>In prehistoric times, I hand-coded my homepage with a text editor. God, the end product looked terrible, and it wasn&rsquo;t fun. So I switched to a less labor-intensive publishing tool, WordPress. It had the advantage of being customizable and lightweight, yet feature-rich enough for my needs.</p>
-<p>Fast forward a decade, and the standard on the web has changed dramatically. The <a href="https://httparchive.org/reports/page-weight?start=2012_09_01&amp;end=latest&amp;view=list">median page weight</a> on desktops has gone from 738.3 kilobytes to 2,291.6 kilobytes in ten years. Mobile is even worse, with a starting median nearly half that of desktops, and a finishing median only 200 kilobytes lower. The main drivers are reliance on CDNs, embedded content, extensive tracking, overall asset size, and lack of optimization.</p>
+<p>Fast forward a decade, and the standard on the web has changed dramatically. The <a href="https://httparchive.org/reports/page-weight?start=2012_09_01&amp;end=latest&amp;view=list">median page weight</a> on desktops has gone from 738.3 kilobytes to 2,291.6 kilobytes in ten years. Mobile is even worse, with a starting median nearly half that of desktops, and a final median only 200 kilobytes lower. The main drivers are reliance on CDNs, embedded content, extensive tracking, overall asset size, and lack of optimization.</p>
 <p>In short, the Web is bloated.</p>
 <h1 id="enter-hugo-">enter hugo 🐭</h1>
 <p>Being a minimalist and pragmatic person, I said no to all the nonsense described above. I ended up choosing a &ldquo;static site generator&rdquo; that checked the following boxes for me</p>
@@ -36,13 +36,13 @@
 <p>The final decision was to use Hugo with the PaperMod theme. It not only met my expectations, but exceeded them in meaningful ways:</p>
 <ul>
 <li>It&rsquo;s an open source project with a thriving community and frequent updates.</li>
-<li>Currently, the blog is less than 700 kilobytes in size.</li>
+<li>The blog is currently less than 700 kilobytes in size.</li>
 <li>Rendering and publishing takes less than 2 seconds.</li>
 <li>You can use it with the version control system of your choice because it&rsquo;s a configuration file in YAML and the content is in Markdown.</li>
 <li>A GitHub repository and a simple GitHub action make it portable and CI/CD ready.</li>
 <li>I have to do some research to use all its features.</li>
 </ul>
-<p>You might say it lacks essential features like statistics or comments. I&rsquo;m not interested in statistics and won&rsquo;t implement them at the expense of tracking. Enabling comments would make the experience a bit more interactive. However, I&rsquo;m not comfortable with that idea right now, but that may change in the future.</p>
+<p>You might say that it lacks essential features like statistics or comments. I&rsquo;m not interested in statistics and won&rsquo;t implement them at the expense of tracking. Enabling comments would make the experience a bit more interactive. However, I&rsquo;m not comfortable with that idea right now, but that may change in the future.</p>
 <h1 id="verdict-">verdict 🔨</h1>
 <p>My recent addition of version tracking and automatic deployment via GitHub Actions required some learning and tinkering. By streamlining the workflow, I have one less excuse not to post more.</p>
 <p>So Hugo is the platform for me to move forward.</p>]]></content:encoded>

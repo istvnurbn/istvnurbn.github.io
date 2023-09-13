@@ -23,6 +23,16 @@
     </item>
     
     <item>
+      <title>blog</title>
+      <link>https://istvnurbn.me/tags/blog/</link>
+      <pubDate>Wed, 01 Feb 2023 23:15:39 +0100</pubDate>
+      
+      <guid>https://istvnurbn.me/tags/blog/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
       <title>poetry</title>
       <link>https://istvnurbn.me/tags/poetry/</link>
       <pubDate>Wed, 01 Feb 2023 23:15:39 +0100</pubDate>
@@ -43,16 +53,6 @@
     </item>
     
     <item>
-      <title>blog</title>
-      <link>https://istvnurbn.me/tags/blog/</link>
-      <pubDate>Tue, 03 Jan 2023 17:42:59 +0100</pubDate>
-      
-      <guid>https://istvnurbn.me/tags/blog/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
       <title>personal</title>
       <link>https://istvnurbn.me/tags/personal/</link>
       <pubDate>Tue, 03 Jan 2023 17:42:59 +0100</pubDate>
@@ -63,11 +63,21 @@
     </item>
     
     <item>
-      <title>backend</title>
-      <link>https://istvnurbn.me/tags/backend/</link>
+      <title>geek</title>
+      <link>https://istvnurbn.me/tags/geek/</link>
       <pubDate>Tue, 27 Sep 2022 18:20:22 +0200</pubDate>
       
-      <guid>https://istvnurbn.me/tags/backend/</guid>
+      <guid>https://istvnurbn.me/tags/geek/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>site</title>
+      <link>https://istvnurbn.me/tags/site/</link>
+      <pubDate>Tue, 27 Sep 2022 18:20:22 +0200</pubDate>
+      
+      <guid>https://istvnurbn.me/tags/site/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
