@@ -14,7 +14,7 @@ It's been more than a month since I wrote about keeping an offline log of the co
 
 <!--more-->
 
-# meeting the parents
+# meeting the parents :people_holding_hands:
 
 On our recent trip to Slovenia, we happened to visit Stow Coffee in Ljubljana. It was a great decision because they had Coffea eugenioides on their filter menu. The price was steep at €20, but I let the barista talk me intoto trying it.
 
@@ -28,7 +28,7 @@ It was unassuming at first, but had some raw grain/hay notes. The taste was ligh
 
 I discussed this experience with the owner of Szeged's iconic Kék Elefánt café, who noted that the hay note could be either a varietal thing or a sign of lighter-than-ideal roasting. If you get the chance, try it, but don't expect an earth-shattering experience.
 
-# the proper method
+# the proper method :scientist:
 
 Speaking of the café in Szeged, I had a delicious cup of Peruvian coffee there. I had to ask them how they prepared their filter drinks and what kind of coffee they used. After buying a bag of beans, I decided to get my V60 out of the back of my closet. It is more involved to use than the Aeropress if you are like me and follow James Hoffman's Ultimate Guide.
 
