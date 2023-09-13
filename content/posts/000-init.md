@@ -16,7 +16,7 @@ In the past -- about 20 years ago -- I had a personal website hosted on UltraWEB
 
 I decided to start something like a blog again with the following goals:
 
-- Improve my written English while articulating my thoughts,
+- improve my written English while articulating my thoughts,
 - keep a log of the things I do,
 - provide useful information for like-minded people
 
