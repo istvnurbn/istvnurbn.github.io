@@ -148,7 +148,7 @@ College of Szolnok (Now: John von Neumann University --- Faculty of Economy) (20
 - Familiarity with macOS, Microsoft Windows, and GNU/Linux environments
 - Class B driver's license
 
-## Personal Skills
+## Soft Skills
 
 - Adapts easily to challenges and is open to new ways of doing things
 - Seek feedback to improve understanding
