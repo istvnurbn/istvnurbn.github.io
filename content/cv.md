@@ -19,7 +19,7 @@ cover:
 
 I'm a seasoned corporate tax professional with a proven track record in nearly every part of the tax cycle (calculation, accounting, reporting, compliance, and prior-year adjustments). I have a strong accounting background and have dipped my toes in transfer pricing and statutory finance.
 
-## Work Experience
+## Experience
 
 ### A2R Statutory and Tax Project Lead
 
