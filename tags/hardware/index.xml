@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>hardware on istvn.urbn</title>
-    <link>https://istvnurbn.me/tags/hardware/</link>
-    <description>Recent content in hardware on istvn.urbn</description>
-    <image>
-      <title>istvn.urbn</title>
-      <url>https://istvnurbn.me/cover.png</url>
-      <link>https://istvnurbn.me/cover.png</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>© 2022-{year} István Urbán – [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
-    <lastBuildDate>Wed, 06 Apr 2022 09:37:54 +0200</lastBuildDate><atom:link href="https://istvnurbn.me/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>system upgrade</title>
-      <link>https://istvnurbn.me/2022/04/system-upgrade/</link>
-      <pubDate>Wed, 06 Apr 2022 09:37:54 +0200</pubDate>
-      
-      <guid>https://istvnurbn.me/2022/04/system-upgrade/</guid>
-      <description>&lt;h1 id=&#34;prelude-&#34;&gt;prelude 📜&lt;/h1&gt;</description>
-      <content:encoded><![CDATA[<h1 id="prelude-">prelude 📜</h1>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>hardware on istvn.urbn</title>
+  <link rel="alternate" href="https://istvnurbn.me/tags/hardware/" />
+  <link rel="self" href="https://istvnurbn.me/tags/hardware/index.xml" />
+  <subtitle>Recent content in hardware on istvn.urbn</subtitle>
+  <id>https://istvnurbn.me/tags/hardware/</id>
+  <generator uri="http://gohugo.io" version="0.121.2">Hugo</generator>
+  <language>en-us</language>
+  <updated>2022-04-06T09:37:54+02:00</updated>
+  <author>
+    <name>István Urbán</name>
+    
+  </author>
+  <rights>© 2022-{year} István Urbán – [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</rights>
+      <entry>
+        <title>system upgrade</title>
+        <link rel="alternate" href="https://istvnurbn.me/2022/04/system-upgrade/" />
+        <id>https://istvnurbn.me/2022/04/system-upgrade/</id>
+        <published>2022-04-06T09:37:54+02:00</published>
+        <updated>2023-09-13T10:01:56+02:00</updated>
+        <summary type="html">&lt;h1 id=&#34;prelude-scroll&#34;&gt;prelude &amp;#x1f4dc;&lt;/h1&gt;</summary>
+          <content type="html"><![CDATA[<h1 id="prelude-scroll">prelude &#x1f4dc;</h1>
 <p>It was 2015 when I bought my first Apple machine in the form of a MacBook Pro and said goodbye to Windows in my personal life forever. This platform - macOS - is a good place for me to have a UNIX system. I can play around with the terminal, use as much open source software as I can, and still have the convenience that Cupertino provides.</p>
 <p>Fast forward seven years, and the honeymoon with my beloved MacBook Pro is well over. I began to notice that it was slower than it used to be. I wanted to upgrade sooner, but the loss of ports, the presence of the touch bar, and the infamous butterfly keyboard held me back. Meanwhile, Apple started moving to ARM with their M-series of chips, and with the 2021 MacBook Pro line, they have returned to the form that I like.</p>
-<h1 id="the-upgrade-">the upgrade 🚀</h1>
+<h1 id="the-upgrade-rocket">the upgrade &#x1f680;</h1>
 <p>After waiting almost four months to see the reaction from the community, I decided it was time for me to upgrade. Specifying was not easy for me as I like to overthink. In the end, I settled on a 14-inch MacBook Pro with an M1 Pro chip (10-core CPU, 16-core GPU, and 16GB RAM) and 1TB of storage. Luckily, a local retailer was having a sale and I was able to get the silver one for about $200 less than the space gray model.</p>
 <table>
 <thead>
@@ -61,7 +61,7 @@
 </tr>
 </tbody>
 </table>
-<h1 id="some-figures-">some figures 📈</h1>
+<h1 id="some-figures-chart_with_upwards_trend">some figures &#x1f4c8;</h1>
 <p>From the feel of it, this thing is a beast. But I wanted to be <em>objective</em>, so I ran 3 tests 5 times - yes, you read that correctly, FIVE times - and compared the averaged results.</p>
 <p>The most demanding thing I do is work with large files in the Affinity suite of applications. Affinity Photo has a built-in benchmarking tool. They claim that the test performance can be translated to real-world workloads and that the results are linearly comparable (double the score means twice as fast). I omitted the Raster (multi-GPU) and Combined (multi-GPU) tests because these machines don&rsquo;t have multiple GPUs.</p>
 <table>
@@ -163,9 +163,10 @@
 </tbody>
 </table>
 <p>The gains are <strong>insane</strong> and my old Intel based MacBook Pro has been left in the dust.</p>
-<h1 id="conclusion-">conclusion 🔥</h1>
-<p>I&rsquo;m very happy with my purchase so far. The port selection is as good as it gets in 2022, the keyboard feels good, and the screen is phenomenal. I have no complaints about the performance. I have only had this laptop since yesterday, so I have not had time to test the battery life. I think it is a good investment, but we will see if it has the longevity of my previous one.</p>]]></content:encoded>
-    </item>
-    
-  </channel>
-</rss>
+<h1 id="conclusion-fire">conclusion &#x1f525;</h1>
+<p>I&rsquo;m very happy with my purchase so far. The port selection is as good as it gets in 2022, the keyboard feels good, and the screen is phenomenal. I have no complaints about the performance. I have only had this laptop since yesterday, so I have not had time to test the battery life. I think it is a good investment, but we will see if it has the longevity of my previous one.</p>]]></content>
+      </entry>
+
+</feed>
+
+

@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>posts on istvn.urbn</title>
-    <link>https://istvnurbn.me/posts/</link>
-    <description>Recent content in posts on istvn.urbn</description>
-    <image>
-      <title>istvn.urbn</title>
-      <url>https://istvnurbn.me/cover.png</url>
-      <link>https://istvnurbn.me/cover.png</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>© 2022-{year} István Urbán – [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright><atom:link href="https://istvnurbn.me/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>down the coffee spiral</title>
-      <link>https://istvnurbn.me/2023/05/down-the-coffee-spiral/</link>
-      <pubDate>Fri, 12 May 2023 08:41:39 +0200</pubDate>
-      
-      <guid>https://istvnurbn.me/2023/05/down-the-coffee-spiral/</guid>
-      <description>&lt;p&gt;I bought my first real coffee grinder in 2019 in the form of a Porlex Tall. I based my decision solely on the great video that James Hoffmann made comparing cheap hand grinders at the time. Towards the end of 2022, the taste started to get hollow.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I bought my first real coffee grinder in 2019 in the form of a Porlex Tall. I based my decision solely on the great video that James Hoffmann made comparing cheap hand grinders at the time. Towards the end of 2022, the taste started to get hollow.</p>
-<h1 id="gear-acquisition-syndrome-">gear acquisition syndrome ⚙️</h1>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>posts on istvn.urbn</title>
+  <link rel="alternate" href="https://istvnurbn.me/posts/" />
+  <link rel="self" href="https://istvnurbn.me/posts/index.xml" />
+  <subtitle>Recent content in posts on istvn.urbn</subtitle>
+  <id>https://istvnurbn.me/posts/</id>
+  <generator uri="http://gohugo.io" version="0.121.2">Hugo</generator>
+  <language>en-us</language>
+  <updated>0001-01-01T00:00:00Z</updated>
+  <author>
+    <name>István Urbán</name>
+    
+  </author>
+  <rights>© 2022-{year} István Urbán – [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</rights>
+      <entry>
+        <title>down the coffee spiral</title>
+        <link rel="alternate" href="https://istvnurbn.me/2023/05/down-the-coffee-spiral/" />
+        <id>https://istvnurbn.me/2023/05/down-the-coffee-spiral/</id>
+        <published>2023-05-12T08:41:39+02:00</published>
+        <updated>2023-09-13T10:01:56+02:00</updated>
+        <summary type="html">&lt;p&gt;I bought my first real coffee grinder in 2019 in the form of a Porlex Tall. I based my decision solely on the great video that James Hoffmann made comparing cheap hand grinders at the time. Towards the end of 2022, the taste started to get hollow.&lt;/p&gt;</summary>
+          <content type="html"><![CDATA[<p>I bought my first real coffee grinder in 2019 in the form of a Porlex Tall. I based my decision solely on the great video that James Hoffmann made comparing cheap hand grinders at the time. Towards the end of 2022, the taste started to get hollow.</p>
+<h1 id="gear-acquisition-syndrome-gear">gear acquisition syndrome &#x2699;&#xfe0f;</h1>
 <p>Speaking of that video, I started seeing more and more content related to coffee equipment, which led to the desire to buy something nice. First it was ceramic cups from Sebesi Ceramics, followed by a cutting/serving board from Vinovita.</p>
 <p>Remember the part in the introduction where I mentioned that the taste became hollow? That feeling became more pronounced after each visit to a cafe. I had a nice cup of coffee, bought the same beans and made it the same way at home, but the taste wasn&rsquo;t as good. So I decided to buy a top of the line hand grinder. The research was quick and I ordered a 1Zpresso K-Max. After about a month of using it, I can say that it was an excellent decision.</p>
 <p><img loading="lazy" src="/images/posts/009/001.jpg" alt="A side-by-side comparison of the two manual grinders and their end products:"  title="A side-by-side comparison of the two manual grinders and their end products."  />
 </p>
-<p>I A/B tested the old and new grinders with a friend of mine using the same coffee and method. We came to the conclusion that we would be happier if the difference wasn&rsquo;t so stark. This is not surprising as the K-MAX grinds as evenly as possible. It produces more fines than I would like, but I can take that trade-off any day of the week because the flavors are excellent. I felt the need to tell my brother about my discovery because he happens to be a food engineer. He made me realize that he had written his thesis on the importance of particle size in powder blends. So it wasn&rsquo;t a surprise to him. Hopefully my honeymoon with my new grinder will last longer than my memory, because I don&rsquo;t want to invest more in this hobby anytime soon. However, I do have some ideas about my future investments&hellip;&hellip; 😅</p>
-<h1 id="starting-a-cult-">starting a cult ⛪</h1>
+<p>I A/B tested the old and new grinders with a friend of mine using the same coffee and method. We came to the conclusion that we would be happier if the difference wasn&rsquo;t so stark. This is not surprising as the K-MAX grinds as evenly as possible. It produces more fines than I would like, but I can take that trade-off any day of the week because the flavors are excellent. I felt the need to tell my brother about my discovery because he happens to be a food engineer. He made me realize that he had written his thesis on the importance of particle size in powder blends. So it wasn&rsquo;t a surprise to him. Hopefully my honeymoon with my new grinder will last longer than my memory, because I don&rsquo;t want to invest more in this hobby anytime soon. However, I do have some ideas about my future investments&hellip;&hellip; :grinning_face_with_sweat:</p>
+<h1 id="starting-a-cult-church">starting a cult &#x26ea;</h1>
 <p>Late last year, I took my V60 into the office to make a nice cup of coffee after lunch. These things are alien to office kitchens where automatic coffee machines are the norm. At first, everyone thought I was crazy. Months have passed since then. During these months, I received numerous questions about the coffee and the method, as the whole <em>séance</em> became an attraction. More curious colleagues asked if they could have a taste. As usual, this was the first step down a slippery slope.</p>
 <p>Fast forward a few months, and this ritual of mine became the basis for exploring different types of coffee beans and office socializing. Our company has a very relaxed home office policy, so it was hard for many to feel a sense of belonging once things started to get back to normal after the COVID days. I had that feeling too. It makes me happy to be able to contribute in my own way to bringing the team together. I enjoy coffee more since the whole thing started to develop, and my colleagues enjoy the coffee and the conversations around it. Even my manager has noticed that I now have a cult following as we occupy the main table in the kitchen area.</p>
-<p>Giving back to the community helps me enjoy my hobby in a completely different way than before. It pushes me to play my best and help others explore new things. It has also made me realize that I like having a buzz around me, but being the center of attention still freaks me out.</p>]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>way to boshan</title>
-      <link>https://istvnurbn.me/2023/02/way-to-boshan/</link>
-      <pubDate>Wed, 01 Feb 2023 23:15:39 +0100</pubDate>
-      
-      <guid>https://istvnurbn.me/2023/02/way-to-boshan/</guid>
-      <description>&lt;p&gt;Being an avid podcast listener for a decade has the consequence of pushing them into the background and not paying much attention to the content. Fortunately, this time I was in an exploratory mood and came across a conversation with Tamás Sajó that triggered something.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Being an avid podcast listener for a decade has the consequence of pushing them into the background and not paying much attention to the content. Fortunately, this time I was in an exploratory mood and came across a conversation with Tamás Sajó that triggered something.</p>
+<p>Giving back to the community helps me enjoy my hobby in a completely different way than before. It pushes me to play my best and help others explore new things. It has also made me realize that I like having a buzz around me, but being the center of attention still freaks me out.</p>]]></content>
+      </entry>
+      <entry>
+        <title>way to boshan</title>
+        <link rel="alternate" href="https://istvnurbn.me/2023/02/way-to-boshan/" />
+        <id>https://istvnurbn.me/2023/02/way-to-boshan/</id>
+        <published>2023-02-01T23:15:39+01:00</published>
+        <updated>2023-09-13T10:01:56+02:00</updated>
+        <summary type="html">&lt;p&gt;Being an avid podcast listener for a decade has the consequence of pushing them into the background and not paying much attention to the content. Fortunately, this time I was in an exploratory mood and came across a conversation with Tamás Sajó that triggered something.&lt;/p&gt;</summary>
+          <content type="html"><![CDATA[<p>Being an avid podcast listener for a decade has the consequence of pushing them into the background and not paying much attention to the content. Fortunately, this time I was in an exploratory mood and came across a conversation with Tamás Sajó that triggered something.</p>
 <p>In addition to being extremely knowledgeable, Sajó is the most humble scholar I&rsquo;ve ever heard. He can speak on any subject because of his vast knowledge, but he does so with the utmost respect. An art historian by profession, he worked at the Hungarian Academy of Sciences and teaches medieval history and applied information science at CEU. After leaving the Academy, he founded his own publishing house, Studiolum. He translates books, holds online seminars and organizes thematic trips. According to the podcast &ndash; Az élet, meg minden &ndash; he speaks at least 15 (fifteen!) languages and can make himself understood in 15 more.</p>
 <p>In one interview, he talked about a Chinese poem by Xin Qiji and the difficulties of translating it into another language. I was struck by both the poem itself and his interpretation. Before we jump to any conclusions, here is the poem itself, in both Chinese and English, side by side:</p>
 <table>
@@ -155,78 +155,74 @@
 <p>Translation by Tamás Sajó. A more detailed analysis can be found on his <a href="https://www.studiolum.com/shi/xinqiji/shaonian-hu.htm">dedicated page</a>.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>quarter of debloat</title>
-      <link>https://istvnurbn.me/2023/01/quarter-of-debloat/</link>
-      <pubDate>Fri, 13 Jan 2023 19:36:35 +0100</pubDate>
-      
-      <guid>https://istvnurbn.me/2023/01/quarter-of-debloat/</guid>
-      <description>&lt;p&gt;Sometimes I feel the itch to clean up certain aspects of my life. I&amp;rsquo;m not a die-hard purist or minimalist, but this itch has become unbearable over the past few months, so I decided to do something about it. There is no better time to do so than at the beginning of a new year. So here is the list of things I want to tackle.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Sometimes I feel the itch to clean up certain aspects of my life. I&rsquo;m not a die-hard purist or minimalist, but this itch has become unbearable over the past few months, so I decided to do something about it. There is no better time to do so than at the beginning of a new year. So here is the list of things I want to tackle.</p>
-<h1 id="photos-">photos 🖼</h1>
+</div>]]></content>
+      </entry>
+      <entry>
+        <title>quarter of debloat</title>
+        <link rel="alternate" href="https://istvnurbn.me/2023/01/quarter-of-debloat/" />
+        <id>https://istvnurbn.me/2023/01/quarter-of-debloat/</id>
+        <published>2023-01-13T19:36:35+01:00</published>
+        <updated>2023-09-13T10:01:56+02:00</updated>
+        <summary type="html">&lt;p&gt;Sometimes I feel the itch to clean up certain aspects of my life. I&amp;rsquo;m not a die-hard purist or minimalist, but this itch has become unbearable over the past few months, so I decided to do something about it. There is no better time to do so than at the beginning of a new year. So here is the list of things I want to tackle.&lt;/p&gt;</summary>
+          <content type="html"><![CDATA[<p>Sometimes I feel the itch to clean up certain aspects of my life. I&rsquo;m not a die-hard purist or minimalist, but this itch has become unbearable over the past few months, so I decided to do something about it. There is no better time to do so than at the beginning of a new year. So here is the list of things I want to tackle.</p>
+<h1 id="photos-framed_picture">photos &#x1f5bc;&#xfe0f;</h1>
 <p>My photo backup strategy prior to 2015 was rudimentary. I had a folder for each year with a subfolder for &ldquo;significant&rdquo; events and unsorted pictures. This was stored on the hard drive of my then Windows based laptop. As you might expect, that hard drive failed, rendering the pre-2005 photos inaccessible. Moving to a Mac in 2015 and subscribing to iCloud storage was a blessing in disguise, as this collection is one of my most valuable assets.</p>
 <p>The library itself is more or less well organized. New shots are cherry-picked, so only the best ones are kept. The opposite is true for the old ones. There are a lot of almost identical, blurry and poor quality ones. Most of them have sentimental value. This is a curated collection, so the bad ones have to go. Currently, the library has 17,172 photos and 2,215 videos with a total size of 156.5 GB. It will be a hell of an exercise to weed them out.</p>
 <p>To add insult to injury, I decided to add location data to the pre-iPhone era pictures. Of the 17 thousand above, 3,753 do not have GPS data, and 401 of the 22 hundred are also missing it. Fortunately, I have HashPhotos to the rescue, and I scheduled this exercise for the bi-weekly commute to work. I&rsquo;ll report back on how it went, but it won&rsquo;t be anytime soon.</p>
-<h1 id="files-apps--services-">files, apps &amp; services 💾</h1>
+<h1 id="files-apps--services-floppy_disk">files, apps &amp; services &#x1f4be;</h1>
 <p>Oddly enough, the external hard drive I had been using for the past few years died on me after I moved to my new computer. So documents and miscellaneous files live on my laptop or some cloud storage, which is far from optimal. This is an opportunity to consolidate this data and move as much as possible to an offline repository. It will have a better structure and take up less space. At the same time, I will achieve the goal of getting my stuff off privacy-invading services.</p>
 <p>After the cleanup, I need to develop a better backup strategy and rethink the choice of applications I use. As a FOSS enthusiast, I will do my best to find a viable open source alternative to the software I currently use. I will also rethink my options in cases where open source is not an option. The goal is to use more privacy-respecting and self-sovereign tools without hidden fees. Maybe in a future post I will go through my stack once it is stabilized.</p>
 <p>I checked the number of entries in my password manager. The number is too damn high considering how many web services I use regularly. Most of them are just simple registrations for services I was curious about, while the other half are replaceable or duplicates. If I gain traction with the above cleaning projects, it is safe to say that I can weed out this particular part of my digital life.</p>
-<p>Maybe all of the above is a huge pile, but I still plan to cut it down in Q1.</p>]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>after the snap</title>
-      <link>https://istvnurbn.me/2023/01/after-the-snap/</link>
-      <pubDate>Tue, 03 Jan 2023 17:42:59 +0100</pubDate>
-      
-      <guid>https://istvnurbn.me/2023/01/after-the-snap/</guid>
-      <description>&lt;p&gt;A month has passed since my last post and we have conveniently slipped into 2023. With the New Year New Me approaching, I can make a fresh start with some reservations. I think it&amp;rsquo;s bullshit, but I&amp;rsquo;m in better mental shape to change things.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>A month has passed since my last post and we have conveniently slipped into 2023. With the New Year New Me approaching, I can make a fresh start with some reservations. I think it&rsquo;s bullshit, but I&rsquo;m in better mental shape to change things.</p>
-<h1 id="blogging-">blogging 📰</h1>
+<p>Maybe all of the above is a huge pile, but I still plan to cut it down in Q1.</p>]]></content>
+      </entry>
+      <entry>
+        <title>after the snap</title>
+        <link rel="alternate" href="https://istvnurbn.me/2023/01/after-the-snap/" />
+        <id>https://istvnurbn.me/2023/01/after-the-snap/</id>
+        <published>2023-01-03T17:42:59+01:00</published>
+        <updated>2023-09-13T10:01:56+02:00</updated>
+        <summary type="html">&lt;p&gt;A month has passed since my last post and we have conveniently slipped into 2023. With the New Year New Me approaching, I can make a fresh start with some reservations. I think it&amp;rsquo;s bullshit, but I&amp;rsquo;m in better mental shape to change things.&lt;/p&gt;</summary>
+          <content type="html"><![CDATA[<p>A month has passed since my last post and we have conveniently slipped into 2023. With the New Year New Me approaching, I can make a fresh start with some reservations. I think it&rsquo;s bullshit, but I&rsquo;m in better mental shape to change things.</p>
+<h1 id="blogging-newspaper">blogging &#x1f4f0;</h1>
 <p>I came across an <a href="https://www.theverge.com/23513418/bring-back-personal-blogging">article on The Verge</a> that nudged me in the direction of continuing this blog. I don&rsquo;t agree 100% with everything the author says, but it resonates with me. I&rsquo;m very far away from all the Twitter craziness that&rsquo;s going on right now, so I&rsquo;m not looking for shelter. However, I&rsquo;m carving out my space on the web that can be my creation.</p>
-<h1 id="self-care-">self-care 💊</h1>
+<h1 id="self-care-pill">self-care &#x1f48a;</h1>
 <p>As I mentioned in my previous post, I&rsquo;m feeling a bit stuck. I think things are changing for the better as my employer gave me positive feedback. We even talked about an opportunity to move forward professionally. So there is a way forward.</p>
 <p>I&rsquo;m a devoted user of YNAB, but lately I&rsquo;ve been using it more as an expense tracker than a budgeting tool. That also means I&rsquo;m not aware of my finances. So the projects on that front are to replace YNAB with a self-hosted solution, use the Interactive Brokers account I have to accumulate some savings, consider the retirement incentive offered by my employer, and set budgeting goals to keep myself in check. I think this can be accomplished in the 1st quarter.</p>
 <p>Reading has been a big part of my daily routine. I neglected it for the last two years. Around Q4 2022, I picked up my Kindle again and started reading every morning before work. This helped me go through my backlog of saved articles. I want to read more, so I have to take time out from other activities.</p>
 <p>That activity will be using social media, as it is less fun than ever. Also, the invasion of privacy that all the major platforms are doing is very off-putting. I was an avid user of Facebook and Instagram, but I have become increasingly skeptical of them. To maintain my sanity, I explicitly stay away from the TikToks and BeReals of the world. I also started to follow privacy advocates, and some of their arguments really turned me on. Maybe this topic deserves its own post.</p>
 <p>For the past decade, I have been very focused on being physically fit. The changes I made to my diet towards the end of 2022 started to bring me into the shape I was looking for. However, I still need to improve on several fronts. I need to seek professional help, which will take some courage.</p>
 <p>AAll of the above means that this year will be about clearing things out, strengthening the foundation, focusing on things that matter, and embracing change that can make me better. What I have now feels like an acceptable start, but there is always room for improvement.</p>
-<h1 id="technical-stuff-">technical stuff 🔧</h1>
+<h1 id="technical-stuff-wrench">technical stuff &#x1f527;</h1>
 <p>It turns out that I enjoy tinkering with the framework of the blog more than actually writing posts. I canceled my web hosting contract when I realized I could host this site on GitHub Pages. After changing the theme and making minor tweaks to the posts, I finally gave up on the Vox Scurra moniker. It feels better to post all this under my name than under a pseudonym.</p>
-<p>All that remains is to secure a domain in my name and continue the lost art of blogging.</p>]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>marginal success</title>
-      <link>https://istvnurbn.me/2022/11/marginal-success/</link>
-      <pubDate>Tue, 29 Nov 2022 09:29:25 +0100</pubDate>
-      
-      <guid>https://istvnurbn.me/2022/11/marginal-success/</guid>
-      <description>&lt;p&gt;Recently I received a notification from my hosting provider that the annual payment is due on December 20th. This got me thinking, so here is the deal.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Recently I received a notification from my hosting provider that the annual payment is due on December 20th. This got me thinking, so here is the deal.</p>
+<p>All that remains is to secure a domain in my name and continue the lost art of blogging.</p>]]></content>
+      </entry>
+      <entry>
+        <title>marginal success</title>
+        <link rel="alternate" href="https://istvnurbn.me/2022/11/marginal-success/" />
+        <id>https://istvnurbn.me/2022/11/marginal-success/</id>
+        <published>2022-11-29T09:29:25+01:00</published>
+        <updated>2023-09-13T10:01:56+02:00</updated>
+        <summary type="html">&lt;p&gt;Recently I received a notification from my hosting provider that the annual payment is due on December 20th. This got me thinking, so here is the deal.&lt;/p&gt;</summary>
+          <content type="html"><![CDATA[<p>Recently I received a notification from my hosting provider that the annual payment is due on December 20th. This got me thinking, so here is the deal.</p>
 <p>Frankly, I&rsquo;m not accomplishing what I had in mind when I started this site. I had vivid dreams of posting at least every other week and how much it would help me articulate my thoughts. There were times when I enjoyed writing posts, but other times it was just the opposite. It felt like a burden. There were no KPIs attached to it, but I am still not that happy.</p>
 <p>The above is a common theme for me lately. I do not feel successful or supported in the things I do. So I have the following options to move forward:</p>
 <ol>
 <li>With no expectations of myself, continue to have this website as it is.</li>
-<li>Change things up and relaunch the site with a new name and different tools. (I have come to dislike the name Vox Scurra anyway 😅)</li>
+<li>Change things up and relaunch the site with a new name and different tools. (I have come to dislike the name Vox Scurra anyway &#x1f605;)</li>
 <li>Write this blog to me in Markdown files without ever publishing it.</li>
 <li>Stop doing all of this.</li>
 </ol>
-<p>I&rsquo;m leaning towards option two. I enjoy tinkering with the underlying system, sometimes more than writing posts. I also think that new things tend to change quickly in the beginning. This site is no exception.</p>]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>v60 is the way</title>
-      <link>https://istvnurbn.me/2022/10/v60-is-the-way/</link>
-      <pubDate>Wed, 19 Oct 2022 12:40:36 +0200</pubDate>
-      
-      <guid>https://istvnurbn.me/2022/10/v60-is-the-way/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s been more than a month since I wrote about keeping an offline log of the coffees I try, and maybe posting some of them on this blog. Good news, the first one is here!&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>It&rsquo;s been more than a month since I wrote about keeping an offline log of the coffees I try, and maybe posting some of them on this blog. Good news, the first one is here!</p>
-<h1 id="meeting-the-parents-">meeting the parents 🧑‍🤝‍🧑</h1>
+<p>I&rsquo;m leaning towards option two. I enjoy tinkering with the underlying system, sometimes more than writing posts. I also think that new things tend to change quickly in the beginning. This site is no exception.</p>]]></content>
+      </entry>
+      <entry>
+        <title>v60 is the way</title>
+        <link rel="alternate" href="https://istvnurbn.me/2022/10/v60-is-the-way/" />
+        <id>https://istvnurbn.me/2022/10/v60-is-the-way/</id>
+        <published>2022-10-19T12:40:36+02:00</published>
+        <updated>2023-09-13T10:27:46+02:00</updated>
+        <summary type="html">&lt;p&gt;It&amp;rsquo;s been more than a month since I wrote about keeping an offline log of the coffees I try, and maybe posting some of them on this blog. Good news, the first one is here!&lt;/p&gt;</summary>
+          <content type="html"><![CDATA[<p>It&rsquo;s been more than a month since I wrote about keeping an offline log of the coffees I try, and maybe posting some of them on this blog. Good news, the first one is here!</p>
+<h1 id="meeting-the-parents-people_holding_hands">meeting the parents &#x1f9d1;&zwj;&#x1f91d;&zwj;&#x1f9d1;</h1>
 <p>On our recent trip to Slovenia, we happened to visit Stow Coffee in Ljubljana. It was a great decision because they had Coffea eugenioides on their filter menu. The price was steep at €20, but I let the barista talk me intoto trying it.</p>
 <p>So what is so special about it?</p>
 <ul>
@@ -236,25 +232,24 @@
 </ul>
 <p>It was unassuming at first, but had some raw grain/hay notes. The taste was light and reminiscent of oatmeal with a slight sweetness. The finish was the bomb as the fruity flavors began to dominate and linger. That last part &ndash; the lingering flavor &ndash; was what got me, which is the measure of quality.</p>
 <p>I discussed this experience with the owner of Szeged&rsquo;s iconic Kék Elefánt café, who noted that the hay note could be either a varietal thing or a sign of lighter-than-ideal roasting. If you get the chance, try it, but don&rsquo;t expect an earth-shattering experience.</p>
-<h1 id="the-proper-method-">the proper method 🧑‍🔬</h1>
+<h1 id="the-proper-method-scientist">the proper method &#x1f9d1;&zwj;&#x1f52c;</h1>
 <p>Speaking of the café in Szeged, I had a delicious cup of Peruvian coffee there. I had to ask them how they prepared their filter drinks and what kind of coffee they used. After buying a bag of beans, I decided to get my V60 out of the back of my closet. It is more involved to use than the Aeropress if you are like me and follow James Hoffman&rsquo;s Ultimate Guide.</p>
 <p>At first, I was not getting the same flavor profile as I did in the coffee shop. This puzzled me, so I overcame my laziness and started adjusting the grind size on my Porlex. After 3-4 tries, I got what I wanted. I also tested it with different coffees that were available at home, and I have to say I&rsquo;ve cracked it for myself.</p>
-<p>These two episodes made me realize a few things. You have to push yourself to experiment with different methods and dare to set the grinder finer/coarser in larger increments. Fiddling with the V60 reconnected me with the process of making coffee, so I decided to put the Aeropress in the travel kit for now.</p>]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>platform of choice</title>
-      <link>https://istvnurbn.me/2022/09/platform-of-choice/</link>
-      <pubDate>Tue, 27 Sep 2022 18:20:22 +0200</pubDate>
-      
-      <guid>https://istvnurbn.me/2022/09/platform-of-choice/</guid>
-      <description>&lt;p&gt;After deciding to start blogging again, my first task was to find a simple yet powerful platform.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>After deciding to start blogging again, my first task was to find a simple yet powerful platform.</p>
-<h1 id="pepperidge-farm-remembers-">pepperidge farm remembers 👴</h1>
+<p>These two episodes made me realize a few things. You have to push yourself to experiment with different methods and dare to set the grinder finer/coarser in larger increments. Fiddling with the V60 reconnected me with the process of making coffee, so I decided to put the Aeropress in the travel kit for now.</p>]]></content>
+      </entry>
+      <entry>
+        <title>platform of choice</title>
+        <link rel="alternate" href="https://istvnurbn.me/2022/09/platform-of-choice/" />
+        <id>https://istvnurbn.me/2022/09/platform-of-choice/</id>
+        <published>2022-09-27T18:20:22+02:00</published>
+        <updated>2023-09-13T10:01:56+02:00</updated>
+        <summary type="html">&lt;p&gt;After deciding to start blogging again, my first task was to find a simple yet powerful platform.&lt;/p&gt;</summary>
+          <content type="html"><![CDATA[<p>After deciding to start blogging again, my first task was to find a simple yet powerful platform.</p>
+<h1 id="pepperidge-farm-remembers-older_man">pepperidge farm remembers &#x1f474;</h1>
 <p>In prehistoric times, I hand-coded my homepage with a text editor. God, the end product looked terrible, and it wasn&rsquo;t fun. So I switched to a less labor-intensive publishing tool, WordPress. It had the advantage of being customizable and lightweight, yet feature-rich enough for my needs.</p>
 <p>Fast forward a decade, and the standard on the web has changed dramatically. The <a href="https://httparchive.org/reports/page-weight?start=2012_09_01&amp;end=latest&amp;view=list">median page weight</a> on desktops has gone from 738.3 kilobytes to 2,291.6 kilobytes in ten years. Mobile is even worse, with a starting median nearly half that of desktops, and a final median only 200 kilobytes lower. The main drivers are reliance on CDNs, embedded content, extensive tracking, overall asset size, and lack of optimization.</p>
 <p>In short, the Web is bloated.</p>
-<h1 id="enter-hugo-">enter hugo 🐭</h1>
+<h1 id="enter-hugo-mouse">enter hugo &#x1f42d;</h1>
 <p>Being a minimalist and pragmatic person, I said no to all the nonsense described above. I ended up choosing a &ldquo;static site generator&rdquo; that checked the following boxes for me</p>
 <ul>
 <li>Easy to use and maintain</li>
@@ -272,19 +267,18 @@
 <li>I have to do some research to use all its features.</li>
 </ul>
 <p>You might say that it lacks essential features like statistics or comments. I&rsquo;m not interested in statistics and won&rsquo;t implement them at the expense of tracking. Enabling comments would make the experience a bit more interactive. However, I&rsquo;m not comfortable with that idea right now, but that may change in the future.</p>
-<h1 id="verdict-">verdict 🔨</h1>
+<h1 id="verdict-hammer">verdict &#x1f528;</h1>
 <p>My recent addition of version tracking and automatic deployment via GitHub Actions required some learning and tinkering. By streamlining the workflow, I have one less excuse not to post more.</p>
-<p>So Hugo is the platform for me to move forward.</p>]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>kotty</title>
-      <link>https://istvnurbn.me/2022/09/kotty/</link>
-      <pubDate>Mon, 19 Sep 2022 08:01:01 +0200</pubDate>
-      
-      <guid>https://istvnurbn.me/2022/09/kotty/</guid>
-      <description>&lt;p&gt;I visit local cafes at least twice a month and usually buy beans from Hungarian micro-roasters. I&amp;rsquo;ve mostly been interested in filter roasts, but recently I came across a blend specifically for the moka pot in an unusual package.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I visit local cafes at least twice a month and usually buy beans from Hungarian micro-roasters. I&rsquo;ve mostly been interested in filter roasts, but recently I came across a blend specifically for the moka pot in an unusual package.</p>
+<p>So Hugo is the platform for me to move forward.</p>]]></content>
+      </entry>
+      <entry>
+        <title>kotty</title>
+        <link rel="alternate" href="https://istvnurbn.me/2022/09/kotty/" />
+        <id>https://istvnurbn.me/2022/09/kotty/</id>
+        <published>2022-09-19T08:01:01+02:00</published>
+        <updated>2023-09-13T10:01:56+02:00</updated>
+        <summary type="html">&lt;p&gt;I visit local cafes at least twice a month and usually buy beans from Hungarian micro-roasters. I&amp;rsquo;ve mostly been interested in filter roasts, but recently I came across a blend specifically for the moka pot in an unusual package.&lt;/p&gt;</summary>
+          <content type="html"><![CDATA[<p>I visit local cafes at least twice a month and usually buy beans from Hungarian micro-roasters. I&rsquo;ve mostly been interested in filter roasts, but recently I came across a blend specifically for the moka pot in an unusual package.</p>
 <p><img loading="lazy" src="/images/posts/002/001.jpg" alt="KOTTY blend in its can packaging."  title="KOTTY blend in its can packaging."  />
 </p>
 <p>After a while I decided to give it a try and bought a <em>can</em>. As far as I know, Lucky Cap Roastery is the first from Hungary to have a plantation in Lourdes, Costa Rica. The coffees that come from this place are branded &ldquo;Bányai&rdquo; and the above is no exception.</p>
@@ -295,20 +289,19 @@
 <dl>
 <dt>kotty</dt>
 <dd>Short for <em>kotyogós</em>, the Hungarian nickname for the moka pot.</dd>
-</dl>]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>system upgrade</title>
-      <link>https://istvnurbn.me/2022/04/system-upgrade/</link>
-      <pubDate>Wed, 06 Apr 2022 09:37:54 +0200</pubDate>
-      
-      <guid>https://istvnurbn.me/2022/04/system-upgrade/</guid>
-      <description>&lt;h1 id=&#34;prelude-&#34;&gt;prelude 📜&lt;/h1&gt;</description>
-      <content:encoded><![CDATA[<h1 id="prelude-">prelude 📜</h1>
+</dl>]]></content>
+      </entry>
+      <entry>
+        <title>system upgrade</title>
+        <link rel="alternate" href="https://istvnurbn.me/2022/04/system-upgrade/" />
+        <id>https://istvnurbn.me/2022/04/system-upgrade/</id>
+        <published>2022-04-06T09:37:54+02:00</published>
+        <updated>2023-09-13T10:01:56+02:00</updated>
+        <summary type="html">&lt;h1 id=&#34;prelude-scroll&#34;&gt;prelude &amp;#x1f4dc;&lt;/h1&gt;</summary>
+          <content type="html"><![CDATA[<h1 id="prelude-scroll">prelude &#x1f4dc;</h1>
 <p>It was 2015 when I bought my first Apple machine in the form of a MacBook Pro and said goodbye to Windows in my personal life forever. This platform - macOS - is a good place for me to have a UNIX system. I can play around with the terminal, use as much open source software as I can, and still have the convenience that Cupertino provides.</p>
 <p>Fast forward seven years, and the honeymoon with my beloved MacBook Pro is well over. I began to notice that it was slower than it used to be. I wanted to upgrade sooner, but the loss of ports, the presence of the touch bar, and the infamous butterfly keyboard held me back. Meanwhile, Apple started moving to ARM with their M-series of chips, and with the 2021 MacBook Pro line, they have returned to the form that I like.</p>
-<h1 id="the-upgrade-">the upgrade 🚀</h1>
+<h1 id="the-upgrade-rocket">the upgrade &#x1f680;</h1>
 <p>After waiting almost four months to see the reaction from the community, I decided it was time for me to upgrade. Specifying was not easy for me as I like to overthink. In the end, I settled on a 14-inch MacBook Pro with an M1 Pro chip (10-core CPU, 16-core GPU, and 16GB RAM) and 1TB of storage. Luckily, a local retailer was having a sale and I was able to get the silver one for about $200 less than the space gray model.</p>
 <table>
 <thead>
@@ -346,7 +339,7 @@
 </tr>
 </tbody>
 </table>
-<h1 id="some-figures-">some figures 📈</h1>
+<h1 id="some-figures-chart_with_upwards_trend">some figures &#x1f4c8;</h1>
 <p>From the feel of it, this thing is a beast. But I wanted to be <em>objective</em>, so I ran 3 tests 5 times - yes, you read that correctly, FIVE times - and compared the averaged results.</p>
 <p>The most demanding thing I do is work with large files in the Affinity suite of applications. Affinity Photo has a built-in benchmarking tool. They claim that the test performance can be translated to real-world workloads and that the results are linearly comparable (double the score means twice as fast). I omitted the Raster (multi-GPU) and Combined (multi-GPU) tests because these machines don&rsquo;t have multiple GPUs.</p>
 <table>
@@ -448,18 +441,17 @@
 </tbody>
 </table>
 <p>The gains are <strong>insane</strong> and my old Intel based MacBook Pro has been left in the dust.</p>
-<h1 id="conclusion-">conclusion 🔥</h1>
-<p>I&rsquo;m very happy with my purchase so far. The port selection is as good as it gets in 2022, the keyboard feels good, and the screen is phenomenal. I have no complaints about the performance. I have only had this laptop since yesterday, so I have not had time to test the battery life. I think it is a good investment, but we will see if it has the longevity of my previous one.</p>]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>init</title>
-      <link>https://istvnurbn.me/2022/02/init/</link>
-      <pubDate>Sun, 20 Feb 2022 19:59:31 +0100</pubDate>
-      
-      <guid>https://istvnurbn.me/2022/02/init/</guid>
-      <description>&lt;p&gt;In the past &amp;ndash; about 20 years ago &amp;ndash; I had a personal website hosted on UltraWEB&amp;rsquo;s free service. It was a place where I  could tinker with things I learned in computer science class and express my thoughts in an unrestricted, yet structured way.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>In the past &ndash; about 20 years ago &ndash; I had a personal website hosted on UltraWEB&rsquo;s free service. It was a place where I  could tinker with things I learned in computer science class and express my thoughts in an unrestricted, yet structured way.</p>
+<h1 id="conclusion-fire">conclusion &#x1f525;</h1>
+<p>I&rsquo;m very happy with my purchase so far. The port selection is as good as it gets in 2022, the keyboard feels good, and the screen is phenomenal. I have no complaints about the performance. I have only had this laptop since yesterday, so I have not had time to test the battery life. I think it is a good investment, but we will see if it has the longevity of my previous one.</p>]]></content>
+      </entry>
+      <entry>
+        <title>init</title>
+        <link rel="alternate" href="https://istvnurbn.me/2022/02/init/" />
+        <id>https://istvnurbn.me/2022/02/init/</id>
+        <published>2022-02-20T19:59:31+01:00</published>
+        <updated>2023-09-13T10:38:34+02:00</updated>
+        <summary type="html">&lt;p&gt;In the past &amp;ndash; about 20 years ago &amp;ndash; I had a personal website hosted on UltraWEB&amp;rsquo;s free service. It was a place where I  could tinker with things I learned in computer science class and express my thoughts in an unrestricted, yet structured way.&lt;/p&gt;</summary>
+          <content type="html"><![CDATA[<p>In the past &ndash; about 20 years ago &ndash; I had a personal website hosted on UltraWEB&rsquo;s free service. It was a place where I  could tinker with things I learned in computer science class and express my thoughts in an unrestricted, yet structured way.</p>
 <p>I decided to start something like a blog again with the following goals:</p>
 <ul>
 <li>improve my written English while articulating my thoughts,</li>
@@ -467,8 +459,9 @@
 <li>provide useful information for like-minded people</li>
 </ul>
 <p>Since I&rsquo;m still a very curious person, the content will cover a wide variety of topics that interest me. Do not expect consistency.</p>
-<p>See you around!</p>]]></content:encoded>
-    </item>
-    
-  </channel>
-</rss>
+<p>See you around!</p>]]></content>
+      </entry>
+
+</feed>
+
+

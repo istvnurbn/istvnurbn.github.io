@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>poetry on istvn.urbn</title>
-    <link>https://istvnurbn.me/tags/poetry/</link>
-    <description>Recent content in poetry on istvn.urbn</description>
-    <image>
-      <title>istvn.urbn</title>
-      <url>https://istvnurbn.me/cover.png</url>
-      <link>https://istvnurbn.me/cover.png</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>© 2022-{year} István Urbán – [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
-    <lastBuildDate>Wed, 01 Feb 2023 23:15:39 +0100</lastBuildDate><atom:link href="https://istvnurbn.me/tags/poetry/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>way to boshan</title>
-      <link>https://istvnurbn.me/2023/02/way-to-boshan/</link>
-      <pubDate>Wed, 01 Feb 2023 23:15:39 +0100</pubDate>
-      
-      <guid>https://istvnurbn.me/2023/02/way-to-boshan/</guid>
-      <description>&lt;p&gt;Being an avid podcast listener for a decade has the consequence of pushing them into the background and not paying much attention to the content. Fortunately, this time I was in an exploratory mood and came across a conversation with Tamás Sajó that triggered something.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Being an avid podcast listener for a decade has the consequence of pushing them into the background and not paying much attention to the content. Fortunately, this time I was in an exploratory mood and came across a conversation with Tamás Sajó that triggered something.</p>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>poetry on istvn.urbn</title>
+  <link rel="alternate" href="https://istvnurbn.me/tags/poetry/" />
+  <link rel="self" href="https://istvnurbn.me/tags/poetry/index.xml" />
+  <subtitle>Recent content in poetry on istvn.urbn</subtitle>
+  <id>https://istvnurbn.me/tags/poetry/</id>
+  <generator uri="http://gohugo.io" version="0.121.2">Hugo</generator>
+  <language>en-us</language>
+  <updated>2023-02-01T23:15:39+01:00</updated>
+  <author>
+    <name>István Urbán</name>
+    
+  </author>
+  <rights>© 2022-{year} István Urbán – [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</rights>
+      <entry>
+        <title>way to boshan</title>
+        <link rel="alternate" href="https://istvnurbn.me/2023/02/way-to-boshan/" />
+        <id>https://istvnurbn.me/2023/02/way-to-boshan/</id>
+        <published>2023-02-01T23:15:39+01:00</published>
+        <updated>2023-09-13T10:01:56+02:00</updated>
+        <summary type="html">&lt;p&gt;Being an avid podcast listener for a decade has the consequence of pushing them into the background and not paying much attention to the content. Fortunately, this time I was in an exploratory mood and came across a conversation with Tamás Sajó that triggered something.&lt;/p&gt;</summary>
+          <content type="html"><![CDATA[<p>Being an avid podcast listener for a decade has the consequence of pushing them into the background and not paying much attention to the content. Fortunately, this time I was in an exploratory mood and came across a conversation with Tamás Sajó that triggered something.</p>
 <p>In addition to being extremely knowledgeable, Sajó is the most humble scholar I&rsquo;ve ever heard. He can speak on any subject because of his vast knowledge, but he does so with the utmost respect. An art historian by profession, he worked at the Hungarian Academy of Sciences and teaches medieval history and applied information science at CEU. After leaving the Academy, he founded his own publishing house, Studiolum. He translates books, holds online seminars and organizes thematic trips. According to the podcast &ndash; Az élet, meg minden &ndash; he speaks at least 15 (fifteen!) languages and can make himself understood in 15 more.</p>
 <p>In one interview, he talked about a Chinese poem by Xin Qiji and the difficulties of translating it into another language. I was struck by both the poem itself and his interpretation. Before we jump to any conclusions, here is the poem itself, in both Chinese and English, side by side:</p>
 <table>
@@ -136,8 +136,9 @@
 <p>Translation by Tamás Sajó. A more detailed analysis can be found on his <a href="https://www.studiolum.com/shi/xinqiji/shaonian-hu.htm">dedicated page</a>.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>]]></content:encoded>
-    </item>
-    
-  </channel>
-</rss>
+</div>]]></content>
+      </entry>
+
+</feed>
+
+

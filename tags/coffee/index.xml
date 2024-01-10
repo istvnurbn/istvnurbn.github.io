@@ -1,47 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>coffee on istvn.urbn</title>
-    <link>https://istvnurbn.me/tags/coffee/</link>
-    <description>Recent content in coffee on istvn.urbn</description>
-    <image>
-      <title>istvn.urbn</title>
-      <url>https://istvnurbn.me/cover.png</url>
-      <link>https://istvnurbn.me/cover.png</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>© 2022-{year} István Urbán – [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
-    <lastBuildDate>Fri, 12 May 2023 08:41:39 +0200</lastBuildDate><atom:link href="https://istvnurbn.me/tags/coffee/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>down the coffee spiral</title>
-      <link>https://istvnurbn.me/2023/05/down-the-coffee-spiral/</link>
-      <pubDate>Fri, 12 May 2023 08:41:39 +0200</pubDate>
-      
-      <guid>https://istvnurbn.me/2023/05/down-the-coffee-spiral/</guid>
-      <description>&lt;p&gt;I bought my first real coffee grinder in 2019 in the form of a Porlex Tall. I based my decision solely on the great video that James Hoffmann made comparing cheap hand grinders at the time. Towards the end of 2022, the taste started to get hollow.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I bought my first real coffee grinder in 2019 in the form of a Porlex Tall. I based my decision solely on the great video that James Hoffmann made comparing cheap hand grinders at the time. Towards the end of 2022, the taste started to get hollow.</p>
-<h1 id="gear-acquisition-syndrome-">gear acquisition syndrome ⚙️</h1>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>coffee on istvn.urbn</title>
+  <link rel="alternate" href="https://istvnurbn.me/tags/coffee/" />
+  <link rel="self" href="https://istvnurbn.me/tags/coffee/index.xml" />
+  <subtitle>Recent content in coffee on istvn.urbn</subtitle>
+  <id>https://istvnurbn.me/tags/coffee/</id>
+  <generator uri="http://gohugo.io" version="0.121.2">Hugo</generator>
+  <language>en-us</language>
+  <updated>2023-05-12T08:41:39+02:00</updated>
+  <author>
+    <name>István Urbán</name>
+    
+  </author>
+  <rights>© 2022-{year} István Urbán – [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</rights>
+      <entry>
+        <title>down the coffee spiral</title>
+        <link rel="alternate" href="https://istvnurbn.me/2023/05/down-the-coffee-spiral/" />
+        <id>https://istvnurbn.me/2023/05/down-the-coffee-spiral/</id>
+        <published>2023-05-12T08:41:39+02:00</published>
+        <updated>2023-09-13T10:01:56+02:00</updated>
+        <summary type="html">&lt;p&gt;I bought my first real coffee grinder in 2019 in the form of a Porlex Tall. I based my decision solely on the great video that James Hoffmann made comparing cheap hand grinders at the time. Towards the end of 2022, the taste started to get hollow.&lt;/p&gt;</summary>
+          <content type="html"><![CDATA[<p>I bought my first real coffee grinder in 2019 in the form of a Porlex Tall. I based my decision solely on the great video that James Hoffmann made comparing cheap hand grinders at the time. Towards the end of 2022, the taste started to get hollow.</p>
+<h1 id="gear-acquisition-syndrome-gear">gear acquisition syndrome &#x2699;&#xfe0f;</h1>
 <p>Speaking of that video, I started seeing more and more content related to coffee equipment, which led to the desire to buy something nice. First it was ceramic cups from Sebesi Ceramics, followed by a cutting/serving board from Vinovita.</p>
 <p>Remember the part in the introduction where I mentioned that the taste became hollow? That feeling became more pronounced after each visit to a cafe. I had a nice cup of coffee, bought the same beans and made it the same way at home, but the taste wasn&rsquo;t as good. So I decided to buy a top of the line hand grinder. The research was quick and I ordered a 1Zpresso K-Max. After about a month of using it, I can say that it was an excellent decision.</p>
 <p><img loading="lazy" src="/images/posts/009/001.jpg" alt="A side-by-side comparison of the two manual grinders and their end products:"  title="A side-by-side comparison of the two manual grinders and their end products."  />
 </p>
-<p>I A/B tested the old and new grinders with a friend of mine using the same coffee and method. We came to the conclusion that we would be happier if the difference wasn&rsquo;t so stark. This is not surprising as the K-MAX grinds as evenly as possible. It produces more fines than I would like, but I can take that trade-off any day of the week because the flavors are excellent. I felt the need to tell my brother about my discovery because he happens to be a food engineer. He made me realize that he had written his thesis on the importance of particle size in powder blends. So it wasn&rsquo;t a surprise to him. Hopefully my honeymoon with my new grinder will last longer than my memory, because I don&rsquo;t want to invest more in this hobby anytime soon. However, I do have some ideas about my future investments&hellip;&hellip; 😅</p>
-<h1 id="starting-a-cult-">starting a cult ⛪</h1>
+<p>I A/B tested the old and new grinders with a friend of mine using the same coffee and method. We came to the conclusion that we would be happier if the difference wasn&rsquo;t so stark. This is not surprising as the K-MAX grinds as evenly as possible. It produces more fines than I would like, but I can take that trade-off any day of the week because the flavors are excellent. I felt the need to tell my brother about my discovery because he happens to be a food engineer. He made me realize that he had written his thesis on the importance of particle size in powder blends. So it wasn&rsquo;t a surprise to him. Hopefully my honeymoon with my new grinder will last longer than my memory, because I don&rsquo;t want to invest more in this hobby anytime soon. However, I do have some ideas about my future investments&hellip;&hellip; :grinning_face_with_sweat:</p>
+<h1 id="starting-a-cult-church">starting a cult &#x26ea;</h1>
 <p>Late last year, I took my V60 into the office to make a nice cup of coffee after lunch. These things are alien to office kitchens where automatic coffee machines are the norm. At first, everyone thought I was crazy. Months have passed since then. During these months, I received numerous questions about the coffee and the method, as the whole <em>séance</em> became an attraction. More curious colleagues asked if they could have a taste. As usual, this was the first step down a slippery slope.</p>
 <p>Fast forward a few months, and this ritual of mine became the basis for exploring different types of coffee beans and office socializing. Our company has a very relaxed home office policy, so it was hard for many to feel a sense of belonging once things started to get back to normal after the COVID days. I had that feeling too. It makes me happy to be able to contribute in my own way to bringing the team together. I enjoy coffee more since the whole thing started to develop, and my colleagues enjoy the coffee and the conversations around it. Even my manager has noticed that I now have a cult following as we occupy the main table in the kitchen area.</p>
-<p>Giving back to the community helps me enjoy my hobby in a completely different way than before. It pushes me to play my best and help others explore new things. It has also made me realize that I like having a buzz around me, but being the center of attention still freaks me out.</p>]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>v60 is the way</title>
-      <link>https://istvnurbn.me/2022/10/v60-is-the-way/</link>
-      <pubDate>Wed, 19 Oct 2022 12:40:36 +0200</pubDate>
-      
-      <guid>https://istvnurbn.me/2022/10/v60-is-the-way/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s been more than a month since I wrote about keeping an offline log of the coffees I try, and maybe posting some of them on this blog. Good news, the first one is here!&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>It&rsquo;s been more than a month since I wrote about keeping an offline log of the coffees I try, and maybe posting some of them on this blog. Good news, the first one is here!</p>
-<h1 id="meeting-the-parents-">meeting the parents 🧑‍🤝‍🧑</h1>
+<p>Giving back to the community helps me enjoy my hobby in a completely different way than before. It pushes me to play my best and help others explore new things. It has also made me realize that I like having a buzz around me, but being the center of attention still freaks me out.</p>]]></content>
+      </entry>
+      <entry>
+        <title>v60 is the way</title>
+        <link rel="alternate" href="https://istvnurbn.me/2022/10/v60-is-the-way/" />
+        <id>https://istvnurbn.me/2022/10/v60-is-the-way/</id>
+        <published>2022-10-19T12:40:36+02:00</published>
+        <updated>2023-09-13T10:27:46+02:00</updated>
+        <summary type="html">&lt;p&gt;It&amp;rsquo;s been more than a month since I wrote about keeping an offline log of the coffees I try, and maybe posting some of them on this blog. Good news, the first one is here!&lt;/p&gt;</summary>
+          <content type="html"><![CDATA[<p>It&rsquo;s been more than a month since I wrote about keeping an offline log of the coffees I try, and maybe posting some of them on this blog. Good news, the first one is here!</p>
+<h1 id="meeting-the-parents-people_holding_hands">meeting the parents &#x1f9d1;&zwj;&#x1f91d;&zwj;&#x1f9d1;</h1>
 <p>On our recent trip to Slovenia, we happened to visit Stow Coffee in Ljubljana. It was a great decision because they had Coffea eugenioides on their filter menu. The price was steep at €20, but I let the barista talk me intoto trying it.</p>
 <p>So what is so special about it?</p>
 <ul>
@@ -51,20 +50,19 @@
 </ul>
 <p>It was unassuming at first, but had some raw grain/hay notes. The taste was light and reminiscent of oatmeal with a slight sweetness. The finish was the bomb as the fruity flavors began to dominate and linger. That last part &ndash; the lingering flavor &ndash; was what got me, which is the measure of quality.</p>
 <p>I discussed this experience with the owner of Szeged&rsquo;s iconic Kék Elefánt café, who noted that the hay note could be either a varietal thing or a sign of lighter-than-ideal roasting. If you get the chance, try it, but don&rsquo;t expect an earth-shattering experience.</p>
-<h1 id="the-proper-method-">the proper method 🧑‍🔬</h1>
+<h1 id="the-proper-method-scientist">the proper method &#x1f9d1;&zwj;&#x1f52c;</h1>
 <p>Speaking of the café in Szeged, I had a delicious cup of Peruvian coffee there. I had to ask them how they prepared their filter drinks and what kind of coffee they used. After buying a bag of beans, I decided to get my V60 out of the back of my closet. It is more involved to use than the Aeropress if you are like me and follow James Hoffman&rsquo;s Ultimate Guide.</p>
 <p>At first, I was not getting the same flavor profile as I did in the coffee shop. This puzzled me, so I overcame my laziness and started adjusting the grind size on my Porlex. After 3-4 tries, I got what I wanted. I also tested it with different coffees that were available at home, and I have to say I&rsquo;ve cracked it for myself.</p>
-<p>These two episodes made me realize a few things. You have to push yourself to experiment with different methods and dare to set the grinder finer/coarser in larger increments. Fiddling with the V60 reconnected me with the process of making coffee, so I decided to put the Aeropress in the travel kit for now.</p>]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>kotty</title>
-      <link>https://istvnurbn.me/2022/09/kotty/</link>
-      <pubDate>Mon, 19 Sep 2022 08:01:01 +0200</pubDate>
-      
-      <guid>https://istvnurbn.me/2022/09/kotty/</guid>
-      <description>&lt;p&gt;I visit local cafes at least twice a month and usually buy beans from Hungarian micro-roasters. I&amp;rsquo;ve mostly been interested in filter roasts, but recently I came across a blend specifically for the moka pot in an unusual package.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I visit local cafes at least twice a month and usually buy beans from Hungarian micro-roasters. I&rsquo;ve mostly been interested in filter roasts, but recently I came across a blend specifically for the moka pot in an unusual package.</p>
+<p>These two episodes made me realize a few things. You have to push yourself to experiment with different methods and dare to set the grinder finer/coarser in larger increments. Fiddling with the V60 reconnected me with the process of making coffee, so I decided to put the Aeropress in the travel kit for now.</p>]]></content>
+      </entry>
+      <entry>
+        <title>kotty</title>
+        <link rel="alternate" href="https://istvnurbn.me/2022/09/kotty/" />
+        <id>https://istvnurbn.me/2022/09/kotty/</id>
+        <published>2022-09-19T08:01:01+02:00</published>
+        <updated>2023-09-13T10:01:56+02:00</updated>
+        <summary type="html">&lt;p&gt;I visit local cafes at least twice a month and usually buy beans from Hungarian micro-roasters. I&amp;rsquo;ve mostly been interested in filter roasts, but recently I came across a blend specifically for the moka pot in an unusual package.&lt;/p&gt;</summary>
+          <content type="html"><![CDATA[<p>I visit local cafes at least twice a month and usually buy beans from Hungarian micro-roasters. I&rsquo;ve mostly been interested in filter roasts, but recently I came across a blend specifically for the moka pot in an unusual package.</p>
 <p><img loading="lazy" src="/images/posts/002/001.jpg" alt="KOTTY blend in its can packaging."  title="KOTTY blend in its can packaging."  />
 </p>
 <p>After a while I decided to give it a try and bought a <em>can</em>. As far as I know, Lucky Cap Roastery is the first from Hungary to have a plantation in Lourdes, Costa Rica. The coffees that come from this place are branded &ldquo;Bányai&rdquo; and the above is no exception.</p>
@@ -75,8 +73,9 @@
 <dl>
 <dt>kotty</dt>
 <dd>Short for <em>kotyogós</em>, the Hungarian nickname for the moka pot.</dd>
-</dl>]]></content:encoded>
-    </item>
-    
-  </channel>
-</rss>
+</dl>]]></content>
+      </entry>
+
+</feed>
+
+

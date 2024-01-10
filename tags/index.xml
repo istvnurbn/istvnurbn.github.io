@@ -1,96 +1,91 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>tags on istvn.urbn</title>
-    <link>https://istvnurbn.me/tags/</link>
-    <description>Recent content in tags on istvn.urbn</description>
-    <image>
-      <title>istvn.urbn</title>
-      <url>https://istvnurbn.me/cover.png</url>
-      <link>https://istvnurbn.me/cover.png</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>© 2022-{year} István Urbán – [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright><atom:link href="https://istvnurbn.me/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>coffee</title>
-      <link>https://istvnurbn.me/tags/coffee/</link>
-      <pubDate>Fri, 12 May 2023 08:41:39 +0200</pubDate>
-      
-      <guid>https://istvnurbn.me/tags/coffee/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>tags on istvn.urbn</title>
+  <link rel="alternate" href="https://istvnurbn.me/tags/" />
+  <link rel="self" href="https://istvnurbn.me/tags/index.xml" />
+  <subtitle>Recent content in tags on istvn.urbn</subtitle>
+  <id>https://istvnurbn.me/tags/</id>
+  <generator uri="http://gohugo.io" version="0.121.2">Hugo</generator>
+  <language>en-us</language>
+  <updated>0001-01-01T00:00:00Z</updated>
+  <author>
+    <name>István Urbán</name>
     
-    <item>
-      <title>blog</title>
-      <link>https://istvnurbn.me/tags/blog/</link>
-      <pubDate>Wed, 01 Feb 2023 23:15:39 +0100</pubDate>
-      
-      <guid>https://istvnurbn.me/tags/blog/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>poetry</title>
-      <link>https://istvnurbn.me/tags/poetry/</link>
-      <pubDate>Wed, 01 Feb 2023 23:15:39 +0100</pubDate>
-      
-      <guid>https://istvnurbn.me/tags/poetry/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>project</title>
-      <link>https://istvnurbn.me/tags/project/</link>
-      <pubDate>Fri, 13 Jan 2023 19:36:35 +0100</pubDate>
-      
-      <guid>https://istvnurbn.me/tags/project/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>personal</title>
-      <link>https://istvnurbn.me/tags/personal/</link>
-      <pubDate>Tue, 03 Jan 2023 17:42:59 +0100</pubDate>
-      
-      <guid>https://istvnurbn.me/tags/personal/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>geek</title>
-      <link>https://istvnurbn.me/tags/geek/</link>
-      <pubDate>Tue, 27 Sep 2022 18:20:22 +0200</pubDate>
-      
-      <guid>https://istvnurbn.me/tags/geek/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>site</title>
-      <link>https://istvnurbn.me/tags/site/</link>
-      <pubDate>Tue, 27 Sep 2022 18:20:22 +0200</pubDate>
-      
-      <guid>https://istvnurbn.me/tags/site/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>hardware</title>
-      <link>https://istvnurbn.me/tags/hardware/</link>
-      <pubDate>Wed, 06 Apr 2022 09:37:54 +0200</pubDate>
-      
-      <guid>https://istvnurbn.me/tags/hardware/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-  </channel>
-</rss>
+  </author>
+  <rights>© 2022-{year} István Urbán – [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</rights>
+      <entry>
+        <title>coffee</title>
+        <link rel="alternate" href="https://istvnurbn.me/tags/coffee/" />
+        <id>https://istvnurbn.me/tags/coffee/</id>
+        <published>2023-05-12T08:41:39+02:00</published>
+        <updated>2023-09-13T10:27:46+02:00</updated>
+        <summary type="html"></summary>
+          <content type="html"><![CDATA[]]></content>
+      </entry>
+      <entry>
+        <title>blog</title>
+        <link rel="alternate" href="https://istvnurbn.me/tags/blog/" />
+        <id>https://istvnurbn.me/tags/blog/</id>
+        <published>2023-02-01T23:15:39+01:00</published>
+        <updated>2023-09-13T10:38:34+02:00</updated>
+        <summary type="html"></summary>
+          <content type="html"><![CDATA[]]></content>
+      </entry>
+      <entry>
+        <title>poetry</title>
+        <link rel="alternate" href="https://istvnurbn.me/tags/poetry/" />
+        <id>https://istvnurbn.me/tags/poetry/</id>
+        <published>2023-02-01T23:15:39+01:00</published>
+        <updated>2023-09-13T10:01:56+02:00</updated>
+        <summary type="html"></summary>
+          <content type="html"><![CDATA[]]></content>
+      </entry>
+      <entry>
+        <title>project</title>
+        <link rel="alternate" href="https://istvnurbn.me/tags/project/" />
+        <id>https://istvnurbn.me/tags/project/</id>
+        <published>2023-01-13T19:36:35+01:00</published>
+        <updated>2023-09-13T10:01:56+02:00</updated>
+        <summary type="html"></summary>
+          <content type="html"><![CDATA[]]></content>
+      </entry>
+      <entry>
+        <title>personal</title>
+        <link rel="alternate" href="https://istvnurbn.me/tags/personal/" />
+        <id>https://istvnurbn.me/tags/personal/</id>
+        <published>2023-01-03T17:42:59+01:00</published>
+        <updated>2023-09-13T10:01:56+02:00</updated>
+        <summary type="html"></summary>
+          <content type="html"><![CDATA[]]></content>
+      </entry>
+      <entry>
+        <title>geek</title>
+        <link rel="alternate" href="https://istvnurbn.me/tags/geek/" />
+        <id>https://istvnurbn.me/tags/geek/</id>
+        <published>2022-09-27T18:20:22+02:00</published>
+        <updated>2023-09-13T10:01:56+02:00</updated>
+        <summary type="html"></summary>
+          <content type="html"><![CDATA[]]></content>
+      </entry>
+      <entry>
+        <title>site</title>
+        <link rel="alternate" href="https://istvnurbn.me/tags/site/" />
+        <id>https://istvnurbn.me/tags/site/</id>
+        <published>2022-09-27T18:20:22+02:00</published>
+        <updated>2023-09-13T10:01:56+02:00</updated>
+        <summary type="html"></summary>
+          <content type="html"><![CDATA[]]></content>
+      </entry>
+      <entry>
+        <title>hardware</title>
+        <link rel="alternate" href="https://istvnurbn.me/tags/hardware/" />
+        <id>https://istvnurbn.me/tags/hardware/</id>
+        <published>2022-04-06T09:37:54+02:00</published>
+        <updated>2023-09-13T10:01:56+02:00</updated>
+        <summary type="html"></summary>
+          <content type="html"><![CDATA[]]></content>
+      </entry>
+
+</feed>
+
+
