@@ -4,7 +4,7 @@ Source files for the personal & opinionated blog of István Urbán
 
 ## Licensing
 
-The blog content and assets (under `/content` & `/static` respectively) is under the [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license unless othervise noted.
+The blog content and assets (under `/content` & `/static` respectively) are under the [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license unless othervise noted.
 
 The Hugo Framework used to create this website is under the [Apache License](https://github.com/gohugoio/hugo/blob/master/LICENSE).
 

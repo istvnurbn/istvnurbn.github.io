@@ -1,5 +1,5 @@
 ---
-title: "cv"
+title: "cv - tldr edition"
 draft: false
 ShowReadingTime: false
 ShowPostNavLinks: false
@@ -11,13 +11,13 @@ cover:
   hidden: true
 ---
 
-*This page is an almost exact copy of my [LinkedIn](https://www.linkedin.com/in/istvanurban/) profile. Alternatively, you can [download my resume](/files/istvan_urban_cv.pdf) as a PDF file.*
+*This page is an almost exact copy of my [LinkedIn](https://www.linkedin.com/in/istvanurban/) profile. Alternatively, you can [download](/files/istvan_urban_cv_tldr.pdf) it as a PDF file.*
 
 <!--more-->
 
 ## Summary
 
-I'm a seasoned corporate tax professional with a proven track record in nearly every part of the tax cycle (calculation, accounting, reporting, compliance, and prior-year adjustments). I have a strong accounting background and have dipped my toes in transfer pricing and statutory finance.
+I have extensive experience in corporate tax, ranging from calculation to reporting, while also touching on accounting and compliance. I have a solid accounting background and have dealt with transfer pricing, group reporting and statutory finance.
 
 ## Experience
 
@@ -28,10 +28,10 @@ I'm a seasoned corporate tax professional with a proven track record in nearly e
 I lead projects related to statutory accounting, reporting, and tax processes in the EMEA region, where I am responsible for:
 
 - Support the implementation of new business models, mergers and integrations while adhering to applicable corporate frameworks.
-- Actively seek process improvements and implement corrective actions in consultation with the EAME A2R Head.
-- Ensure automation is prioritized when building business cases to decide if investment in new A2R Statutory and Tax solutions is required.
-- Leverage technology to drive efficient and effective processes and support the team in digital transformation, process improvement and automation.
-- Foster collaboration with other regions to share best practices and drive effective end-to-end finance operations activities.
+-	Actively seek process improvements and implement corrective actions in consultation with the EAME A2R Head.
+-	Ensure automation is prioritized when building business cases to decide if investment in new A2R Statutory and Tax solutions is required.
+-	Leverage technology to drive efficient and effective processes and support the team in digital transformation, process improvement and automation.
+-	Foster collaboration with other regions to share best practices and drive effective end-to-end finance operations activities.
 
 ### Statutory & Direct Tax Senior Accountant
 
@@ -81,7 +81,7 @@ As a member of the EMEA Tax team based in the Budapest Accounting Center, I was 
 
 **Achievements:**
 
-- Successfully transferred all Finance Center-related tax activities and knowledge to India.
+- Successfully transferred all Finance Center-related tax activities and knowledge to India
 
 ### Senior Tax / Forex / Pension Analyst
 
@@ -148,7 +148,7 @@ College of Szolnok (Now: John von Neumann University --- Faculty of Economy) (20
 - Familiarity with macOS, Microsoft Windows, and GNU/Linux environments
 - Class B driver's license
 
-## Soft Skills
+## Personal Skills
 
 - Adapts easily to challenges and is open to new ways of doing things
 - Seek feedback to improve understanding
