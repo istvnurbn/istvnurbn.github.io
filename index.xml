@@ -5,7 +5,7 @@
   <link rel="self" href="https://istvnurbn.me/index.xml" />
   <subtitle>Recent content on istvn.urbn</subtitle>
   <id>https://istvnurbn.me/</id>
-  <generator uri="http://gohugo.io" version="0.121.2">Hugo</generator>
+  <generator uri="http://gohugo.io" version="0.122.0">Hugo</generator>
   <language>en-us</language>
   <updated>2023-05-12T08:41:39+02:00</updated>
   <author>
@@ -466,27 +466,105 @@
         <link rel="alternate" href="https://istvnurbn.me/about/" />
         <id>https://istvnurbn.me/about/</id>
         <published>0001-01-01T00:00:00Z</published>
-        <updated>2023-09-13T10:01:56+02:00</updated>
+        <updated>2024-02-17T22:29:58+01:00</updated>
         <summary type="html">&lt;h2 id=&#34;congratulations-tada&#34;&gt;congratulations! &amp;#x1f389;&lt;/h2&gt;
 &lt;p&gt;You&amp;rsquo;ve stumbled upon the personal &amp;amp; opinionated blog of István Urbán.&lt;/p&gt;</summary>
           <content type="html"><![CDATA[<h2 id="congratulations-tada">congratulations! &#x1f389;</h2>
 <p>You&rsquo;ve stumbled upon the personal &amp; opinionated blog of István Urbán.</p>
-<p>I&rsquo;m a thirty-something guy from Hungary with a wide range of interests, from making mixed drinks to self-hosting. In between, I regularly work out, explore new places, and participate in MilSim activities. I&rsquo;m an economist by profession, dealing with corporate taxes, transfer pricing, and statutory accounting. You can check out my <em><a href="/cv/">resume</a></em> if you are so inclined.</p>
+<p>I&rsquo;m a thirty-something guy from Hungary with a wide range of interests, from making mixed drinks to self-hosting. In between, I regularly work out, explore new places, and participate in MilSim activities. I&rsquo;m an economist by profession, dealing with corporate taxes, transfer pricing, and statutory accounting. You can check out my CV <a href="/cv_tldr/">long</a> or <a href="/cv_short/">short</a> if you are so inclined.</p>
 <p>So this is my place where I keep a log of things I am interested in or what I am up to. Other than that, I&rsquo;m open to learning new things to broaden my perspective.</p>
 <p>Feel free to contact me!</p>
 <hr>
 <p>&#x1f4a1; <em>This blog was published under the pseudonym &ldquo;Vox Scurra&rdquo;. Later, I decided to abandon that pseudonym and publish under my real name.</em></p>]]></content>
       </entry>
       <entry>
-        <title>cv</title>
-        <link rel="alternate" href="https://istvnurbn.me/cv/" />
-        <id>https://istvnurbn.me/cv/</id>
+        <title>cv - short edition</title>
+        <link rel="alternate" href="https://istvnurbn.me/cv_short/" />
+        <id>https://istvnurbn.me/cv_short/</id>
         <published>0001-01-01T00:00:00Z</published>
-        <updated>2023-09-14T23:01:02+02:00</updated>
-        <summary type="html">&lt;p&gt;&lt;em&gt;This page is an almost exact copy of my &lt;a href=&#34;https://www.linkedin.com/in/istvanurban/&#34;&gt;LinkedIn&lt;/a&gt; profile. Alternatively, you can &lt;a href=&#34;https://istvnurbn.me/files/istvan_urban_cv.pdf&#34;&gt;download my resume&lt;/a&gt; as a PDF file.&lt;/em&gt;&lt;/p&gt;</summary>
-          <content type="html"><![CDATA[<p><em>This page is an almost exact copy of my <a href="https://www.linkedin.com/in/istvanurban/">LinkedIn</a> profile. Alternatively, you can <a href="/files/istvan_urban_cv.pdf">download my resume</a> as a PDF file.</em></p>
+        <updated>2024-02-17T22:29:58+01:00</updated>
+        <summary type="html">&lt;p&gt;&lt;em&gt;This page is the short version of my &lt;a href=&#34;https://istvnurbn.me/cv_tldr/&#34;&gt;bloated CV&lt;/a&gt;. You can also &lt;a href=&#34;https://istvnurbn.me/files/istvan_urban_cv_short.pdf&#34;&gt;have it&lt;/a&gt; as a PDF file.&lt;/em&gt;&lt;/p&gt;</summary>
+          <content type="html"><![CDATA[<p><em>This page is the short version of my <a href="/cv_tldr/">bloated CV</a>. You can also <a href="/files/istvan_urban_cv_short.pdf">have it</a> as a PDF file.</em></p>
 <h2 id="summary">Summary</h2>
-<p>I&rsquo;m a seasoned corporate tax professional with a proven track record in nearly every part of the tax cycle (calculation, accounting, reporting, compliance, and prior-year adjustments). I have a strong accounting background and have dipped my toes in transfer pricing and statutory finance.</p>
+<p>I have extensive experience in corporate tax, ranging from calculation to reporting, while also touching on accounting and compliance. I have a solid accounting background and have dealt with transfer pricing, group reporting and statutory finance.</p>
+<h2 id="experience">Experience</h2>
+<h3 id="a2r-statutory-and-tax-project-lead">A2R Statutory and Tax Project Lead</h3>
+<p><strong>Syngenta</strong> • July 2023 &ndash; Present</p>
+<p>I participate in projects related to statutory accounting, reporting and tax processes. I assist in introducing new business models, pursue process enhancements with an emphasis on automation, and promote cooperation with other regions.</p>
+<h3 id="statutory--direct-tax-senior-accountant">Statutory &amp; Direct Tax Senior Accountant</h3>
+<p><strong>Syngenta</strong> • February 2021 &ndash; June 2023</p>
+<p>I was responsible for overseeing the statutory and corporate tax matters of the Iberia portfolio. This included preparing financial statements and tax returns, implementing the group&rsquo;s transfer pricing policy and facilitating audits.</p>
+<h3 id="netherlands-direct-tax-and-reporting-junior-manager">Netherlands Direct Tax and Reporting Junior Manager</h3>
+<p><strong>Diageo</strong> • January 2020 &ndash; January 2021</p>
+<p>I was responsible for corporate tax matters for the Dutch portfolio. This included managing tax compliance, calculating corporate tax and monitoring the overall tax position. I prepared management reports and dealt with ad-hoc tax enquiries.</p>
+<h3 id="statutory-compliance-supervisor----corporate-tax">Statutory Compliance Supervisor &ndash; Corporate Tax</h3>
+<p><strong>Diageo</strong> • February 2018 &ndash; December 2019</p>
+<p>I gained experience in managing and reviewing corporate tax-related materials. This included tax compliance, managing the annual cycle for assigned companies, reviewing transfer pricing files, and assisting with team management.</p>
+<h3 id="direct-tax-accountant">Direct Tax Accountant</h3>
+<p><strong>AIG</strong> • May 2016 &ndash; December 2017</p>
+<p>I was a key member of an EMEA tax team, aiding in US GAAP and IFRS tax reporting, assisting with compliance, and serving as a bridge between local and regional finance groups.</p>
+<h3 id="senior-tax--forex--pension-analyst">Senior Tax / Forex / Pension Analyst</h3>
+<p><strong>ExxonMobil</strong> • September 2014 &ndash; May 2016</p>
+<p>I worked with subsidiaries in the EMEA region to manage period-end closing, calculate income tax provisions, analyze pension costs and liabilities, reconcile tax rates and deferred tax balances, and review foreign exchange revaluations.</p>
+<h3 id="accountant">Accountant</h3>
+<p><strong>Budapest University of Technology and Economics</strong> • January 2013 &ndash; September 2014</p>
+<p>I issued foreign currency invoices, prepared financial statements, handled general ledger entries, and prepared financial reports. I also improved service charge posting and streamlined income reporting.</p>
+<h2 id="education">Education</h2>
+<h3 id="msc-in-management-and-leadership-----specialisation-in-production-and-service-management">MSc in Management and Leadership &mdash; Specialisation in Production and Service Management</h3>
+<p>Budapest University of Technology and Economics, Faculty of Economic and Social Sciences (2011 &ndash; 2013, postponed)</p>
+<h3 id="chartered-accountant">Chartered Accountant</h3>
+<p>Perfekt Gazdasági Tanácsadó, Oktató és Kiadó Zrt. (2010 &ndash; 2011)</p>
+<h3 id="ba-in-finance-and-accounting-----specialisation-in-controlling">BA in Finance and Accounting &mdash; Specialisation in Controlling</h3>
+<p>College of Szolnok (Now: John von Neumann University &mdash; Faculty of Economy) (2007 &ndash; 2011)</p>
+<h2 id="languages">Languages</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Hungarian</strong></td>
+<td>native speaker</td>
+</tr>
+<tr>
+<td><strong>English</strong></td>
+<td>fluent</td>
+</tr>
+<tr>
+<td><strong>German</strong></td>
+<td>intermediate level that needs a refresh (not used for 10+ years)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="technical-competencies">Technical Competencies</h2>
+<ul>
+<li>Experience with multiple ERP systems: SAP, Infor SunSystems, and Oracle Applications</li>
+<li>Ability to use Thomson Reuters OneSource Tax Provisioning, Dataflow, and Corporate Tax; TCSL Alphatag and Alphatax</li>
+<li>Proficient in the Microsoft Office family of programs</li>
+<li>Familiarity with macOS, Microsoft Windows, and GNU/Linux environments</li>
+<li>Class B driver&rsquo;s license</li>
+</ul>
+<h2 id="personal-skills">Personal Skills</h2>
+<ul>
+<li>Adapts easily to challenges and is open to new ways of doing things</li>
+<li>Seek feedback to improve understanding</li>
+<li>Able to perform tasks effectively with minimal assistance</li>
+<li>Has a practical vision of what can be accomplished</li>
+</ul>]]></content>
+      </entry>
+      <entry>
+        <title>cv - tldr edition</title>
+        <link rel="alternate" href="https://istvnurbn.me/cv_tldr/" />
+        <id>https://istvnurbn.me/cv_tldr/</id>
+        <published>0001-01-01T00:00:00Z</published>
+        <updated>2024-02-17T22:29:58+01:00</updated>
+        <summary type="html">&lt;p&gt;&lt;em&gt;This page is an almost exact copy of my &lt;a href=&#34;https://www.linkedin.com/in/istvanurban/&#34;&gt;LinkedIn&lt;/a&gt; profile. Alternatively, you can &lt;a href=&#34;https://istvnurbn.me/files/istvan_urban_cv_tldr.pdf&#34;&gt;download&lt;/a&gt; it as a PDF file.&lt;/em&gt;&lt;/p&gt;</summary>
+          <content type="html"><![CDATA[<p><em>This page is an almost exact copy of my <a href="https://www.linkedin.com/in/istvanurban/">LinkedIn</a> profile. Alternatively, you can <a href="/files/istvan_urban_cv_tldr.pdf">download</a> it as a PDF file.</em></p>
+<h2 id="summary">Summary</h2>
+<p>I have extensive experience in corporate tax, ranging from calculation to reporting, while also touching on accounting and compliance. I have a solid accounting background and have dealt with transfer pricing, group reporting and statutory finance.</p>
 <h2 id="experience">Experience</h2>
 <h3 id="a2r-statutory-and-tax-project-lead">A2R Statutory and Tax Project Lead</h3>
 <p><strong>Syngenta</strong> • July 2023 &ndash; Present</p>
@@ -538,7 +616,7 @@
 </ul>
 <p><strong>Achievements:</strong></p>
 <ul>
-<li>Successfully transferred all Finance Center-related tax activities and knowledge to India.</li>
+<li>Successfully transferred all Finance Center-related tax activities and knowledge to India</li>
 </ul>
 <h3 id="senior-tax--forex--pension-analyst">Senior Tax / Forex / Pension Analyst</h3>
 <p><strong>ExxonMobil</strong> • September 2014 &ndash; May 2016</p>
@@ -609,7 +687,7 @@
 <li>Familiarity with macOS, Microsoft Windows, and GNU/Linux environments</li>
 <li>Class B driver&rsquo;s license</li>
 </ul>
-<h2 id="soft-skills">Soft Skills</h2>
+<h2 id="personal-skills">Personal Skills</h2>
 <ul>
 <li>Adapts easily to challenges and is open to new ways of doing things</li>
 <li>Seek feedback to improve understanding</li>
