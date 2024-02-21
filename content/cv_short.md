@@ -11,7 +11,7 @@ cover:
   hidden: true
 ---
 
-*This page is the short version of my [bloated CV](/cv_tldr/). You can also [have it](/files/istvan_urban_cv_short.pdf) as a PDF file.*
+*This page is the short version of my [detailed CV](/cv_tldr/). You can also [have it](/files/istvan_urban_cv_clean_short.pdf) as a PDF file.*
 
 <!--more-->
 
