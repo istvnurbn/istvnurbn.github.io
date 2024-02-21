@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>project on istvn.urbn</title>
+  <title>Project on istvn.urbn</title>
   <link rel="alternate" href="https://istvnurbn.me/tags/project/" />
   <link rel="self" href="https://istvnurbn.me/tags/project/index.xml" />
-  <subtitle>Recent content in project on istvn.urbn</subtitle>
+  <subtitle>Recent content in Project on istvn.urbn</subtitle>
   <id>https://istvnurbn.me/tags/project/</id>
-  <generator uri="http://gohugo.io" version="0.122.0">Hugo</generator>
+  <generator uri="http://gohugo.io" version="0.123.1">Hugo</generator>
   <language>en-us</language>
   <updated>2023-01-13T19:36:35+01:00</updated>
   <author>
