@@ -5,14 +5,14 @@
   <link rel="self" href="https://istvnurbn.me/index.xml" />
   <subtitle>Recent content on istvn.urbn</subtitle>
   <id>https://istvnurbn.me/</id>
-  <generator uri="http://gohugo.io" version="0.123.3">Hugo</generator>
+  <generator uri="http://gohugo.io" version="0.123.4">Hugo</generator>
   <language>en-us</language>
   <updated>2023-05-12T08:41:39+02:00</updated>
   <author>
     <name>István Urbán</name>
     
   </author>
-  <rights>© 2022-{year} István Urbán – [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</rights>
+  <rights>© 2022-{year} István Urbán - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</rights>
       <entry>
         <title>down the coffee spiral</title>
         <link rel="alternate" href="https://istvnurbn.me/2023/05/down-the-coffee-spiral/" />
@@ -482,7 +482,7 @@
         <link rel="alternate" href="https://istvnurbn.me/cv_short/" />
         <id>https://istvnurbn.me/cv_short/</id>
         <published>0001-01-01T00:00:00Z</published>
-        <updated>2024-02-25T00:52:59+01:00</updated>
+        <updated>2024-02-28T16:13:23+01:00</updated>
         <summary type="html">&lt;p&gt;&lt;em&gt;This page is the short version of my &lt;a href=&#34;https://istvnurbn.me/cv_tldr/&#34;&gt;detailed CV&lt;/a&gt;. You can also &lt;a href=&#34;https://istvnurbn.me/files/cv/istvan_urban_cv_clean_short.pdf&#34;&gt;have it&lt;/a&gt; as a PDF file.&lt;/em&gt;&lt;/p&gt;</summary>
           <content type="html"><![CDATA[<p><em>This page is the short version of my <a href="/cv_tldr/">detailed CV</a>. You can also <a href="/files/cv/istvan_urban_cv_clean_short.pdf">have it</a> as a PDF file.</em></p>
 <h2 id="summary">Summary</h2>
@@ -515,7 +515,7 @@
 <h3 id="chartered-accountant">Chartered Accountant</h3>
 <p>Perfekt Gazdasági Tanácsadó, Oktató és Kiadó Zrt. (2010 &ndash; 2011)</p>
 <h3 id="ba-in-finance-and-accounting-----specialisation-in-controlling">BA in Finance and Accounting &mdash; Specialisation in Controlling</h3>
-<p>College of Szolnok (Now: John von Neumann University &mdash; Faculty of Economy) (2007 &ndash; 2011)</p>
+<p>College of Szolnok (Now: University of Debrecen) (2007 &ndash; 2011)</p>
 <h2 id="languages">Languages</h2>
 <table>
 <thead>
@@ -533,10 +533,6 @@
 <td><strong>English</strong></td>
 <td>fluent</td>
 </tr>
-<tr>
-<td><strong>German</strong></td>
-<td>intermediate level that needs a refresh (not used for 10+ years)</td>
-</tr>
 </tbody>
 </table>
 <h2 id="technical-competencies">Technical Competencies</h2>
@@ -545,7 +541,6 @@
 <li>Ability to use Thomson Reuters OneSource Tax Provisioning, Dataflow, and Corporate Tax; TCSL Alphatag and Alphatax</li>
 <li>Proficient in the Microsoft Office family of programs</li>
 <li>Familiarity with macOS, Microsoft Windows, and GNU/Linux environments</li>
-<li>Class B driver&rsquo;s license</li>
 </ul>
 <h2 id="personal-skills">Personal Skills</h2>
 <ul>
@@ -560,7 +555,7 @@
         <link rel="alternate" href="https://istvnurbn.me/cv_tldr/" />
         <id>https://istvnurbn.me/cv_tldr/</id>
         <published>0001-01-01T00:00:00Z</published>
-        <updated>2024-02-25T00:52:59+01:00</updated>
+        <updated>2024-02-28T16:13:23+01:00</updated>
         <summary type="html">&lt;p&gt;&lt;em&gt;This page is an almost exact copy of my &lt;a href=&#34;https://www.linkedin.com/in/istvanurban/&#34;&gt;LinkedIn&lt;/a&gt; profile. Alternatively, you can &lt;a href=&#34;https://istvnurbn.me/files/cv/istvan_urban_cv_clean_tldr.pdf&#34;&gt;download&lt;/a&gt; it as a PDF file. A &lt;a href=&#34;https://istvnurbn.me/cv_short/&#34;&gt;short version&lt;/a&gt; is also available.&lt;/em&gt;&lt;/p&gt;</summary>
           <content type="html"><![CDATA[<p><em>This page is an almost exact copy of my <a href="https://www.linkedin.com/in/istvanurban/">LinkedIn</a> profile. Alternatively, you can <a href="/files/cv/istvan_urban_cv_clean_tldr.pdf">download</a> it as a PDF file. A <a href="/cv_short/">short version</a> is also available.</em></p>
 <h2 id="summary">Summary</h2>
@@ -655,7 +650,7 @@
 <h3 id="chartered-accountant">Chartered Accountant</h3>
 <p>Perfekt Gazdasági Tanácsadó, Oktató és Kiadó Zrt. (2010 &ndash; 2011)</p>
 <h3 id="ba-in-finance-and-accounting-----specialisation-in-controlling">BA in Finance and Accounting &mdash; Specialisation in Controlling</h3>
-<p>College of Szolnok (Now: John von Neumann University &mdash; Faculty of Economy) (2007 &ndash; 2011)</p>
+<p>College of Szolnok (Now: University of Debrecen) (2007 &ndash; 2011)</p>
 <h2 id="languages">Languages</h2>
 <table>
 <thead>
@@ -673,10 +668,6 @@
 <td><strong>English</strong></td>
 <td>fluent</td>
 </tr>
-<tr>
-<td><strong>German</strong></td>
-<td>intermediate level that needs a refresh (not used for 10+ years)</td>
-</tr>
 </tbody>
 </table>
 <h2 id="technical-competencies">Technical Competencies</h2>
@@ -685,7 +676,6 @@
 <li>Ability to use Thomson Reuters OneSource Tax Provisioning, Dataflow, and Corporate Tax; TCSL Alphatag and Alphatax</li>
 <li>Proficient in the Microsoft Office family of programs</li>
 <li>Familiarity with macOS, Microsoft Windows, and GNU/Linux environments</li>
-<li>Class B driver&rsquo;s license</li>
 </ul>
 <h2 id="personal-skills">Personal Skills</h2>
 <ul>
