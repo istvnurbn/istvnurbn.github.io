@@ -130,7 +130,7 @@ Perfekt Gazdasági Tanácsadó, Oktató és Kiadó Zrt. (2010 -- 2011)
 
 ### BA in Finance and Accounting --- Specialisation in Controlling
 
-College of Szolnok (Now: John von Neumann University --- Faculty of Economy) (2007 -- 2011)
+College of Szolnok (Now: University of Debrecen) (2007 -- 2011)
 
 ## Languages
 
@@ -138,7 +138,6 @@ College of Szolnok (Now: John von Neumann University --- Faculty of Economy) (20
 |---------------|------------------------------------------------------------------|
 | **Hungarian** | native speaker                                                   |
 | **English**   | fluent                                                           |
-| **German**    | intermediate level that needs a refresh (not used for 10+ years) |
 
 ## Technical Competencies
 
@@ -146,7 +145,6 @@ College of Szolnok (Now: John von Neumann University --- Faculty of Economy) (20
 - Ability to use Thomson Reuters OneSource Tax Provisioning, Dataflow, and Corporate Tax; TCSL Alphatag and Alphatax
 - Proficient in the Microsoft Office family of programs
 - Familiarity with macOS, Microsoft Windows, and GNU/Linux environments
-- Class B driver's license
 
 ## Personal Skills
 
