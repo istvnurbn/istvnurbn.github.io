@@ -466,12 +466,12 @@
         <link rel="alternate" href="https://istvnurbn.me/about/" />
         <id>https://istvnurbn.me/about/</id>
         <published>0001-01-01T00:00:00Z</published>
-        <updated>2024-05-02T12:12:52+02:00</updated>
+        <updated>2024-05-02T12:46:55+02:00</updated>
         <summary type="html">&lt;h2 id=&#34;congratulations-tada&#34;&gt;congratulations! &amp;#x1f389;&lt;/h2&gt;
 &lt;p&gt;You&amp;rsquo;ve stumbled upon the personal &amp;amp; opinionated blog of István Urbán.&lt;/p&gt;</summary>
           <content type="html"><![CDATA[<h2 id="congratulations-tada">congratulations! &#x1f389;</h2>
 <p>You&rsquo;ve stumbled upon the personal &amp; opinionated blog of István Urbán.</p>
-<p>I&rsquo;m a thirty-something guy from Hungary with a wide range of interests, from making mixed drinks to self-hosting. In between, I regularly work out, explore new places, and participate in MilSim activities. I&rsquo;m an economist by profession, dealing with corporate taxes, transfer pricing, and statutory accounting. You can check out my <a href="/cv/tldr/">detailed</a> or <a href="/cv/short/">short</a> CV if you are so inclined.</p>
+<p>I&rsquo;m a thirty-something guy from Hungary with a wide range of interests, from making mixed drinks to self-hosting. In between, I regularly work out, explore new places, and participate in MilSim activities. I&rsquo;m an economist by profession, dealing with corporate taxes, transfer pricing, and statutory accounting. You can check out my <a href="/cv/short/">short</a> or <a href="/cv/tldr/">detailed</a> CV if you are so inclined.</p>
 <p>So this is my place where I keep a log of things I am interested in or what I am up to. Other than that, I&rsquo;m open to learning new things to broaden my perspective.</p>
 <p>Feel free to contact me!</p>
 <hr>
@@ -482,9 +482,9 @@
         <link rel="alternate" href="https://istvnurbn.me/cv/short/" />
         <id>https://istvnurbn.me/cv/short/</id>
         <published>0001-01-01T00:00:00Z</published>
-        <updated>2024-05-02T12:12:52+02:00</updated>
-        <summary type="html">&lt;p&gt;&lt;em&gt;This page is the short version of my &lt;a href=&#34;https://istvnurbn.me/cv/tldr/&#34;&gt;detailed CV&lt;/a&gt;. You can also &lt;a href=&#34;https://istvnurbn.me/files/istvan_urban_cv_clean_short.pdf&#34;&gt;have it&lt;/a&gt; as a PDF file.&lt;/em&gt;&lt;/p&gt;</summary>
-          <content type="html"><![CDATA[<p><em>This page is the short version of my <a href="/cv/tldr/">detailed CV</a>. You can also <a href="/files/istvan_urban_cv_clean_short.pdf">have it</a> as a PDF file.</em></p>
+        <updated>2024-05-02T12:46:55+02:00</updated>
+        <summary type="html">&lt;p&gt;&lt;em&gt;This page is the short version of my &lt;a href=&#34;https://istvnurbn.me/cv/tldr/&#34;&gt;detailed CV&lt;/a&gt;. You can also &lt;a href=&#34;https://istvnurbn.me/cv/istvan_urban_cv_clean_short.pdf&#34;&gt;have it&lt;/a&gt; as a PDF file.&lt;/em&gt;&lt;/p&gt;</summary>
+          <content type="html"><![CDATA[<p><em>This page is the short version of my <a href="/cv/tldr/">detailed CV</a>. You can also <a href="/cv/istvan_urban_cv_clean_short.pdf">have it</a> as a PDF file.</em></p>
 <h2 id="summary">Summary</h2>
 <p>I have extensive experience in corporate tax, ranging from calculation to reporting, while also touching on accounting and compliance. I have a solid accounting background and have dealt with transfer pricing, group reporting and statutory finance.</p>
 <h2 id="experience">Experience</h2>
@@ -555,9 +555,9 @@
         <link rel="alternate" href="https://istvnurbn.me/cv/tldr/" />
         <id>https://istvnurbn.me/cv/tldr/</id>
         <published>0001-01-01T00:00:00Z</published>
-        <updated>2024-05-02T12:12:52+02:00</updated>
-        <summary type="html">&lt;p&gt;&lt;em&gt;This page is an almost exact copy of my &lt;a href=&#34;https://www.linkedin.com/in/istvanurban/&#34;&gt;LinkedIn&lt;/a&gt; profile. Alternatively, you can &lt;a href=&#34;https://istvnurbn.me/files/istvan_urban_cv_clean_tldr.pdf&#34;&gt;download&lt;/a&gt; it as a PDF file. A &lt;a href=&#34;https://istvnurbn.me/cv/short/&#34;&gt;short version&lt;/a&gt; is also available.&lt;/em&gt;&lt;/p&gt;</summary>
-          <content type="html"><![CDATA[<p><em>This page is an almost exact copy of my <a href="https://www.linkedin.com/in/istvanurban/">LinkedIn</a> profile. Alternatively, you can <a href="/files/istvan_urban_cv_clean_tldr.pdf">download</a> it as a PDF file. A <a href="/cv/short/">short version</a> is also available.</em></p>
+        <updated>2024-05-02T12:46:55+02:00</updated>
+        <summary type="html">&lt;p&gt;&lt;em&gt;This page is an almost exact copy of my &lt;a href=&#34;https://www.linkedin.com/in/istvanurban/&#34;&gt;LinkedIn&lt;/a&gt; profile. Alternatively, you can &lt;a href=&#34;https://istvnurbn.me/cv/istvan_urban_cv_clean_tldr.pdf&#34;&gt;download&lt;/a&gt; it as a PDF file. A &lt;a href=&#34;https://istvnurbn.me/cv/short/&#34;&gt;short version&lt;/a&gt; is also available.&lt;/em&gt;&lt;/p&gt;</summary>
+          <content type="html"><![CDATA[<p><em>This page is an almost exact copy of my <a href="https://www.linkedin.com/in/istvanurban/">LinkedIn</a> profile. Alternatively, you can <a href="/cv/istvan_urban_cv_clean_tldr.pdf">download</a> it as a PDF file. A <a href="/cv/short/">short version</a> is also available.</em></p>
 <h2 id="summary">Summary</h2>
 <p>I have extensive experience in corporate tax, ranging from calculation to reporting, while also touching on accounting and compliance. I have a solid accounting background and have dealt with transfer pricing, group reporting and statutory finance.</p>
 <h2 id="experience">Experience</h2>
