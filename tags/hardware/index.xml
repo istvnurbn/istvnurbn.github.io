@@ -5,7 +5,7 @@
   <link rel="self" href="https://istvnurbn.me/tags/hardware/index.xml" />
   <subtitle>Recent content in Hardware on istvn.urbn</subtitle>
   <id>https://istvnurbn.me/tags/hardware/</id>
-  <generator uri="http://gohugo.io" version="0.123.7">Hugo</generator>
+  <generator uri="http://gohugo.io" version="0.125.5">Hugo</generator>
   <language>en-us</language>
   <updated>2022-04-06T09:37:54+02:00</updated>
   <author>
@@ -18,7 +18,7 @@
         <link rel="alternate" href="https://istvnurbn.me/2022/04/system-upgrade/" />
         <id>https://istvnurbn.me/2022/04/system-upgrade/</id>
         <published>2022-04-06T09:37:54+02:00</published>
-        <updated>2023-09-13T10:01:56+02:00</updated>
+        <updated>2024-05-02T12:12:52+02:00</updated>
         <summary type="html">&lt;h1 id=&#34;prelude-scroll&#34;&gt;prelude &amp;#x1f4dc;&lt;/h1&gt;</summary>
           <content type="html"><![CDATA[<h1 id="prelude-scroll">prelude &#x1f4dc;</h1>
 <p>It was 2015 when I bought my first Apple machine in the form of a MacBook Pro and said goodbye to Windows in my personal life forever. This platform - macOS - is a good place for me to have a UNIX system. I can play around with the terminal, use as much open source software as I can, and still have the convenience that Cupertino provides.</p>
