@@ -4,7 +4,7 @@ date: 2022-10-19T12:40:36+02:00
 draft: false
 tags: ["coffee"]
 cover:
-  image: "/images/cover/004.jpg"
+  image: "cover-004.jpg"
   caption: "Preparing coffee with the V60."
   alt: "Preparing coffee with the V60."
   hidden: true

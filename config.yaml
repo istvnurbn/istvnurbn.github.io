@@ -85,7 +85,7 @@ params:
     subtitle: |
       This is the internet home of István Urbán.\
       Views and typos my own.
-    imageUrl: "/images/profile.jpg" # optional
+    imageUrl: "/img/profile.jpg" # optional
     imageTitle: "Well, it's me..." # optional
     imageWidth: 300 # custom size
     imageHeight: 300 # custom size

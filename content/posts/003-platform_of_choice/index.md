@@ -4,7 +4,7 @@ date: 2022-09-27T18:20:22+02:00
 draft: false
 tags: ["geek", "site"]
 cover:
-  image: "/images/cover/003.jpg"
+  image: "cover-003.jpg"
   caption: "Part of the configuration of this site in VS Codium."
   alt: "Part of the configuration of this site in VS Codium."
   hidden: true

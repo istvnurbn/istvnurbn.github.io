@@ -3,7 +3,7 @@ title: "way to boshan"
 date: 2023-02-01T23:15:39+01:00
 tags: ["blog", "poetry"]
 cover:
-  image: "/images/cover/008.jpg"
+  image: "cover-008.jpg"
   caption: "Part of Fan Zeng's Cao Cao Riding, watercolor and ink on paper scroll."
   alt: "Part of Fan Zeng's Cao Cao Riding, watercolor and ink on paper scroll."
   hidden: true

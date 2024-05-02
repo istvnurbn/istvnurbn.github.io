@@ -3,7 +3,7 @@ title: "down the coffee spiral"
 date: 2023-05-12T08:41:39+02:00
 tags: ["coffee"]
 cover:
-  image: "/images/cover/009.jpg"
+  image: "cover-009.jpg"
   caption: "Having a cup of coffee on my balcony."
   alt: "Having a cup of coffee on my balcony."
   hidden: true
@@ -19,9 +19,9 @@ Speaking of that video, I started seeing more and more content related to coffee
 
 Remember the part in the introduction where I mentioned that the taste became hollow? That feeling became more pronounced after each visit to a cafe. I had a nice cup of coffee, bought the same beans and made it the same way at home, but the taste wasn't as good. So I decided to buy a top of the line hand grinder. The research was quick and I ordered a 1Zpresso K-Max. After about a month of using it, I can say that it was an excellent decision.
 
-![A side-by-side comparison of the two manual grinders and their end products:](/images/posts/009/001.jpg "A side-by-side comparison of the two manual grinders and their end products.")
+![A side-by-side comparison of the two manual grinders and their end products:](fig_009_001.jpg "A side-by-side comparison of the two manual grinders and their end products.")
 
-I A/B tested the old and new grinders with a friend of mine using the same coffee and method. We came to the conclusion that we would be happier if the difference wasn't so stark. This is not surprising as the K-MAX grinds as evenly as possible. It produces more fines than I would like, but I can take that trade-off any day of the week because the flavors are excellent. I felt the need to tell my brother about my discovery because he happens to be a food engineer. He made me realize that he had written his thesis on the importance of particle size in powder blends. So it wasn't a surprise to him. Hopefully my honeymoon with my new grinder will last longer than my memory, because I don't want to invest more in this hobby anytime soon. However, I do have some ideas about my future investments...... :grinning_face_with_sweat:
+I A/B tested the old and new grinders with a friend of mine using the same coffee and method. We came to the conclusion that we would be happier if the difference wasn't so stark. This is not surprising as the K-MAX grinds as evenly as possible. It produces more fines than I would like, but I can take that trade-off any day of the week because the flavors are excellent. I felt the need to tell my brother about my discovery because he happens to be a food engineer. He made me realize that he had written his thesis on the importance of particle size in powder blends. So it wasn't a surprise to him. Hopefully my honeymoon with my new grinder will last longer than my memory, because I don't want to invest more in this hobby anytime soon. However, I do have some ideas about my future investments... :sweat_smile:
 
 # starting a cult :church:
 

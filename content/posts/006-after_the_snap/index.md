@@ -4,7 +4,7 @@ date: 2023-01-03T17:42:59+01:00
 draft: false
 tags: ["blog", "personal"]
 cover:
-  image: "/images/cover/006.jpg"
+  image: "cover-006.jpg"
   caption: "Photo by Kreative Kwame on Unsplash."
   alt: "Photo by Kreative Kwame on Unsplash."
   hidden: true

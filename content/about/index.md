@@ -11,7 +11,7 @@ You've stumbled upon the personal & opinionated blog of István Urbán.
 
 <!--more-->
 
-I'm a thirty-something guy from Hungary with a wide range of interests, from making mixed drinks to self-hosting. In between, I regularly work out, explore new places, and participate in MilSim activities. I'm an economist by profession, dealing with corporate taxes, transfer pricing, and statutory accounting. You can check out my [detailed](/cv_tldr/) or [short](/cv_short/) CV if you are so inclined.
+I'm a thirty-something guy from Hungary with a wide range of interests, from making mixed drinks to self-hosting. In between, I regularly work out, explore new places, and participate in MilSim activities. I'm an economist by profession, dealing with corporate taxes, transfer pricing, and statutory accounting. You can check out my [detailed](/cv/tldr/) or [short](/cv/short/) CV if you are so inclined.
 
 So this is my place where I keep a log of things I am interested in or what I am up to. Other than that, I'm open to learning new things to broaden my perspective.
 

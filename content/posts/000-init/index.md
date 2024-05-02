@@ -4,7 +4,7 @@ date: 2022-02-20T19:59:31+01:00
 draft: false
 tags: ["blog"]
 cover:
-  image: "/images/cover/000.jpg"
+  image: "cover-000.jpg"
   caption: "Version 7 of Unix for the PDP-11, running on the SIMH PDP-11 simulator. The contents of '/etc', including configuration files, binary executables, and more."
   alt: "Version 7 of Unix for the PDP-11, running on the SIMH PDP-11 simulator. The contents of '/etc', including configuration files, binary executables, and more."
   hidden: true

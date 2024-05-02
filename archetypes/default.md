@@ -3,7 +3,7 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 tags: ["tags go here"]
 cover:
-  image: "/images/cover/XXX.jpg"
+  image: "cover-XXX.jpg"
   caption: "Caption for the image above."
   alt: "Alt text for the image above."
   hidden: true

@@ -4,7 +4,7 @@ date: 2022-09-19T08:01:01+02:00
 draft: false
 tags: ["coffee"]
 cover:
-  image: "/images/cover/002.jpg"
+  image: "cover-002.jpg"
   caption: "The moka pot. Its unique shape dates back to 1933, when it was invented by Alfonso Bialetti."
   alt: "The moka pot. Its unique shape dates back to 1933, when it was invented by Alfonso Bialetti."
   hidden: true
@@ -14,7 +14,7 @@ I visit local cafes at least twice a month and usually buy beans from Hungarian 
 
 <!--more-->
 
-![KOTTY blend in its can packaging.](/images/posts/002/001.jpg "KOTTY blend in its can packaging.")
+![KOTTY blend in its can packaging.](fig_002_001.jpg "KOTTY blend in its can packaging.")
  
 After a while I decided to give it a try and bought a *can*. As far as I know, Lucky Cap Roastery is the first from Hungary to have a plantation in Lourdes, Costa Rica. The coffees that come from this place are branded "Bányai" and the above is no exception.
  

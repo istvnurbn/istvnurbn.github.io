@@ -4,7 +4,7 @@ date: 2023-01-13T19:36:35+01:00
 draft: false
 tags: ["blog", "project"]
 cover:
-  image: "/images/cover/007.jpg"
+  image: "cover-007.jpg"
   caption: "Photo by Marcin Simonides on Unsplash."
   alt: "Photo by Marcin Simonides on Unsplash."
   hidden: true

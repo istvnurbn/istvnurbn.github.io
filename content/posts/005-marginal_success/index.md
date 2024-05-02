@@ -4,7 +4,7 @@ date: 2022-11-29T09:29:25+01:00
 draft: false
 tags: ["blog", "personal"]
 cover:
-  image: "/images/cover/005.jpg"
+  image: "cover-005.jpg"
   caption: "Photo by Kenrick Mills on Unsplash."
   alt: "Photo by Kenrick Mills on Unsplash."
   hidden: true
