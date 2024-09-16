@@ -13,8 +13,9 @@ enableGitInfo: true
 enableEmoji: true
 enableInlineShortcodes: true
 
-paginate: 7
-paginatePath: "page"
+pagination:
+  pagerSize: 7
+  path: "page"
 
 permalinks:
   posts: "/:year/:month/:title/"
