@@ -1,19 +1,14 @@
----
-title: "cv - short edition"
-draft: false
-ShowReadingTime: false
-ShowPostNavLinks: false
-showtoc: true
-cover:
-  image: "/cv/cover-cv.jpg"
-  caption: "Photo by Scott Graham on Unsplash."
-  alt: "Photo by Scott Graham on Unsplash."
-  hidden: true
----
++++
+title = "cv - short edition"
+draft = false
+showBreadcrumbs = false
+showDate = false
+showReadingTime = false
+showEdit = false
+showTableOfContents = true
++++
 
 *This page is the short version of my [detailed CV](/cv/tldr/). You can also [have it](/cv/istvan_urban_cv_clean_short.pdf) as a PDF file.*
-
-<!--more-->
 
 ## Summary
 

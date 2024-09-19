@@ -1,19 +1,14 @@
----
-title: "cv - tldr edition"
-draft: false
-ShowReadingTime: false
-ShowPostNavLinks: false
-showtoc: true
-cover:
-  image: "/cv/cover-cv.jpg"
-  caption: "Photo by Scott Graham on Unsplash."
-  alt: "Photo by Scott Graham on Unsplash."
-  hidden: true
----
++++
+title = "cv - tldr edition"
+draft = false
+showBreadcrumbs = false
+showDate = false
+showReadingTime = false
+showEdit = false
+showTableOfContents = true
++++
 
 *This page is an almost exact copy of my [LinkedIn](https://www.linkedin.com/in/istvanurban/) profile. Alternatively, you can [download](/cv/istvan_urban_cv_clean_tldr.pdf) it as a PDF file. A [short version](/cv/short/) is also available.*
-
-<!--more-->
 
 ## Summary
 

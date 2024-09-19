@@ -1,18 +1,14 @@
----
-title: "system upgrade"
-date: 2022-04-06T09:37:54+02:00
-draft: false
-tags: ["geek", "hardware"]
-cover:
-  image: "cover-001.jpg"
-  caption: "M1 chip logo originally designed by John Siracusa."
-  alt: "M1 chip logo originally designed by John Siracusa."
-  hidden: true
----
++++
+title = "system upgrade"
+summary = "I decided it was time for me to upgrade to the 2021 MacBook Pro line."
+tags = ["geek", "hardware"]
+date = 2022-04-06T09:37:54+02:00
+featureAlt = "M1 chip logo originally designed by John Siracusa."
+coverCaption = "M1 chip logo originally designed by John Siracusa."
+draft = false
++++
 
 # prelude :scroll:
-
-<!--more-->
 
 It was 2015 when I bought my first Apple machine in the form of a MacBook Pro and said goodbye to Windows in my personal life forever. This platform - macOS - is a good place for me to have a UNIX system. I can play around with the terminal, use as much open source software as I can, and still have the convenience that Cupertino provides.
 

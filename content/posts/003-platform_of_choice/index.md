@@ -1,18 +1,13 @@
----
-title: "platform of choice"
-date: 2022-09-27T18:20:22+02:00
-draft: false
-tags: ["geek", "site"]
-cover:
-  image: "cover-003.jpg"
-  caption: "Part of the configuration of this site in VS Codium."
-  alt: "Part of the configuration of this site in VS Codium."
-  hidden: true
----
++++
+title = "platform of choice"
+tags = ["geek", "site"]
+date = 2022-09-27T18:20:22+02:00
+featureAlt = "Part of the configuration of this site in VS Codium."
+coverCaption = "Part of the configuration of this site in VS Codium."
+draft = false
++++
 
 After deciding to start blogging again, my first task was to find a simple yet powerful platform.
-
-<!--more-->
 
 # pepperidge farm remembers :older_man:
 

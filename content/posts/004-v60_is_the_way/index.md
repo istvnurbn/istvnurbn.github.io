@@ -1,18 +1,13 @@
----
-title: "v60 is the way"
-date: 2022-10-19T12:40:36+02:00
-draft: false
-tags: ["coffee"]
-cover:
-  image: "cover-004.jpg"
-  caption: "Preparing coffee with the V60."
-  alt: "Preparing coffee with the V60."
-  hidden: true
----
++++
+title = "v60 is the way"
+tags = ["coffee"]
+date = 2022-10-19T12:40:36+02:00
+featureAlt = "Preparing coffee with the V60."
+coverCaption = "Preparing coffee with the V60."
+draft = false
++++
 
 It's been more than a month since I wrote about keeping an offline log of the coffees I try, and maybe posting some of them on this blog. Good news, the first one is here!
-
-<!--more-->
 
 # meeting the parents :people_holding_hands:
 
@@ -20,7 +15,7 @@ On our recent trip to Slovenia, we happened to visit Stow Coffee in Ljubljana. I
 
 So what is so special about it?
 
-- Along with Coffea canephora, it is the parent of the beloved Coffea arabica. 
+- Along with Coffea canephora, it is the parent of the beloved Coffea arabica.
 - It is considered by some to be an endangered species.
 - It is naturally sweet and has a unique set of flavor characteristics.
 

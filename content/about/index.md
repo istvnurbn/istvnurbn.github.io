@@ -1,15 +1,15 @@
----
-title: "about"
-draft: false
-ShowReadingTime: false
-ShowPostNavLinks: false
----
++++
+title = "about"
+summary = "The personal & opinionated blog of István Urbán"
+draft = false
+showDate = false
+showReadingTime = false
+showEdit = false
++++
 
 ## congratulations! :tada:
 
 You've stumbled upon the personal & opinionated blog of István Urbán.
-
-<!--more-->
 
 I'm a thirty-something guy from Hungary with a wide range of interests, from making mixed drinks to self-hosting. In between, I regularly work out, explore new places, and participate in MilSim activities. I'm an economist by profession, dealing with corporate taxes, transfer pricing, and statutory accounting. You can check out my [short](/cv/short/) or [detailed](/cv/tldr/) CV if you are so inclined.
 

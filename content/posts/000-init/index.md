@@ -1,18 +1,13 @@
----
-title: "init"
-date: 2022-02-20T19:59:31+01:00
-draft: false
-tags: ["blog"]
-cover:
-  image: "cover-000.jpg"
-  caption: "Version 7 of Unix for the PDP-11, running on the SIMH PDP-11 simulator. The contents of '/etc', including configuration files, binary executables, and more."
-  alt: "Version 7 of Unix for the PDP-11, running on the SIMH PDP-11 simulator. The contents of '/etc', including configuration files, binary executables, and more."
-  hidden: true
----
++++
+title = "init"
+tags = ["blog"]
+date = 2022-02-20T19:59:31+01:00
+featureAlt = "Version 7 of Unix for the PDP-11, running on the SIMH PDP-11 simulator. The contents of '/etc', including configuration files, binary executables, and more."
+coverCaption = "Version 7 of Unix for the PDP-11, running on the SIMH PDP-11 simulator. The contents of '/etc', including configuration files, binary executables, and more."
+draft = false
++++
 
 In the past -- about 20 years ago -- I had a personal website hosted on UltraWEB's free service. It was a place where I  could tinker with things I learned in computer science class and express my thoughts in an unrestricted, yet structured way.
-
-<!--more-->
 
 I decided to start something like a blog again with the following goals:
 

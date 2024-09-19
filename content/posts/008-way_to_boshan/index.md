@@ -1,17 +1,13 @@
----
-title: "way to boshan"
-date: 2023-02-01T23:15:39+01:00
-tags: ["blog", "poetry"]
-cover:
-  image: "cover-008.jpg"
-  caption: "Part of Fan Zeng's Cao Cao Riding, watercolor and ink on paper scroll."
-  alt: "Part of Fan Zeng's Cao Cao Riding, watercolor and ink on paper scroll."
-  hidden: true
----
++++
+title = "way to boshan"
+tags = ["blog", "poetry"]
+date = 2023-02-01T23:15:39+01:00
+featureAlt = "Part of Fan Zeng's Cao Cao Riding, watercolor and ink on paper scroll."
+coverCaption = "Part of Fan Zeng's Cao Cao Riding, watercolor and ink on paper scroll."
+draft = true
++++
 
 Being an avid podcast listener for a decade has the consequence of pushing them into the background and not paying much attention to the content. Fortunately, this time I was in an exploratory mood and came across a conversation with Tamás Sajó that triggered something.
-
-<!--more-->
 
 In addition to being extremely knowledgeable, Sajó is the most humble scholar I've ever heard. He can speak on any subject because of his vast knowledge, but he does so with the utmost respect. An art historian by profession, he worked at the Hungarian Academy of Sciences and teaches medieval history and applied information science at CEU. After leaving the Academy, he founded his own publishing house, Studiolum. He translates books, holds online seminars and organizes thematic trips. According to the podcast -- Az élet, meg minden -- he speaks at least 15 (fifteen!) languages and can make himself understood in 15 more.
 
