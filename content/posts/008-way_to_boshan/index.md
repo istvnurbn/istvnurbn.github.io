@@ -1,5 +1,6 @@
 +++
 title = "way to boshan"
+summary = "Listening to podcasts finally paid off when I stumbled upon Tamás Sajó, who made me realize that my old \"poems\" were just teenage angst."
 tags = ["blog", "poetry"]
 date = 2023-02-01T23:15:39+01:00
 lastmod = [":git", "lastmod", "date", "publishDate"]

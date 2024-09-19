@@ -1,10 +1,12 @@
 +++
 title = "about"
-summary = "The personal & opinionated blog of István Urbán"
+summary = "The personal & opinionated blog of István Urbán, an introvert who likes to brew coffee and play soldier - because life needs balance, right?"
 draft = false
 showDate = false
+showDateUpdated = false
 showReadingTime = false
 showEdit = false
+showPagination = false
 +++
 
 ## congratulations! :tada:

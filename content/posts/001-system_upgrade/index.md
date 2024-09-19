@@ -1,6 +1,6 @@
 +++
 title = "system upgrade"
-summary = "I decided it was time for me to upgrade to the 2021 MacBook Pro line."
+summary = "After seven years, my MacBook Pro was starting to feel slow. By switching to M1, I might actually gain speed."
 tags = ["geek", "hardware"]
 date = 2022-04-06T09:37:54+02:00
 lastmod = [":git", "lastmod", "date", "publishDate"]

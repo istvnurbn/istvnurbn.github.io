@@ -1,5 +1,6 @@
 +++
 title = "v60 is the way"
+summary = "Who knew that a cup of coffee could taste like oatmeal and weed and cost as much as a lunch?"
 tags = ["coffee"]
 date = 2022-10-19T12:40:36+02:00
 lastmod = [":git", "lastmod", "date", "publishDate"]

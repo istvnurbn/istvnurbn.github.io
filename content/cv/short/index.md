@@ -1,16 +1,19 @@
 +++
 title = "cv - short edition"
-draft = false
+summary = "The one-page version of my otherwise [long CV](/cv/tldr/) that's easy on the eyes and saves you time! And of course, you can [download it](/cv/istvan_urban_cv_clean_short.pdf) too!"
 showBreadcrumbs = false
 showDate = false
+showDateUpdated = false
 showReadingTime = false
 showEdit = false
+showPagination = false
 showTableOfContents = true
 [params]
   images = ["thumb.jpg"]
+draft = false
 +++
 
-*This page is the short version of my [detailed CV](/cv/tldr/). You can also [have it](/cv/istvan_urban_cv_clean_short.pdf) as a PDF file.*
+*The one-page version of my otherwise [long CV](/cv/tldr/) that's easy on the eyes and saves you time! And of course, you can [download it](/cv/istvan_urban_cv_clean_short.pdf) too!*
 
 ## Summary
 

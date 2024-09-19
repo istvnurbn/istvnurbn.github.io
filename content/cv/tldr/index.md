@@ -1,16 +1,19 @@
 +++
 title = "cv - tldr edition"
-draft = false
+summary = "This page is an almost exact copy of my [LinkedIn](https://www.linkedin.com/in/istvanurban/) profile. A [short version](/cv/short/) is also available, or better yet, [save it](/cv/istvan_urban_cv_clean_tldr.pdf) for later!"
 showBreadcrumbs = false
 showDate = false
+showDateUpdated = false
 showReadingTime = false
 showEdit = false
+showPagination = false
 showTableOfContents = true
 [params]
   images = ["thumb.jpg"]
+draft = false
 +++
 
-*This page is an almost exact copy of my [LinkedIn](https://www.linkedin.com/in/istvanurban/) profile. Alternatively, you can [download](/cv/istvan_urban_cv_clean_tldr.pdf) it as a PDF file. A [short version](/cv/short/) is also available.*
+*This page is an almost exact copy of my* [{{< icon "linkedin" >}} LinkedIn](https://www.linkedin.com/in/istvanurban/) *profile. A [short version](/cv/short/) is also available, or better yet, [save it](/cv/istvan_urban_cv_clean_tldr.pdf) for later!*
 
 ## Summary
 
