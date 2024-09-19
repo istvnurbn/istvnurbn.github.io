@@ -2,9 +2,11 @@
 title = "way to boshan"
 tags = ["blog", "poetry"]
 date = 2023-02-01T23:15:39+01:00
-featureAlt = "Part of Fan Zeng's Cao Cao Riding, watercolor and ink on paper scroll."
-coverCaption = "Part of Fan Zeng's Cao Cao Riding, watercolor and ink on paper scroll."
-draft = true
+lastmod = [":git", "lastmod", "date", "publishDate"]
+thumbnailAlt = "Part of Fan Zeng's Cao Cao Riding, watercolor and ink on paper scroll."
+[params]
+  images = ["thumb.jpg"]
+draft = false
 +++
 
 Being an avid podcast listener for a decade has the consequence of pushing them into the background and not paying much attention to the content. Fortunately, this time I was in an exploratory mood and came across a conversation with Tamás Sajó that triggered something.

@@ -6,6 +6,8 @@ showDate = false
 showReadingTime = false
 showEdit = false
 showTableOfContents = true
+[params]
+  images = ["thumb.jpg"]
 +++
 
 *This page is the short version of my [detailed CV](/cv/tldr/). You can also [have it](/cv/istvan_urban_cv_clean_short.pdf) as a PDF file.*

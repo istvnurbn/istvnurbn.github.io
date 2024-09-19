@@ -2,8 +2,10 @@
 title = "kotty"
 tags = ["coffee"]
 date = 2022-09-19T08:01:01+02:00
-featureAlt = "The moka pot. Its unique shape dates back to 1933, when it was invented by Alfonso Bialetti."
-coverCaption = "The moka pot. Its unique shape dates back to 1933, when it was invented by Alfonso Bialetti."
+lastmod = [":git", "lastmod", "date", "publishDate"]
+thumbnailAlt = "The moka pot. Its unique shape dates back to 1933, when it was invented by Alfonso Bialetti."
+[params]
+  images = ["thumb.jpg"]
 draft = false
 +++
 

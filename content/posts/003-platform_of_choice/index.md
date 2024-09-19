@@ -2,8 +2,10 @@
 title = "platform of choice"
 tags = ["geek", "site"]
 date = 2022-09-27T18:20:22+02:00
-featureAlt = "Part of the configuration of this site in VS Codium."
-coverCaption = "Part of the configuration of this site in VS Codium."
+lastmod = [":git", "lastmod", "date", "publishDate"]
+thumbnailAlt = "Part of the configuration of this site in VS Codium."
+[params]
+  images = ["thumb.jpg"]
 draft = false
 +++
 

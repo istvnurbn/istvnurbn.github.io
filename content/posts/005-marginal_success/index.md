@@ -2,8 +2,10 @@
 title = "marginal success"
 tags = ["blog", "personal"]
 date = 2022-11-29T09:29:25+01:00
-featureAlt = "Photo by Kenrick Mills on Unsplash."
-coverCaption = "Photo by Kenrick Mills on Unsplash."
+lastmod = [":git", "lastmod", "date", "publishDate"]
+thumbnailAlt = "Photo by Kenrick Mills on Unsplash."
+[params]
+  images = ["thumb.jpg"]
 draft = false
 +++
 

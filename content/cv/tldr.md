@@ -6,6 +6,8 @@ showDate = false
 showReadingTime = false
 showEdit = false
 showTableOfContents = true
+[params]
+  images = ["thumb.jpg"]
 +++
 
 *This page is an almost exact copy of my [LinkedIn](https://www.linkedin.com/in/istvanurban/) profile. Alternatively, you can [download](/cv/istvan_urban_cv_clean_tldr.pdf) it as a PDF file. A [short version](/cv/short/) is also available.*

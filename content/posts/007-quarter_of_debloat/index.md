@@ -2,8 +2,10 @@
 title = "quarter of debloat"
 tags = ["blog", "project"]
 date = 2023-01-13T19:36:35+01:00
-featureAlt = "Photo by Marcin Simonides on Unsplash."
-coverCaption = "Photo by Marcin Simonides on Unsplash."
+lastmod = [":git", "lastmod", "date", "publishDate"]
+thumbnailAlt = "Photo by Marcin Simonides on Unsplash."
+[params]
+  images = ["thumb.jpg"]
 draft = false
 +++
 

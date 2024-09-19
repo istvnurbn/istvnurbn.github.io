@@ -3,8 +3,10 @@ title = "system upgrade"
 summary = "I decided it was time for me to upgrade to the 2021 MacBook Pro line."
 tags = ["geek", "hardware"]
 date = 2022-04-06T09:37:54+02:00
-featureAlt = "M1 chip logo originally designed by John Siracusa."
-coverCaption = "M1 chip logo originally designed by John Siracusa."
+lastmod = [":git", "lastmod", "date", "publishDate"]
+thumbnailAlt = "M1 chip logo originally designed by John Siracusa."
+[params]
+  images = ["thumb.jpg"]
 draft = false
 +++
 

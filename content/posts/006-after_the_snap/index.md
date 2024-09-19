@@ -2,8 +2,10 @@
 title = "after the snap"
 tags = ["blog", "personal"]
 date = 2023-01-03T17:42:59+01:00
-featureAlt = "Photo by Kreative Kwame on Unsplash."
-coverCaption = "Photo by Kreative Kwame on Unsplash."
+lastmod = [":git", "lastmod", "date", "publishDate"]
+thumbnailAlt = "Photo by Kreative Kwame on Unsplash."
+[params]
+  images = ["thumb.jpg"]
 draft = false
 +++
 

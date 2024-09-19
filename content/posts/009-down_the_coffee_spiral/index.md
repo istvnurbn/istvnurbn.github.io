@@ -2,9 +2,11 @@
 title = "down the coffee spiral"
 tags = ["coffee"]
 date = 2023-05-12T08:41:39+02:00
-featureAlt = "Having a cup of coffee on my balcony."
-coverCaption = "Having a cup of coffee on my balcony."
-draft = true
+lastmod = [":git", "lastmod", "date", "publishDate"]
+thumbnailAlt = "Having a cup of coffee on my balcony."
+[params]
+  images = ["thumb.jpg"]
+draft = false
 +++
 
 I bought my first real coffee grinder in 2019 in the form of a Porlex Tall. I based my decision solely on the great video that James Hoffmann made comparing cheap hand grinders at the time. Towards the end of 2022, the taste started to get hollow.

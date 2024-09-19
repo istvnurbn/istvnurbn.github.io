@@ -8,13 +8,13 @@ defaultContentLanguage = "en"
 enableRobotsTXT = true
 
 [pagination]
-  pagerSize = 7
+pagerSize = 7
 
 summaryLength = 0
 
 [permalinks]
-  [permalinks.page]
-    posts = '/:year/:month/:title/'
+[permalinks.page]
+posts = '/:year/:month/:title/'
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+home = ["HTML", "RSS", "JSON"]

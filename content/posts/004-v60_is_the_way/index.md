@@ -2,8 +2,10 @@
 title = "v60 is the way"
 tags = ["coffee"]
 date = 2022-10-19T12:40:36+02:00
-featureAlt = "Preparing coffee with the V60."
-coverCaption = "Preparing coffee with the V60."
+lastmod = [":git", "lastmod", "date", "publishDate"]
+thumbnailAlt = "Preparing coffee with the V60."
+[params]
+  images = ["thumb.jpg"]
 draft = false
 +++
 
