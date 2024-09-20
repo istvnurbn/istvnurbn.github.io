@@ -8,8 +8,9 @@ showReadingTime = false
 showEdit = false
 showPagination = false
 showTableOfContents = true
+thumbnailAlt = "Brainstorming over paper. Photo by Scott Graham on Unsplash."
 [params]
-  images = ["thumb.jpg"]
+  images = ["thumb_cv.jpg"]
 draft = false
 +++
 

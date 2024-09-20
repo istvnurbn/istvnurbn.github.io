@@ -5,7 +5,7 @@ date = 2022-04-06T09:37:54+02:00
 lastmod = [":git", "lastmod", "date", "publishDate"]
 thumbnailAlt = "M1 chip logo originally designed by John Siracusa."
 [params]
-  images = ["thumb.jpg"]
+  images = ["thumb_001.jpg"]
 draft = false
 +++
 

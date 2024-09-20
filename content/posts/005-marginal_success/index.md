@@ -3,9 +3,9 @@ title = "marginal success"
 summary = "Turns out I'm better at dreaming up posts than actually writing them - maybe tweaking the blog itself will solve the problem."
 date = 2022-11-29T09:29:25+01:00
 lastmod = [":git", "lastmod", "date", "publishDate"]
-thumbnailAlt = "Photo by Kenrick Mills on Unsplash."
+thumbnailAlt = "Birds flying near clouds. Photo by Kenrick Mills on Unsplash."
 [params]
-  images = ["thumb.jpg"]
+  images = ["thumb_005.jpg"]
 draft = false
 +++
 

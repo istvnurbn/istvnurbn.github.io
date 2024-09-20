@@ -5,7 +5,7 @@ date = {{ .Date }}
 lastmod = [":git", "lastmod", "date", "publishDate"]
 thumbnailAlt = "The alternative text description for the thumbnail image."
 [params]
-  images = ["thumb.jpg"]
+  images = ["thumb_XXX.jpg"]
 draft = true
 +++
 

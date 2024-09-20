@@ -3,9 +3,9 @@ title = "platform of choice"
 summary = "After tinkering way too much with the backbone of my blog, I'm going to have to find new reasons not to post."
 date = 2022-09-27T18:20:22+02:00
 lastmod = [":git", "lastmod", "date", "publishDate"]
-thumbnailAlt = "Part of the configuration of this site in VS Codium."
+thumbnailAlt = "Part of the configuration of this site in Zed."
 [params]
-  images = ["thumb.jpg"]
+  images = ["thumb_003.jpg"]
 draft = false
 +++
 

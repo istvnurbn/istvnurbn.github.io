@@ -5,7 +5,7 @@ date = 2023-05-12T08:41:39+02:00
 lastmod = [":git", "lastmod", "date", "publishDate"]
 thumbnailAlt = "Having a cup of coffee on my balcony."
 [params]
-  images = ["thumb.jpg"]
+  images = ["thumb_009.jpg"]
 draft = false
 +++
 

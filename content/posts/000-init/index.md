@@ -5,7 +5,7 @@ date = 2022-02-20T19:59:31+01:00
 lastmod = [":git", "lastmod", "date", "publishDate"]
 thumbnailAlt = "Version 7 of Unix for the PDP-11, running on the SIMH PDP-11 simulator. The contents of '/etc', including configuration files, binary executables, and more."
 [params]
-  images = ["thumb.jpg"]
+  images = ["thumb_000.jpg"]
 draft = false
 +++
 

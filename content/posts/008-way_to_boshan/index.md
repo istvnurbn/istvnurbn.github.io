@@ -3,9 +3,9 @@ title = "way to boshan"
 summary = "Listening to podcasts finally paid off when I stumbled upon Tamás Sajó, who made me realize that my old \"poems\" were just teenage angst."
 date = 2023-02-01T23:15:39+01:00
 lastmod = [":git", "lastmod", "date", "publishDate"]
-thumbnailAlt = "Part of Fan Zeng's Cao Cao Riding, watercolor and ink on paper scroll."
+thumbnailAlt = "Part of Fan Zeng's Cao cao riding a horse and reciting a poem, watercolor and ink on paper scroll."
 [params]
-  images = ["thumb.jpg"]
+  images = ["thumb_008.jpg"]
 draft = false
 +++
 

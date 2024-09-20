@@ -3,9 +3,9 @@ title = "kotty"
 summary = "This is a post about what happens when you taste something you did not anticipate and decide to write about it."
 date = 2022-09-19T08:01:01+02:00
 lastmod = [":git", "lastmod", "date", "publishDate"]
-thumbnailAlt = "The moka pot. Its unique shape dates back to 1933, when it was invented by Alfonso Bialetti."
+thumbnailAlt = "Brewing like it's 1933 with a moka pot. Photo by Ashkan Forouzani on Unsplash."
 [params]
-  images = ["thumb.jpg"]
+  images = ["thumb_002.jpg"]
 draft = false
 +++
 

@@ -1,11 +1,11 @@
 +++
 title = "quarter of debloat"
-summary = "I'm not a minimalist, but my digital clutter says otherwise. With thousands of photos and too many apps, it's time for a purge!"
+summary = "I consider myself a minimalist, but my digital clutter says otherwise. With thousands of photos and too many apps, it's time for a purge!"
 date = 2023-01-13T19:36:35+01:00
 lastmod = [":git", "lastmod", "date", "publishDate"]
-thumbnailAlt = "Photo by Marcin Simonides on Unsplash."
+thumbnailAlt = "A fully laden Volga whizzes by. Photo by Marcin Simonides on Unsplash."
 [params]
-  images = ["thumb.jpg"]
+  images = ["thumb_007.jpg"]
 draft = false
 +++
 
