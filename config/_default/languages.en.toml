@@ -7,19 +7,19 @@ title = "istvn.urbn"
 copyright = "© 2022-2024 István Urbán - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
 
 [params]
-  dateFormat = "January 2, 2006"
-  description = "Personal & opinionated blog of István Urbán"
+dateFormat = "January 2, 2006"
+description = "Personal & opinionated blog of István Urbán"
 
 [params.author]
-  name = "István Urbán"
-  image = "img/profile.jpg"
-  headline = """
+name = "István Urbán"
+image = "img/profile.jpg"
+headline = """
     Hi there :wave:
     This is my internet home.
     Views and typos my own.
     """
-  links = [
+links = [
     { github = "https://www.github.com/istvnurbn" },
     { mastodon = "https://mastodon.social/@istvnurbn" },
     { pixelfed = "https://pixelfed.social/istvn.urbn" },
-  ]
+]

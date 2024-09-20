@@ -1,7 +1,6 @@
 +++
 title = "marginal success"
 summary = "Turns out I'm better at dreaming up posts than actually writing them - maybe tweaking the blog itself will solve the problem."
-tags = ["blog", "personal"]
 date = 2022-11-29T09:29:25+01:00
 lastmod = [":git", "lastmod", "date", "publishDate"]
 thumbnailAlt = "Photo by Kenrick Mills on Unsplash."
