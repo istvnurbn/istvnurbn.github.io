@@ -4,7 +4,7 @@ languageDirection = "ltr"
 weight = 1
 
 title = "istvn.urbn"
-copyright = "© 2022-2024 István Urbán - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+# copyright = "© 2022-2024 István Urbán - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
 
 [params]
 dateFormat = "January 2, 2006"
