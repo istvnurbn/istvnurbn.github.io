@@ -33,6 +33,35 @@ From the feel of it, this thing is a beast. But I wanted to be *objective*, so I
 
 The most demanding thing I do is work with large files in the Affinity suite of applications. Affinity Photo has a built-in benchmarking tool. They claim that the test performance can be translated to real-world workloads and that the results are linearly comparable (double the score means twice as fast). I omitted the Raster (multi-GPU) and Combined (multi-GPU) tests because these machines don't have multiple GPUs.
 
+<!-- prettier-ignore-start -->
+{{< chart >}}
+type: 'bar',
+data: {
+  labels: ['Vector (Single)', 'Vector (Multi)', 'Raster (Multi)', 'Raster (Single)', 'Combined (Multi)', 'Combined (Single)'],
+  datasets: [
+    {
+      label: 'Intel MacBook',
+      data: [169, 447, 120, 2373, 144, 1760],
+      backgroundColor: 'rgba(54, 162, 235, 0.2)',
+      borderColor: 'rgba(54, 162, 235)',
+      borderWidth: 1,
+      borderRadius: 3
+    },
+    {
+      label: 'M1 MacBook',
+      data: [527, 3275, 914, 16852, 944, 15843],
+      backgroundColor: 'rgba(75, 192, 192, 0.2)',
+      borderColor: 'rgb(75, 192, 192)',
+      borderWidth: 1,
+      borderRadius: 3
+    }
+  ],
+}
+{{< /chart >}}
+<!-- prettier-ignore-end -->
+
+I think it is safe to say that without a logarithmic scale, the numbers in the above graph are meaningless, so here is a table instead:
+
 |                       | **Intel MacBook** | **M1 MacBook** | **Gain** |
 |-----------------------|:-----------------:|:--------------:|:--------:|
 | Vector (Single CPU)   |               169 |            527 |    +212% |
