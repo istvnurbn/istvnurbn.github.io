@@ -11,8 +11,6 @@ enableImageLazyLoading = true
 enableImageWebp = true
 enableQuicklink = true
 
-enableGitInfo = true
-
 fingerprintAlgorithm = "sha256"
 
 [header]
