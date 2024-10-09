@@ -1,6 +1,6 @@
 +++
 title = "init"
-summary = "In the early days of broadband Internet in Hungary, I had a blog to entertain myself; now I'm back, documenting my random adventures."
+summary = "After countless years, I'm back to document my random adventures."
 tags = ["site", "blog"]
 date = 2022-02-20T19:59:31+01:00
 lastmod = [":git", "lastmod", "date", "publishDate"]

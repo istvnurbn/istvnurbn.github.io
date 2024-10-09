@@ -1,6 +1,6 @@
 +++
 title = "after the snap"
-summary = "I'm ready for a \"New Year, New Me\" - with a healthy dose of skepticism. I just have to remember to actually write something!"
+summary = "I'm ready for a \"New Year, New Me\" - with a healthy dose of skepticism."
 date = 2023-01-03T17:42:59+01:00
 tags = ["blog", "site"]
 lastmod = [":git", "lastmod", "date", "publishDate"]

@@ -1,6 +1,6 @@
 +++
 title = "platform of choice"
-summary = "After tinkering way too much with the backbone of my blog, I'm going to have to find new reasons not to post."
+summary = "AA post about admitting that I tinker with the backbone of my blog far too much."
 tags = ["site", "hugo", "geek"]
 date = 2022-09-27T18:20:22+02:00
 lastmod = [":git", "lastmod", "date", "publishDate"]
