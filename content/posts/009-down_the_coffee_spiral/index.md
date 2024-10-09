@@ -1,6 +1,6 @@
 +++
 title = "down the coffee spiral"
-summary = "How upgrading the grinder started an office coffee cult that made my co-workers think I was a barista and my manager think I was Guy Fawkes."
+summary = "GAS has made me start a cult where my colleagues think I'm a barista and my manager thinks I'm Guy Fawkes."
 tags = ["coffee"]
 date = 2023-05-12T08:41:39+02:00
 lastmod = [":git", "lastmod", "date", "publishDate"]
