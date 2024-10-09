@@ -52,7 +52,7 @@ showComments = false
 showBreadcrumbs = true
 showSummary = true
 showTableOfContents = false
-showTaxonomies = false
+showTaxonomies = true
 groupByYear = true
 paginationWidth = 1
 

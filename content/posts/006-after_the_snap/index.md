@@ -2,6 +2,7 @@
 title = "after the snap"
 summary = "I'm ready for a \"New Year, New Me\" - with a healthy dose of skepticism. I just have to remember to actually write something!"
 date = 2023-01-03T17:42:59+01:00
+tags = ["blog", "site"]
 lastmod = [":git", "lastmod", "date", "publishDate"]
 thumbnailAlt = "Snap out of it. (Mam snapping fingers) Photo by Kreative Kwame on Unsplash."
 [params]

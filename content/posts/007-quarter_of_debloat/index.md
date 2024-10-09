@@ -1,6 +1,7 @@
 +++
 title = "quarter of debloat"
 summary = "I consider myself a minimalist, but my digital clutter says otherwise. With thousands of photos and too many apps, it's time for a purge!"
+tags = ["project", "backup", "minimalism"]
 date = 2023-01-13T19:36:35+01:00
 lastmod = [":git", "lastmod", "date", "publishDate"]
 thumbnailAlt = "A fully laden Volga whizzes by. Photo by Marcin Simonides on Unsplash."

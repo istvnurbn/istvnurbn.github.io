@@ -1,6 +1,7 @@
 +++
 title = "system upgrade"
 summary = "After seven years, my MacBook Pro was starting to feel slow. By switching to M1, I might actually gain speed."
+tags = ["hardware", "mac", "geek"]
 date = 2022-04-06T09:37:54+02:00
 lastmod = [":git", "lastmod", "date", "publishDate"]
 thumbnailAlt = "M1 chip logo originally designed by John Siracusa."
