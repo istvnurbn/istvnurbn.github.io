@@ -9,7 +9,7 @@ enableRobotsTXT = true
 enableGitInfo = true
 
 [pagination]
-pagerSize = 5
+pagerSize = 7
 
 summaryLength = 0
 
