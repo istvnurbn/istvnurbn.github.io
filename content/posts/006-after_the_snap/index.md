@@ -2,7 +2,7 @@
 title = "after the snap"
 summary = "I'm ready for a \"New Year, New Me\" - with a healthy dose of skepticism."
 date = 2023-01-03T17:42:59+01:00
-tags = ["blog", "site"]
+tags = ["life", "hugo"]
 lastmod = [":git", "lastmod", "date", "publishDate"]
 thumbnailAlt = "Snap out of it. (Mam snapping fingers) Photo by Kreative Kwame on Unsplash."
 [params]
@@ -28,7 +28,7 @@ That activity will be using social media, as it is less fun than ever. Also, the
 
 For the past decade, I have been very focused on being physically fit. The changes I made to my diet towards the end of 2022 started to bring me into the shape I was looking for. However, I still need to improve on several fronts. I need to seek professional help, which will take some courage.
 
-AAll of the above means that this year will be about clearing things out, strengthening the foundation, focusing on things that matter, and embracing change that can make me better. What I have now feels like an acceptable start, but there is always room for improvement.
+All of the above means that this year will be about clearing things out, strengthening the foundation, focusing on things that matter, and embracing change that can make me better. What I have now feels like an acceptable start, but there is always room for improvement.
 
 # technical stuff :wrench:
 

@@ -1,7 +1,7 @@
 +++
 title = "init"
 summary = "After countless years, I'm back to document my random adventures."
-tags = ["site", "blog"]
+tags = ["life"]
 date = 2022-02-20T19:59:31+01:00
 lastmod = [":git", "lastmod", "date", "publishDate"]
 thumbnailAlt = "Version 7 of Unix for the PDP-11, running on the SIMH PDP-11 simulator. The contents of '/etc', including configuration files, binary executables, and more."
