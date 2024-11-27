@@ -12,7 +12,7 @@ draft = false
 
 Sometimes I feel the itch to clean up certain aspects of my life. I'm not a die-hard purist or minimalist, but this itch has become unbearable over the past few months, so I decided to do something about it. There is no better time to do so than at the beginning of a new year. So here is the list of things I want to tackle.
 
-# photos :framed_picture:
+## photos :framed_picture:
 
 My photo backup strategy prior to 2015 was rudimentary. I had a folder for each year with a subfolder for "significant" events and unsorted pictures. This was stored on the hard drive of my then Windows based laptop. As you might expect, that hard drive failed, rendering the pre-2005 photos inaccessible. Moving to a Mac in 2015 and subscribing to iCloud storage was a blessing in disguise, as this collection is one of my most valuable assets.
 
@@ -20,7 +20,7 @@ The library itself is more or less well organized. New shots are cherry-picked, 
 
 To add insult to injury, I decided to add location data to the pre-iPhone era pictures. Of the 17 thousand above, 3,753 do not have GPS data, and 401 of the 22 hundred are also missing it. Fortunately, I have HashPhotos to the rescue, and I scheduled this exercise for the bi-weekly commute to work. I'll report back on how it went, but it won't be anytime soon.
 
-# files, apps & services :floppy_disk:
+## files, apps & services :floppy_disk:
 
 Oddly enough, the external hard drive I had been using for the past few years died on me after I moved to my new computer. So documents and miscellaneous files live on my laptop or some cloud storage, which is far from optimal. This is an opportunity to consolidate this data and move as much as possible to an offline repository. It will have a better structure and take up less space. At the same time, I will achieve the goal of getting my stuff off privacy-invading services.
 

@@ -12,7 +12,7 @@ draft = false
 
 After deciding to start blogging again, my first task was to find a simple yet powerful platform.
 
-# pepperidge farm remembers :older_man:
+## pepperidge farm remembers :older_man:
 
 In prehistoric times, I hand-coded my homepage with a text editor. God, the end product looked terrible, and it wasn't fun. So I switched to a less labor-intensive publishing tool, WordPress. It had the advantage of being customizable and lightweight, yet feature-rich enough for my needs.
 
@@ -20,7 +20,7 @@ Fast forward a decade, and the standard on the web has changed dramatically. The
 
 In short, the Web is bloated.
 
-# enter hugo :mouse:
+## enter hugo :mouse:
 
 Being a minimalist and pragmatic person, I said no to all the nonsense described above. I ended up choosing a "static site generator" that checked the following boxes for me
 
@@ -40,7 +40,7 @@ The final decision was to use Hugo with the PaperMod theme. It not only met my e
 
 You might say that it lacks essential features like statistics or comments. I'm not interested in statistics and won't implement them at the expense of tracking. Enabling comments would make the experience a bit more interactive. However, I'm not comfortable with that idea right now, but that may change in the future.
 
-# verdict :hammer:
+## verdict :hammer:
 
 My recent addition of version tracking and automatic deployment via GitHub Actions required some learning and tinkering. By streamlining the workflow, I have one less excuse not to post more.
 

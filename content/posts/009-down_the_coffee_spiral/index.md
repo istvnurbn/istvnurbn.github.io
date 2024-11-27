@@ -12,7 +12,7 @@ draft = false
 
 I bought my first real coffee grinder in 2019 in the form of a Porlex Tall. I based my decision solely on the great video that James Hoffmann made comparing cheap hand grinders at the time. Towards the end of 2022, the taste started to get hollow.
 
-# gear acquisition syndrome :gear:
+## gear acquisition syndrome :gear:
 
 Speaking of that video, I started seeing more and more content related to coffee equipment, which led to the desire to buy something nice. First it was ceramic cups from Sebesi Ceramics, followed by a cutting/serving board from Vinovita.
 
@@ -22,7 +22,7 @@ Remember the part in the introduction where I mentioned that the taste became ho
 
 I A/B tested the old and new grinders with a friend of mine using the same coffee and method. We came to the conclusion that we would be happier if the difference wasn't so stark. This is not surprising as the K-MAX grinds as evenly as possible. It produces more fines than I would like, but I can take that trade-off any day of the week because the flavors are excellent. I felt the need to tell my brother about my discovery because he happens to be a food engineer. He made me realize that he had written his thesis on the importance of particle size in powder blends. So it wasn't a surprise to him. Hopefully my honeymoon with my new grinder will last longer than my memory, because I don't want to invest more in this hobby anytime soon. However, I do have some ideas about my future investments... :sweat_smile:
 
-# starting a cult :church:
+## starting a cult :church:
 
 Late last year, I took my V60 into the office to make a nice cup of coffee after lunch. These things are alien to office kitchens where automatic coffee machines are the norm. At first, everyone thought I was crazy. Months have passed since then. During these months, I received numerous questions about the coffee and the method, as the whole *séance* became an attraction. More curious colleagues asked if they could have a taste. As usual, this was the first step down a slippery slope.
 

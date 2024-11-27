@@ -10,13 +10,13 @@ thumbnailAlt = "M1 chip logo originally designed by John Siracusa."
 draft = false
 +++
 
-# prelude :scroll:
+## prelude :scroll:
 
 It was 2015 when I bought my first Apple machine in the form of a MacBook Pro and said goodbye to Windows in my personal life forever. This platform - macOS - is a good place for me to have a UNIX system. I can play around with the terminal, use as much open source software as I can, and still have the convenience that Cupertino provides.
 
 Fast forward seven years, and the honeymoon with my beloved MacBook Pro is well over. I began to notice that it was slower than it used to be. I wanted to upgrade sooner, but the loss of ports, the presence of the touch bar, and the infamous butterfly keyboard held me back. Meanwhile, Apple started moving to ARM with their M-series of chips, and with the 2021 MacBook Pro line, they have returned to the form that I like.
 
-# the upgrade :rocket:
+## the upgrade :rocket:
 
 After waiting almost four months to see the reaction from the community, I decided it was time for me to upgrade. Specifying was not easy for me as I like to overthink. In the end, I settled on a 14-inch MacBook Pro with an M1 Pro chip (10-core CPU, 16-core GPU, and 16GB RAM) and 1TB of storage. Luckily, a local retailer was having a sale and I was able to get the silver one for about $200 less than the space gray model.
 
@@ -28,7 +28,7 @@ After waiting almost four months to see the reaction from the community, I decid
 | GPU     | Intel Iris Graphics 6100                    | Apple M1 Pro (16 core)                 |
 | Storage | 256 GB                                      | 1 TB                                   |
 
-# some figures :chart_with_upwards_trend:
+## some figures :chart_with_upwards_trend:
 
 From the feel of it, this thing is a beast. But I wanted to be *objective*, so I ran 3 tests 5 times - yes, you read that correctly, FIVE times - and compared the averaged results.
 
@@ -88,6 +88,6 @@ I recently learned about [Blender Open Data](https://opendata.blender.org/about/
 
 The gains are **insane** and my old Intel based MacBook Pro has been left in the dust.
 
-# conclusion :fire:
+## conclusion :fire:
 
 I'm very happy with my purchase so far. The port selection is as good as it gets in 2022, the keyboard feels good, and the screen is phenomenal. I have no complaints about the performance. I have only had this laptop since yesterday, so I have not had time to test the battery life. I think it is a good investment, but we will see if it has the longevity of my previous one.
