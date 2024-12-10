@@ -1,4 +1,3 @@
 +++
 title = "tags"
-showPagination = false
 +++

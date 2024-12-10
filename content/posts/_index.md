@@ -1,4 +1,3 @@
 +++
 title = "posts"
-showPagination = false
 +++

@@ -1,7 +1,6 @@
 +++
 title = "cv"
 groupByYear = false
-showPagination = false
 thumbnailAlt = "Brainstorming over paper. Photo by Scott Graham on Unsplash."
 [params]
   images = ["thumb_cv.jpg"]
