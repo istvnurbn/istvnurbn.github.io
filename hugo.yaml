@@ -1,0 +1,86 @@
+baseURL: "https://istvnurbn.me/"
+title: istvn.urbn
+theme: PaperMod
+
+enableEmoji: true
+enableGitInfo: true
+
+params:
+  env: production
+  title: istvn.urbn
+  description: Personal & opinionated blog of István Urbán
+  author: István Urbán
+  images:
+    - images/cover.jpg
+  DateFormat: "January 2, 2006"
+  defaultTheme: light
+  disableThemeToggle: true
+
+  social:
+    fediverse_creator: "@istvnurbn@mastodon.social"
+
+  ShowReadingTime: true
+  ShowPostNavLinks: false
+  ShowRssButtonInSectionTermList: true
+  disableSpecial1stPost: true
+  comments: false
+
+  assets:
+    favicon: favicon.svg
+
+  label:
+    text: "istvn.urbn"
+    icon: images/icon.svg
+    iconHeight: 35
+
+  profileMode:
+    enabled: true
+    title: István Urbán
+    subtitle: |
+      Hi there :wave:
+
+      This is my internet home.
+
+      Views and typos my own.
+    imageUrl: images/profile.jpg
+    imageTitle: Yeah, that's me...
+    imageWidth: 150
+    imageHeight: 150
+
+  socialIcons:
+    - name: "github"
+      url: "https://www.github.com/istvnurbn"
+    - name: "mastodon"
+      url: "https://mastodon.social/@istvnurbn"
+    - name: "instagram"
+      url: "https://www.instagram.com/istvn_urbn/"
+
+  cover:
+    hiddenInSingle: true
+
+  editPost:
+    URL: "https://github.com/istvnurbn/istvnurbn.github.io/blob/main/content"
+    Text: "suggest changes"
+    appendFilePath: true
+
+menu:
+  main:
+    - identifier: posts
+      name: posts
+      url: /posts/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 30
+
+permalinks:
+  page:
+    posts: /:year/:month/:title/
+
+pagination:
+  pagerSize: 7
