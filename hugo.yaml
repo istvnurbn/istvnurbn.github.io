@@ -20,7 +20,7 @@ params:
     fediverse_creator: "@istvnurbn@mastodon.social"
 
   ShowReadingTime: true
-  ShowPostNavLinks: false
+  ShowPostNavLinks: true
   ShowRssButtonInSectionTermList: true
   disableSpecial1stPost: true
   comments: false
