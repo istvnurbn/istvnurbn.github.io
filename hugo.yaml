@@ -23,8 +23,13 @@ params:
     fediverse_creator: "@istvnurbn@mastodon.social"
 
   ShowReadingTime: true
+  ShowWordCount: true
+  ShowCodeCopyButtons: true
   ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowPageNums: true
   ShowRssButtonInSectionTermList: true
+  ShowFullTextinRSS: true
   disableSpecial1stPost: true
   comments: false
 
