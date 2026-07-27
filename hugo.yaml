@@ -5,6 +5,7 @@ theme: PaperMod
 enableEmoji: true
 enableGitInfo: true
 enableRobotsTXT: true
+titleCaseStyle: none
 
 params:
   env: production
