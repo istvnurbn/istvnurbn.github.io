@@ -12,6 +12,13 @@ The Hugo Framework used to create this website is under the [Apache License](htt
 
 The PaperMod theme used for the blog is under the [MIT License](https://github.com/adityatelange/hugo-PaperMod/blob/master/LICENSE).
 
+## Local development
+
+1. [Install Hugo](https://gohugo.io/getting-started/installing/) (extended edition)
+2. Clone with submodules, since the theme is vendored as one: `git clone --recurse-submodules https://github.com/istvnurbn/istvnurbn.github.io.git`
+   (already cloned without that flag? run `git submodule update --init --recursive`)
+3. `hugo server -D` and open http://localhost:1313/
+
 ## Building a similar site
 
 1. [Install Hugo](https://gohugo.io/getting-started/installing/)
