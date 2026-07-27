@@ -1,0 +1,8 @@
+/*
+archives.html builds month names via Go's time.Format("January") layout, which has no
+lowercase variant, so this is done visually rather than forking the whole template.
+*/
+
+.archive-month-header {
+    text-transform: lowercase;
+}
