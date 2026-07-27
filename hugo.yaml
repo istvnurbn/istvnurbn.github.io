@@ -2,6 +2,12 @@ baseURL: "https://istvnurbn.me/"
 title: istvn.urbn
 theme: PaperMod
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
 enableEmoji: true
 enableGitInfo: true
 enableRobotsTXT: true
@@ -89,6 +95,10 @@ menu:
       name: about
       url: /about/
       weight: 40
+    - identifier: search
+      name: search
+      url: /search/
+      weight: 50
 
 taxonomies:
   tag: tags
