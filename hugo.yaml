@@ -4,9 +4,11 @@ theme: PaperMod
 
 enableEmoji: true
 enableGitInfo: true
+enableRobotsTXT: true
 
 params:
   env: production
+  mainSections: ["posts"]
   title: istvn.urbn
   description: Personal & opinionated blog of István Urbán
   author: István Urbán
@@ -77,6 +79,9 @@ menu:
       name: about
       url: /about/
       weight: 30
+
+taxonomies:
+  tag: tags
 
 permalinks:
   page:
