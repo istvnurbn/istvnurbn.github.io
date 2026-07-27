@@ -6,16 +6,21 @@ on:
       - main # Set a branch name to trigger deployment
   workflow_dispatch: # Enable manual call of this action
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
     steps:
       - name: 🛒 Checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@v7
         with:
           submodules: recursive # Fetch Hugo theme as well
           fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
@@ -23,18 +28,32 @@ jobs:
       - name: ✨ Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: "latest"
+          hugo-version: "0.164.0"
           extended: true
 
-      - name: 🛠️ Build
-        run: hugo --minify
-
-      - name: 🚀 Deploy
-        uses: peaceiris/actions-gh-pages@v4
-        # If you're changing the branch from main,
-        # also change the `main` in `refs/heads/main`
-        # below accordingly.
-        if: ${{ github.ref == 'refs/heads/main' }}
+      - name: 📦 Cache Hugo resources
+        uses: actions/cache@v6
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          path: resources/_gen
+          key: hugo-resources-${{ hashFiles('content/**', 'static/**', 'hugo.yaml') }}
+          restore-keys: |
+            hugo-resources-
+
+      - name: 🛠️ Build
+        run: hugo --gc --minify
+
+      - name: 📤 Upload artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: ./public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: 🚀 Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
