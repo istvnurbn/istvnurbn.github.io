@@ -1,6 +1,7 @@
 ---
 title: cv - tldr edition
 description: This page is an almost exact copy of my LinkedIn profile.
+hiddenInRss: true
 showToc: true
 TocOpen: false
 cover:
@@ -9,7 +10,7 @@ cover:
   relative: true
 ---
 
-*This page is an almost exact copy of my* [LinkedIn](https://www.linkedin.com/in/istvanurban/) *profile. A [short version](/cv/short/) is also available, or better yet, [save it](/cv/istvan_urban_cv_clean_tldr.pdf) for later!*
+_This page is an almost exact copy of my_ [LinkedIn](https://www.linkedin.com/in/istvanurban/) _profile. A [short version](/cv/short/) is also available, or better yet, [save it](/cv/istvan_urban_cv_clean_tldr.pdf) for later!_
 
 ## Summary
 
@@ -24,9 +25,9 @@ I have extensive experience in corporate tax, ranging from calculation to report
 My responsibilities include SAP S/4 implementation, statutory accounting, and knowledge retention across the EMEA region, including but not limited to:
 
 - Analysing and resolving statutory compliance challenges arising from S/4 implementation while identifying opportunities for process enhancement.
--	Lead the development and implementation of the new statutory DACI (Doer, Accountable, Consulted, Informed) framework.
+- Lead the development and implementation of the new statutory DACI (Doer, Accountable, Consulted, Informed) framework.
 - Supporting statutory teams in adapting the new global chart of accounts structure to meet local regulatory and reporting requirements.
--	Conduct training sessions and assist the A2R community with local-to-IFRS equity reconciliation and periodic tax reporting.
+- Conduct training sessions and assist the A2R community with local-to-IFRS equity reconciliation and periodic tax reporting.
 
 ### Statutory & Direct Tax Senior Accountant
 
@@ -129,10 +130,10 @@ College of Szolnok (Now: University of Debrecen) (2007 -- 2011)
 
 ## Languages
 
-|               |                                                                  |
-|---------------|------------------------------------------------------------------|
-| **Hungarian** | native speaker                                                   |
-| **English**   | fluent                                                           |
+|               |                |
+| ------------- | -------------- |
+| **Hungarian** | native speaker |
+| **English**   | fluent         |
 
 ## Technical Competencies
 

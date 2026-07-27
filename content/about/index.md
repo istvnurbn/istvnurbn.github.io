@@ -1,6 +1,7 @@
 ---
 title: about
 hidemeta: true
+hiddenInRss: true
 cover:
   image: thumb_about.jpg
   alt: The one time they let me sail a boat, cc. 2018
@@ -19,4 +20,4 @@ Feel free to contact me!
 
 ---
 
-:bulb: *This blog was published under the pseudonym "Vox Scurra". Later, I decided to abandon that pseudonym and publish under my real name.*
+:bulb: _This blog was published under the pseudonym "Vox Scurra". Later, I decided to abandon that pseudonym and publish under my real name._

@@ -1,6 +1,7 @@
 ---
 title: cv - short edition
 description: The one-page version of my otherwise long CV.
+hiddenInRss: true
 showToc: true
 TocOpen: false
 cover:
@@ -9,7 +10,7 @@ cover:
   relative: true
 ---
 
-*The one-page version of my otherwise [long CV](/cv/tldr/) that's easy on the eyes and saves you time! And of course, you can [download it](/cv/istvan_urban_cv_clean_short.pdf) too!*
+_The one-page version of my otherwise [long CV](/cv/tldr/) that's easy on the eyes and saves you time! And of course, you can [download it](/cv/istvan_urban_cv_clean_short.pdf) too!_
 
 ## Summary
 
@@ -75,10 +76,10 @@ College of Szolnok (Now: University of Debrecen) (2007 -- 2011)
 
 ## Languages
 
-|               |                                                                  |
-|---------------|------------------------------------------------------------------|
-| **Hungarian** | native speaker                                                   |
-| **English**   | fluent                                                           |
+|               |                |
+| ------------- | -------------- |
+| **Hungarian** | native speaker |
+| **English**   | fluent         |
 
 ## Technical Competencies
 
