@@ -63,6 +63,20 @@ instead of .nav/#menu) since PaperMod has since renamed those.
         display: inline-block;
     }
 
+    /* visually hidden, not display:none, so keyboard users can focus and toggle it */
+    #hamburger-input {
+        display: block;
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        opacity: 0;
+    }
+
+    #hamburger-input:focus-visible~#hamburger-menu {
+        outline: 2px solid var(--primary);
+        outline-offset: 4px;
+    }
+
     #hamburger-input:checked~.menu {
         display: flex;
         flex-direction: column;
