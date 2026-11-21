@@ -4,7 +4,7 @@ Source files for the personal & opinionated blog of István Urbán
 
 ## Licensing
 
-The blog content and assets (under the folders `/content` & `/static`) are under the [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license unless othervise noted.
+The blog content and assets (under the folders `/content` & `/static`) are under the [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license unless otherwise noted.
 
 Some images are under the [Unsplash License](https://unsplash.com/license), this information is marked in the `alt` tag of the image.
 
@@ -23,5 +23,5 @@ The PaperMod theme used for the blog is under the [MIT License](https://github.c
 
 1. [Install Hugo](https://gohugo.io/getting-started/installing/)
 2. Get the [PaperMod](https://github.com/adityatelange/hugo-PaperMod)
-3. Check the `hugo.yml` file for configuration and the contents of the `/content` folder for inspiration.
+3. Check the `hugo.yaml` file for configuration and the contents of the `/content` folder for inspiration.
 4. Use GitHub Actions and GitHub Pages to publish/host your site.
