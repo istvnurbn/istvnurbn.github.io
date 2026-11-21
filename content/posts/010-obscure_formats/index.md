@@ -66,5 +66,5 @@ The most pressing issue for me, however, was to see why I was so eager to get al
 
 Looking back on the whole exercise of reconciling with my memories, I can say that it was a fun ride. I learned new things and my perspective was broadened as I made sure that I could finally watch the movie to see why I was so fond of these obscure formats. At first it felt like a burden, but it made me appreciate the journey of overcoming all the obstacles. I'm still unsure of the answer to why, but I think the following quote will be a fitting conclusion:
 
-> You know this stuff wants to be explored. Whenever we create those things I think we have to realize that'll happen and we should embrace it instead of closing off the systems.<br>
+> You know this stuff wants to be explored. Whenever we create those things I think we have to realize that'll happen and we should embrace it instead of closing off the systems.\
 > — Tristan Perich

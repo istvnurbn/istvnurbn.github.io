@@ -109,8 +109,3 @@ permalinks:
 
 pagination:
   pagerSize: 7
-
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
