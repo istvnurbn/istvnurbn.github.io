@@ -1,5 +1,6 @@
 ---
 title: from dotfiles to dendrites
+slug: from dotfiles to dendrites
 description: How I turned a simple dotfile backup into a three-week existential crisis involving functional programming.
 tags: ["mac", "linux", "nix", "geek"]
 date: '2026-04-06T21:42:52+02:00'

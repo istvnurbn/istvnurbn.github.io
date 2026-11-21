@@ -1,5 +1,6 @@
 ---
 title: down the coffee spiral
+slug: down the coffee spiral
 description: GAS has made me start a cult where my colleagues think I'm a barista and my manager thinks I'm Guy Fawkes.
 tags: ["coffee"]
 date: 2023-05-12T08:41:39+02:00

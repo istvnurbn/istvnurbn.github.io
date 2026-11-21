@@ -1,5 +1,6 @@
 ---
 title: system upgrade
+slug: system upgrade
 description: Seven years later, my MacBook Pro was starting to feel slow.
 tags: ["hardware", "mac"]
 date: 2022-04-06T09:37:54+02:00

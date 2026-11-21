@@ -1,5 +1,6 @@
 ---
 title: init
+slug: init
 description: After countless years, I'm back to document my random adventures.
 tags: ["life"]
 date: 2022-02-20T19:59:31+01:00

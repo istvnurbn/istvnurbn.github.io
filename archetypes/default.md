@@ -1,5 +1,6 @@
 ---
 title: title
+slug: title
 description: Summary goes here
 tags: ["tags", "go", "here"]
 date: '{{ .Date }}'

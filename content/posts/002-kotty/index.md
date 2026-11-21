@@ -1,5 +1,6 @@
 ---
 title: kotty
+slug: kotty
 description: A post about what happens when you taste something you did not expect and decide to write about it.
 tags: ["coffee"]
 date: 2022-09-19T08:01:01+02:00

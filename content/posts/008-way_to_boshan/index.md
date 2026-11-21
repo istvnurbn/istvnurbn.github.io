@@ -1,5 +1,6 @@
 ---
 title: way to boshan
+slug: way to boshan
 description: How Tamás Sajó made me realise that my old "poems" were just teenage angst.
 tags: ["culture"]
 date: 2023-02-01T23:15:39+01:00

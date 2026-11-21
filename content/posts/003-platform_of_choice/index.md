@@ -1,5 +1,6 @@
 ---
 title: platform of choice
+slug: platform of choice
 description: A post about admitting that I tinker with the backbone of my blog far too much.
 tags: ["hugo"]
 date: 2022-09-27T18:20:22+02:00

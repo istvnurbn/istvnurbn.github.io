@@ -1,5 +1,6 @@
 ---
 title: quarter of debloat
+slug: quarter of debloat
 description: I consider myself a minimalist, but my digital clutter says otherwise.
 tags: ["backup", "minimalism"]
 date: 2023-01-13T19:36:35+01:00

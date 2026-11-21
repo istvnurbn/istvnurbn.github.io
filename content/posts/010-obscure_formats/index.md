@@ -1,5 +1,6 @@
 ---
 title: obscure formats
+slug: obscure formats
 description: What does going to absurd lengths to watch an old DVD teach you?
 tags: ["culture", "music", "chiptune"]
 date: 2024-11-24T10:34:20+01:00

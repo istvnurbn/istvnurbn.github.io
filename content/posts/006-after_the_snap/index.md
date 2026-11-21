@@ -1,5 +1,6 @@
 ---
 title: after the snap
+slug: after the snap
 description: I'm ready for a "New Year, New Me" - with a healthy dose of skepticism.
 tags: ["life", "hugo"]
 date: 2023-01-03T17:42:59+01:00
