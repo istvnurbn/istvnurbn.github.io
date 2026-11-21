@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main # Set a branch name to trigger deployment
+  pull_request: # Build-check PRs (e.g. Dependabot bumps) before merge; no deploy
   workflow_dispatch: # Enable manual call of this action
 
 permissions:
@@ -12,7 +13,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages
+  group: pages-${{ github.ref }} # PR runs must not cancel a queued main deploy
   cancel-in-progress: false
 
 jobs:
@@ -48,6 +49,7 @@ jobs:
           path: ./public
 
   deploy:
+    if: github.event_name != 'pull_request'
     needs: build
     runs-on: ubuntu-latest
     environment:
